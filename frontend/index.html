@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PULSE — Command Center · Galleria Dallas</title>
+    <link rel="stylesheet" href="/styles/main.css">
+    <!-- Babylon.js CDN for 3D mall simulation -->
+    <script src="https://cdn.babylonjs.com/babylon.js"></script>
+    <script src="https://cdn.babylonjs.com/gui/babylon.gui.min.js"></script>
+    <script src="https://cdn.babylonjs.com/loaders/babylonjs.loaders.min.js"></script>
+    <style>
+        /* Two-column layout — overrides main.css for widescreen */
+        main.widescreen {
+            display: grid;
+            grid-template-columns: 60% 40%;
+            height: calc(100vh - 60px);
+            gap: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+
+        .column-left {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            background: #060A0F;
+        }
+
+        .column-right {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            overflow-y: auto;
+            height: 100%;
+            padding: 10px 12px;
+            background: var(--bg-primary);
+        }
+
+        /* Header layout elements */
+        .hud-metric {
+            display: flex;
+            flex-direction: column;
+            font-family: var(--font-mono);
+            font-size: 11px;
+            color: var(--text-secondary);
+            border-left: 1px solid var(--border);
+            padding-left: 15px;
+        }
+        .hud-metric-val {
+            font-family: var(--font-display);
+            font-size: 18px;
+            color: var(--accent-primary);
+            font-weight: 700;
+        }
+
+        /* Heartbeat dot animation */
+        .heartbeat-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: var(--accent-success);
+            animation: pulse-glow 2s infinite ease-in-out;
+        }
+        @keyframes pulse-glow {
+            0% { transform: scale(0.9); box-shadow: 0 0 4px var(--accent-success); }
+            50% { transform: scale(1.2); box-shadow: 0 0 14px var(--accent-success); }
+            100% { transform: scale(0.9); box-shadow: 0 0 4px var(--accent-success); }
+        }
+
+        /* Fivetran sync status grid */
+        .sync-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+            gap: 6px;
+            font-family: var(--font-mono);
+            font-size: 10px;
+        }
+        .sync-card {
+            background: var(--bg-elevated);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .sync-dot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+        }
+
+        /* Quick-trigger chips */
+        .quick-chips {
+            display: flex;
+            gap: 6px;
+            margin-top: 8px;
+        }
+        .chip {
+            background: var(--bg-panel);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-family: var(--font-display);
+            font-size: 11px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .chip:hover {
+            border-color: var(--accent-primary);
+            color: var(--text-primary);
+        }
+
+    </style>
+</head>
+<body>
+
+    <!-- Approval Banners Container -->
+    <div id="approval-banner-container"></div>
+
+    <header>
+        <div style="display: flex; align-items: center; gap: 10px;">
+            <div class="heartbeat-dot"></div>
+            <h1>PULSE</h1>
+        </div>
+        <div style="display: flex; gap: 25px;">
+            <!-- Fivetran Signal -->
+            <div style="display: flex; align-items: center; gap: 10px; padding: 0 24px; border-right: 1px solid #1E2A38; flex-shrink: 0;">
+                <div style="display: flex; flex-direction: column; gap: 4px;">
+                    <span style="font-family: var(--font-mono); font-size: 8px; color: var(--text-muted); letter-spacing: 1px;">FIVETRAN</span>
+                    <div style="display: flex; align-items: center; gap: 6px;">
+                        <div id="fivetran-signal-dot"
+                             style="width: 8px; height: 8px; border-radius: 50%; background: #2D3748; transition: background 0.5s; box-shadow: none;"></div>
+                        <span id="fivetran-signal-label"
+                              style="font-family: var(--font-mono); font-size: 9px; color: var(--text-muted); letter-spacing: 0.5px;">STANDBY</span>
+                    </div>
+                    <div style="display: flex; gap: 4px; flex-wrap: wrap; max-width: 160px;">
+                        <span id="fivetran-chip-inventory"
+                              style="font-family: var(--font-mono); font-size: 7px; color: #2D4A3E; background: #0D1F17; padding: 1px 5px; border-radius: 2px;">INVENTORY</span>
+                        <span id="fivetran-chip-loyalty"
+                              style="font-family: var(--font-mono); font-size: 7px; color: #2D4A3E; background: #0D1F17; padding: 1px 5px; border-radius: 2px;">LOYALTY</span>
+                        <span id="fivetran-chip-products"
+                              style="font-family: var(--font-mono); font-size: 7px; color: #2D4A3E; background: #0D1F17; padding: 1px 5px; border-radius: 2px;">PRODUCTS</span>
+                    </div>
+                </div>
+            </div>
+            <div class="hud-metric">
+                <span>ACTIVE CAMPAIGNS</span>
+                <span class="hud-metric-val" id="active-campaigns-count">0</span>
+            </div>
+            <div class="hud-metric">
+                <span>CAMPAIGN REVENUE</span>
+                <span class="hud-metric-val revenue-counter" id="campaign-revenue">$0</span>
+            </div>
+            <div class="hud-metric">
+                <span>REVENUE TODAY</span>
+                <span class="hud-metric-val" id="today-rev-val">$148,250</span>
+            </div>
+            <div class="hud-metric">
+                <span>MALL LOCAL TIME</span>
+                <span class="hud-metric-val" id="hud-clock">10:00:00 AM</span>
+            </div>
+        </div>
+    </header>
+
+    <main class="widescreen">
+        <!-- Left Column: BabylonJS Canvas visualizer -->
+        <div class="column-left">
+            <div id="simulation-container" style="flex: 1; position: relative;">
+                <canvas id="pulseCanvas" style="width: 100%; height: 100%; outline: none;"></canvas>
+                
+                <!-- Activate PULSE button — shown on left of canvas after simulation loads -->
+                <div id="activate-btn-container" style="display:none; position:absolute; left: 20px; top: 50%; transform: translateY(-50%); z-index: 100;">
+                  <button id="btn-activate-pulse"
+                    style="width: 72px; height: 72px; border-radius: 50%; background: #0D1117; border: 2px solid #00E5FF; color: #00E5FF; font-size: 28px; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 0.3s; box-shadow: 0 0 15px rgba(0,229,255,0.2);"
+                    onclick="activatePulse()" title="Activate PULSE">
+                    ⚡
+                  </button>
+                  <div style="text-align: center; font-family: var(--font-mono); font-size: 8px; color: #2D3748; margin-top: 4px; letter-spacing: 1px;">ACTIVATE</div>
+                </div>
+
+                <div class="sim-hud">
+                    <div>MALL STATE: SIMULATION ACTIVE</div>
+                    <div>COORDS: Galleria Dallas (32.8537° N)</div>
+                    <div id="sim-active-trigger" style="color: var(--accent-primary); font-weight: bold; margin-top: 4px;">SYSTEM STATUS: IDLE</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Column: Command center modules -->
+        <div class="column-right">
+            
+            <!-- Date & Time Selector — always visible at top of right panel -->
+            <div class="datetime-selector-panel">
+              
+              <!-- Header -->
+              <div class="dts-header">
+                <div class="dts-header-left">
+                  <div class="dts-live-dot"></div>
+                  <span class="dts-title">CAMPAIGN DATE & TIME</span>
+                </div>
+                <div class="dts-mall-id">GALLERIA DALLAS</div>
+              </div>
+
+              <!-- Main selector body -->
+              <div class="dts-body">
+                
+                <!-- Date display + picker -->
+                <div class="dts-date-block">
+                  <div class="dts-label">DATE</div>
+                  <div class="dts-date-display" id="dts-date-display" onclick="openDatePicker()">
+                    <span class="dts-date-day" id="dts-day">SAT</span>
+                    <span class="dts-date-num" id="dts-date-num">06</span>
+                    <div class="dts-date-monthyear">
+                      <span id="dts-month">JUN</span>
+                      <span id="dts-year">2026</span>
+                    </div>
+                  </div>
+                  <input type="date" 
+                         id="dts-date-input" 
+                         class="dts-hidden-input"
+                         min="2026-01-01" 
+                         max="2026-12-31" 
+                         value="2026-06-06"
+                         onchange="onDateTimeChange()">
+                </div>
+
+                <!-- Divider -->
+                <div class="dts-vdivider"></div>
+
+                <!-- Time selector -->
+                <div class="dts-time-block">
+                  <div class="dts-label">TIME</div>
+                  <div class="dts-time-display">
+                    <div class="dts-time-scroll">
+                      <button class="dts-time-arrow" onclick="changeTime(-1)">▲</button>
+                      <div class="dts-time-current" id="dts-time-display">17:30</div>
+                      <button class="dts-time-arrow" onclick="changeTime(1)">▼</button>
+                    </div>
+                    <div class="dts-time-period" id="dts-time-period">PM</div>
+                  </div>
+                  <div class="dts-time-label" id="dts-time-label">Evening Peak</div>
+                </div>
+
+                <!-- Divider -->
+                <div class="dts-vdivider"></div>
+
+                <!-- Active signals preview -->
+                <div class="dts-signals-block">
+                  <div class="dts-label">SIGNALS</div>
+                  <div class="dts-signals-list" id="dts-signals-list">
+                    <div class="dts-signal-pill weather" id="sig-weather">
+                      <span class="dts-sig-icon">🌤</span>
+                      <span class="dts-sig-text" id="sig-weather-text">84°F Hot</span>
+                    </div>
+                    <div class="dts-signal-pill season" id="sig-season">
+                      <span class="dts-sig-icon">☀</span>
+                      <span class="dts-sig-text" id="sig-season-text">Summer</span>
+                    </div>
+                    <div class="dts-signal-pill payday" id="sig-payday" style="display:none;">
+                      <span class="dts-sig-icon">💰</span>
+                      <span class="dts-sig-text">Payday</span>
+                    </div>
+                  </div>
+                  <!-- Weather API Toggle -->
+                  <div style="display:flex; align-items:center; gap:8px; margin-top:6px;">
+                    <span style="font-family:var(--font-mono); font-size:8px; color:var(--text-muted); letter-spacing:1px;">LIVE WEATHER</span>
+                    <div onclick="toggleWeatherClick()"
+                         id="weather-toggle-track"
+                         style="width:28px; height:16px; background:#2D3748; border-radius:16px; position:relative; cursor:pointer; transition:background 0.3s;">
+                      <div id="weather-toggle-knob"
+                           style="width:12px; height:12px; background:white; border-radius:50%; position:absolute; top:2px; left:2px; transition:transform 0.3s;"></div>
+                    </div>
+                    <span id="weather-toggle-label"
+                          style="font-family:var(--font-mono); font-size:8px; color:var(--text-muted);">OFF</span>
+                  </div>
+                </div>
+              </div>
+
+
+            </div>
+
+            <!-- Section 1: Agent Reasoning stream -->
+            <div class="panel" style="flex-shrink: 0; min-height: 180px; max-height: 240px;">
+                <div class="panel-header">
+                    <span>AGENT REASONING PIPELINE</span>
+                    <span id="terminal-status" style="font-family: var(--font-mono); font-size: 11px; color: var(--accent-success);">STREAM_ACTIVE</span>
+                </div>
+                <div class="terminal" style="border: none; border-radius: 0;">
+                    <div class="terminal-body" id="agent-log-stream" style="max-height: 200px; overflow-y: auto;">
+                        <div class="terminal-line orchestrator">[System] Core initialized. Awaiting live signal changes or goal inputs...</div>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Section 2: Active campaign panel -->
+            <div class="panel" id="active-campaign-panel" style="display: none; flex-shrink: 0; padding: 8px 12px;">
+                <div class="panel-header" style="padding: 6px 0; margin-bottom: 6px;">ACTIVE CAMPAIGN CREATIVES & ACCEPTANCE</div>
+                <div class="panel-body" style="padding: 0; display: flex; flex-direction: column; gap: 6px;">
+                    <div id="creatives-grid" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; overflow: visible;">
+                        <!-- Creative thumbnails will be added here -->
+                    </div>
+                    <div id="tenant-acceptance-list" style="display: none; flex-direction: column; gap: 6px;">
+                        <!-- Tenant acceptance rows will be added here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loyalty Messages Panel -->
+            <div class="panel" id="loyalty-messages-panel"
+                 style="display: none; flex-shrink: 0;
+                        padding: 6px 12px; position: relative;">
+                <div class="panel-header"
+                     style="padding: 6px 0; margin-bottom: 6px;
+                            font-size: 10px; letter-spacing: 2px;">
+                    <span style="color: #D4AF37;">■</span>
+                    CAMPAIGN MESSAGES
+                </div>
+                <div id="loyalty-messages-list"
+                     style="display: flex; flex-direction: column;
+                            gap: 4px;">
+                </div>
+            </div>
+
+            <!-- Loyalty Sending Panel -->
+            <div class="panel" id="loyalty-panel"
+                 style="flex-shrink: 0; padding: 8px 12px;">
+                <div class="panel-header"
+                     style="padding: 6px 0; margin-bottom: 6px;
+                            font-size: 10px; letter-spacing: 2px;
+                            display: flex; justify-content: space-between;
+                            align-items: center;">
+                    <span>
+                        <span style="color: #00E5FF;">■</span>
+                        LOYALTY NOTIFICATIONS
+                    </span>
+                    <span id="loyalty-status"
+                          style="font-size: 9px;
+                                 color: var(--text-muted);">
+                        STANDBY
+                    </span>
+                </div>
+                <div id="loyalty-notification-list"
+                     style="max-height: 160px; overflow-y: auto;
+                            display: flex; flex-direction: column;
+                            gap: 4px;">
+                    <div style="font-family: var(--font-mono);
+                                font-size: 10px;
+                                color: var(--text-muted);
+                                padding: 8px; text-align: center;">
+                        Awaiting campaign activation...
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </main>
+
+    <!-- Modal for Full Creative Image -->
+    <div id="creative-modal" class="creative-modal" style="display: none;"></div>
+
+    <script src="/js/simulation.js"></script>
+    <script src="/js/dashboard.js"></script>
+
+    <script>
+        // Set up live clock
+        setInterval(() => {
+            const time = new Date().toLocaleTimeString('en-US', { timeZone: 'America/Chicago' });
+            const clock = document.getElementById("hud-clock");
+            if (clock) clock.innerText = time + " (CDT)";
+        }, 1000);
+
+        function selectFocus(el) {
+          document.querySelectorAll('.focus-chip').forEach(c => c.classList.remove('active'));
+          el.classList.add('active');
+        }
+
+        function setDate(date, time) {
+          document.getElementById('sandbox-date').value = date;
+          document.getElementById('sandbox-time').value = time;
+        }
+
+        function activatePulse() {
+          const btn = document.getElementById('btn-activate-pulse');
+          btn.style.animation = 'pulse-btn 1.5s infinite ease-in-out';
+          btn.style.boxShadow = '0 0 30px rgba(0,229,255,0.5)';
+          btn.style.borderColor = '#00E5FF';
+          if (typeof startCampaignOrchestration === 'function') {
+            startCampaignOrchestration();
+          }
+        }
+
+    </script>
+
+<script>
+// ============================================
+// DATE TIME SELECTOR LOGIC
+// ============================================
+
+const TIME_SLOTS = [
+  { value: "08:00", label: "Morning Open",   period: "AM" },
+  { value: "10:00", label: "Mid Morning",    period: "AM" },
+  { value: "12:00", label: "Lunch Rush",     period: "PM" },
+  { value: "14:00", label: "Afternoon",      period: "PM" },
+  { value: "15:30", label: "School Out",     period: "PM" },
+  { value: "17:30", label: "Evening Peak",   period: "PM" },
+  { value: "18:30", label: "Dinner Hour",    period: "PM" },
+  { value: "19:30", label: "Late Evening",   period: "PM" },
+  { value: "21:00", label: "Closing Soon",   period: "PM" },
+];
+
+const MONTH_NAMES = ["JAN","FEB","MAR","APR","MAY","JUN",
+                     "JUL","AUG","SEP","OCT","NOV","DEC"];
+const DAY_NAMES   = ["SUN","MON","TUE","WED","THU","FRI","SAT"];
+
+const DALLAS_WEATHER = {
+  1:  { icon: "🌨", text: "45°F Cold" },
+  2:  { icon: "🌧", text: "50°F Cool" },
+  3:  { icon: "🌤", text: "60°F Mild" },
+  4:  { icon: "⛅", text: "68°F Warm" },
+  5:  { icon: "☀",  text: "76°F Sunny" },
+  6:  { icon: "🌤", text: "84°F Hot" },
+  7:  { icon: "☀",  text: "90°F V.Hot" },
+  8:  { icon: "☀",  text: "92°F V.Hot" },
+  9:  { icon: "🌤", text: "82°F Warm" },
+  10: { icon: "⛅", text: "68°F Cool" },
+  11: { icon: "🌧", text: "55°F Chilly" },
+  12: { icon: "🌨", text: "45°F Cold" },
+};
+
+const MICRO_SEASONS = [
+  { start: "01-01", end: "01-15", name: "New Year", icon: "🎯" },
+  { start: "02-07", end: "02-14", name: "Valentine's", icon: "💝" },
+  { start: "02-03", end: "02-09", name: "Super Bowl", icon: "🏈" },
+  { start: "03-08", end: "03-22", name: "Spring Break", icon: "🌸" },
+  { start: "03-13", end: "03-14", name: "Holi", icon: "🌈" },
+  { start: "03-14", end: "03-17", name: "St Patrick's", icon: "🍀" },
+  { start: "04-17", end: "04-20", name: "Easter", icon: "🐣" },
+  { start: "05-04", end: "05-11", name: "Mother's Day", icon: "💐" },
+  { start: "05-23", end: "05-26", name: "Memorial Day", icon: "🇺🇸" },
+  { start: "05-30", end: "06-02", name: "Eid al-Fitr", icon: "🌙" },
+  { start: "06-08", end: "06-15", name: "Father's Day", icon: "👔" },
+  { start: "06-01", end: "06-21", name: "Summer", icon: "☀" },
+  { start: "07-02", end: "07-04", name: "4th of July", icon: "🎆" },
+  { start: "08-01", end: "09-10", name: "Back to School", icon: "🎒" },
+  { start: "09-15", end: "09-30", name: "Fall Fashion", icon: "🍂" },
+  { start: "09-20", end: "10-20", name: "Diwali Season", icon: "🪔" },
+  { start: "10-15", end: "10-31", name: "Halloween", icon: "🎃" },
+  { start: "11-24", end: "11-27", name: "Thanksgiving", icon: "🦃" },
+  { start: "11-28", end: "11-30", name: "Black Friday", icon: "⚡" },
+  { start: "12-01", end: "12-24", name: "Christmas", icon: "🎄" },
+  { start: "12-14", end: "12-22", name: "Hanukkah", icon: "🕎" },
+  { start: "12-28", end: "12-31", name: "New Year's Eve", icon: "🥂" },
+];
+
+let currentTimeIndex = 5; // 17:30 default
+let selectedDate = "2026-06-06";
+
+function getActiveSeason(dateStr) {
+  const d = new Date(dateStr);
+  const month = String(d.getMonth() + 1).padStart(2, '0');
+  const day   = String(d.getDate()).padStart(2, '0');
+  const md    = `${month}-${day}`;
+  for (const ms of MICRO_SEASONS) {
+    if (md >= ms.start && md <= ms.end) return ms;
+  }
+  return null;
+}
+
+function isPayday(dateStr) {
+  const d = new Date(dateStr);
+  const dayNum = d.getDate();
+  if (dayNum === 1 || dayNum === 15) return true;
+  // Bi-weekly Friday from Jan 2 2026
+  const ref = new Date("2026-01-02");
+  const diff = Math.round((d - ref) / (1000 * 60 * 60 * 24));
+  return d.getDay() === 5 && diff % 14 === 0;
+}
+
+function updateDateDisplay(dateStr) {
+  selectedDate = dateStr;
+  const d = new Date(dateStr);
+  
+  document.getElementById('dts-day').textContent = 
+    DAY_NAMES[d.getDay()];
+  document.getElementById('dts-date-num').textContent = 
+    String(d.getDate()).padStart(2, '0');
+  document.getElementById('dts-month').textContent = 
+    MONTH_NAMES[d.getMonth()];
+  document.getElementById('dts-year').textContent = 
+    d.getFullYear();
+
+  // Update weather signal
+  const weather = DALLAS_WEATHER[d.getMonth() + 1];
+  const wEl = document.getElementById('sig-weather');
+  if (wEl) {
+    wEl.querySelector('.dts-sig-icon').textContent = weather.icon;
+    document.getElementById('sig-weather-text').textContent = weather.text;
+  }
+
+  // Update season signal
+  const season = getActiveSeason(dateStr);
+  const sEl = document.getElementById('sig-season');
+  if (sEl) {
+    if (season) {
+      sEl.style.display = 'flex';
+      sEl.querySelector('.dts-sig-icon').textContent = season.icon;
+      sEl.querySelector('.dts-sig-text').textContent = season.name;
+    } else {
+      sEl.style.display = 'none';
+    }
+  }
+
+  // Update payday signal
+  const pdEl = document.getElementById('sig-payday');
+  if (pdEl) {
+    pdEl.style.display = isPayday(dateStr) ? 'flex' : 'none';
+  }
+  
+  const hiddenInput = document.getElementById('dts-date-input');
+  if (hiddenInput) hiddenInput.value = dateStr;
+}
+
+function updateTimeDisplay() {
+  const slot = TIME_SLOTS[currentTimeIndex];
+  document.getElementById('dts-time-display').textContent = slot.value;
+  document.getElementById('dts-time-period').textContent = slot.period;
+  document.getElementById('dts-time-label').textContent = slot.label;
+  
+}
+
+function changeTime(direction) {
+  currentTimeIndex = (currentTimeIndex + direction + TIME_SLOTS.length) % TIME_SLOTS.length;
+  updateTimeDisplay();
+  
+  // Flash animation on time display
+  const el = document.getElementById('dts-time-display');
+  el.style.color = '#00E5FF';
+  el.style.borderColor = '#00E5FF';
+  setTimeout(() => {
+    el.style.color = '';
+    el.style.borderColor = '';
+  }, 300);
+}
+
+function openDatePicker() {
+  const input = document.getElementById('dts-date-input');
+  if (input) {
+    input.style.position = 'absolute';
+    input.style.opacity = '0';
+    input.style.width = '1px';
+    input.style.height = '1px';
+    input.showPicker ? input.showPicker() : input.click();
+  }
+}
+
+function onDateTimeChange() {
+  const input = document.getElementById('dts-date-input');
+  if (input && input.value) {
+    updateDateDisplay(input.value);
+  }
+}
+
+
+// Override startCampaignOrchestration to include selected date/time
+const _origStart = window.startCampaignOrchestration;
+window.startCampaignOrchestration = async function() {
+  const slot = TIME_SLOTS[currentTimeIndex];
+  const goal = `Campaign date: ${selectedDate} at ${slot.value}. ` +
+    `Run full PULSE campaign analysis for Galleria Dallas.`;
+  
+  if (typeof currentGoal !== 'undefined') {
+    window.currentGoal = goal;
+  }
+  if (_origStart) {
+    await _origStart.call(this);
+  }
+};
+
+// Initialize on load
+document.addEventListener('DOMContentLoaded', () => {
+  updateDateDisplay('2026-06-06');
+  updateTimeDisplay();
+});
+
+function playAnnouncement(audioUrl) {
+    const audio = new Audio(audioUrl);
+    audio.volume = 0.8;
+    audio.play().then(() => {
+        console.log('[PULSE] PA announcement playing');
+        const banner = document.getElementById('audio-play-banner');
+        if (banner) banner.remove();
+    }).catch(err => {
+        console.error('[PULSE] Audio play failed:', err);
+    });
+}
+
+let weatherToggleOn = false;
+
+function toggleWeatherClick() {
+    weatherToggleOn = !weatherToggleOn;
+    const track = document.getElementById('weather-toggle-track');
+    const knob  = document.getElementById('weather-toggle-knob');
+    const label = document.getElementById('weather-toggle-label');
+    if (weatherToggleOn) {
+        track.style.background   = '#00E5FF';
+        knob.style.transform     = 'translateX(12px)';
+        label.innerText          = 'LIVE';
+        label.style.color        = '#00E5FF';
+    } else {
+        track.style.background   = '#2D3748';
+        knob.style.transform     = 'translateX(0px)';
+        label.innerText          = 'OFF';
+        label.style.color        = 'var(--text-muted)';
+    }
+    toggleWeather(weatherToggleOn);
+}
+
+async function toggleWeather(enabled) {
+    const label = document.getElementById('weather-toggle-label');
+    try {
+        await fetch('/agents/weather-toggle', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({enabled: enabled})
+        });
+        if (label) {
+            label.innerText = enabled ? 'LIVE' : 'OFF';
+            label.style.color = enabled ? '#00E5FF' : 'var(--text-muted)';
+        }
+        console.log('[PULSE] Weather toggle:', enabled ? 'LIVE API' : 'ESTIMATE');
+    } catch(e) {
+        console.error('[PULSE] Weather toggle failed:', e);
+    }
+}
+</script>
+
+</body>
+</html>

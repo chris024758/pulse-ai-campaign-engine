@@ -1,0 +1,908 @@
+[
+  {
+    "id": "S01",
+    "name": "Maison Varlo",
+    "category": "FASHION",
+    "zone_id": "Z2",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": -48,
+      "z": -25
+    },
+    "size": {
+      "w": 18,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@maisonvarlo-galleria.com",
+    "contact_whatsapp": "+12145550101",
+    "avg_daily_revenue": 8400,
+    "brand_tone": "editorial, slightly aloof, trend-forward. Campaigns speak to the fashion-conscious shopper who notices details. Never talks about price. 'The new season is already here.'",
+    "visual_direction": "stark whites, deep blacks, architectural poses. Minimal copy. Strong silhouettes. Runway energy on a high street budget.",
+    "campaign_tags": [
+      "fashion",
+      "womens",
+      "trending",
+      "new arrivals",
+      "editorial",
+      "seasonal"
+    ],
+    "brand_colors": {
+      "primary": "#0A0A0A",
+      "secondary": "#FFFFFF"
+    },
+    "brand_initials": "MV"
+  },
+  {
+    "id": "S02",
+    "name": "Nordvik",
+    "category": "FASHION",
+    "zone_id": "Z2",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": -28,
+      "z": -25
+    },
+    "size": {
+      "w": 18,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@nordvik-galleria.com",
+    "contact_whatsapp": "+12145550102",
+    "avg_daily_revenue": 7100,
+    "brand_tone": "inclusive, cheerful, accessible. Campaigns celebrate everyday style for everyone. Warm and unpretentious. 'Style is for everyone.'",
+    "visual_direction": "clean Scandinavian whites and blues. Bright and airy. Diverse representation. Lifestyle over runway.",
+    "campaign_tags": [
+      "fashion",
+      "mens",
+      "womens",
+      "kids",
+      "accessible",
+      "basics",
+      "value"
+    ],
+    "brand_colors": {
+      "primary": "#1E40AF",
+      "secondary": "#E0E7FF"
+    },
+    "brand_initials": "NK"
+  },
+  {
+    "id": "S03",
+    "name": "Common Thread",
+    "category": "FASHION",
+    "zone_id": "Z2",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": -8,
+      "z": -25
+    },
+    "size": {
+      "w": 14,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@commonthread-galleria.com",
+    "contact_whatsapp": "+12145550103",
+    "avg_daily_revenue": 4500,
+    "brand_tone": "comfortable, everyday, classic. Campaigns focus on simplicity and comfort for the whole family. 'Everyday classics for everyone.'",
+    "visual_direction": "soft blue denims, warm light, relaxed family settings. Clean and approachable.",
+    "campaign_tags": [
+      "denim",
+      "classics",
+      "family",
+      "everyday",
+      "basics"
+    ],
+    "brand_colors": {
+      "primary": "#333333",
+      "secondary": "#CCCCCC"
+    },
+    "brand_initials": "CT"
+  },
+  {
+    "id": "S04",
+    "name": "Vertex Athletics",
+    "category": "SPORTING",
+    "zone_id": "Z3",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": 8,
+      "z": -25
+    },
+    "size": {
+      "w": 14,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@vertexathletics-galleria.com",
+    "contact_whatsapp": "+12145550104",
+    "avg_daily_revenue": 9800,
+    "brand_tone": "bold, champion-mindset, aspirational. Campaigns push. They challenge. They believe in the shopper. 'The next level starts here.'",
+    "visual_direction": "high contrast, dramatic lighting, powerful poses. Black and electric accents. Victory energy. Stadium scale shrunk to retail.",
+    "campaign_tags": [
+      "athletic",
+      "performance",
+      "running",
+      "basketball",
+      "training",
+      "premium sport"
+    ],
+    "brand_colors": {
+      "primary": "#0A0A0A",
+      "secondary": "#FF4500"
+    },
+    "brand_initials": "VA"
+  },
+  {
+    "id": "S05",
+    "name": "Stridecore",
+    "category": "SPORTING",
+    "zone_id": "Z3",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": 28,
+      "z": -25
+    },
+    "size": {
+      "w": 18,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@stridecore-galleria.com",
+    "contact_whatsapp": "+12145550105",
+    "avg_daily_revenue": 6300,
+    "brand_tone": "performance-driven, aspirational but attainable. Campaigns connect sport to identity. 'Move with purpose.'",
+    "visual_direction": "clean whites, bold blacks, electric accent colors. Motion blur, kinetic energy, athlete-in-motion imagery.",
+    "campaign_tags": [
+      "athletic",
+      "running",
+      "training",
+      "streetwear",
+      "performance",
+      "sport"
+    ],
+    "brand_colors": {
+      "primary": "#111111",
+      "secondary": "#00E5FF"
+    },
+    "brand_initials": "SC"
+  },
+  {
+    "id": "S06",
+    "name": "Lumi\u00e8re Beauty",
+    "category": "BEAUTY",
+    "zone_id": "Z2",
+    "floor": 1,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": -48,
+      "z": -5
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@lumierebeauty-galleria.com",
+    "contact_whatsapp": "+12145550106",
+    "avg_daily_revenue": 7900,
+    "brand_tone": "empowering, luxurious but democratic, celebrates every kind of beauty. Campaigns feel like permission to indulge. 'Beauty without rules.'",
+    "visual_direction": "rich jewel tones, golden lighting, close-up textures. Skin, lips, eyes \u2014 intimate and celebratory. Inclusive casting always.",
+    "campaign_tags": [
+      "beauty",
+      "makeup",
+      "skincare",
+      "fragrance",
+      "gifting",
+      "premium",
+      "self-care"
+    ],
+    "brand_colors": {
+      "primary": "#581C87",
+      "secondary": "#D4AF37"
+    },
+    "brand_initials": "LB"
+  },
+  {
+    "id": "S07",
+    "name": "Apex Tech",
+    "category": "ELECTRONICS",
+    "zone_id": "Z3",
+    "floor": 1,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": 48,
+      "z": -5
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@apextech-galleria.com",
+    "contact_whatsapp": "+12145550107",
+    "avg_daily_revenue": 18400,
+    "brand_tone": "calm confidence, premium, minimalist. Campaigns let the product speak. Copy is almost absent \u2014 imagery does the work. 'Designed differently.'",
+    "visual_direction": "pure white backgrounds, single product hero, dramatic shadow. Clean sans-serif. Premium unboxing aesthetic.",
+    "campaign_tags": [
+      "premium",
+      "tech",
+      "phones",
+      "laptops",
+      "audio",
+      "gift",
+      "premium experience"
+    ],
+    "brand_colors": {
+      "primary": "#FAFAFA",
+      "secondary": "#A1A1AA"
+    },
+    "brand_initials": "AT"
+  },
+  {
+    "id": "S08",
+    "name": "PaceStep",
+    "category": "SPORTING",
+    "zone_id": "Z4",
+    "floor": 1,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": -42,
+      "z": 25
+    },
+    "size": {
+      "w": 16,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@pacestep-galleria.com",
+    "contact_whatsapp": "+12145550108",
+    "avg_daily_revenue": 5600,
+    "brand_tone": "street-credible, sneaker-culture, community-rooted. Campaigns talk to the sneakerhead and the weekend athlete equally. 'Fresh kicks. Real culture.'",
+    "visual_direction": "urban textures, sneaker close-ups, concrete and color. Street photography feel. Bold but not aggressive.",
+    "campaign_tags": [
+      "sneakers",
+      "streetwear",
+      "sport",
+      "culture",
+      "limited edition",
+      "footwear"
+    ],
+    "brand_colors": {
+      "primary": "#292524",
+      "secondary": "#22C55E"
+    },
+    "brand_initials": "PS"
+  },
+  {
+    "id": "S09",
+    "name": "PixelVault",
+    "category": "ENTERTAINMENT",
+    "zone_id": "Z4",
+    "floor": 1,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": -14,
+      "z": 30
+    },
+    "size": {
+      "w": 14,
+      "d": 10
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@pixelvault-galleria.com",
+    "contact_whatsapp": "+12145550109",
+    "avg_daily_revenue": 3100,
+    "brand_tone": "community-first, passionate, insider. Campaigns speak gamer-to-gamer, never corporate. 'Your next obsession is inside.'",
+    "visual_direction": "dark backgrounds, neon accent lighting, game artwork aesthetic. High energy. Controller and screen imagery.",
+    "campaign_tags": [
+      "gaming",
+      "entertainment",
+      "community",
+      "tech",
+      "culture",
+      "teen",
+      "male-skew"
+    ],
+    "brand_colors": {
+      "primary": "#1E1B4B",
+      "secondary": "#22D3EE"
+    },
+    "brand_initials": "PV"
+  },
+  {
+    "id": "S10",
+    "name": "Levi & Co",
+    "category": "FASHION",
+    "zone_id": "Z4",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": -28,
+      "z": 30
+    },
+    "size": {
+      "w": 14,
+      "d": 10
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@leviandco-galleria.com",
+    "contact_whatsapp": "+12145550110",
+    "avg_daily_revenue": 3900,
+    "brand_tone": "authentic, heritage, timeless. Campaigns feel lived-in and real. Never try-hard. 'Built to last. Worn to live.'",
+    "visual_direction": "indigo denim textures, faded americana, warm natural light. Candid lifestyle photography feel. Worn-in authenticity.",
+    "campaign_tags": [
+      "denim",
+      "casual",
+      "heritage",
+      "unisex",
+      "basics",
+      "americana"
+    ],
+    "brand_colors": {
+      "primary": "#1E3A5F",
+      "secondary": "#C2956B"
+    },
+    "brand_initials": "LC"
+  },
+  {
+    "id": "S11",
+    "name": "Sol\u00e8ne",
+    "category": "FASHION",
+    "zone_id": "Z4",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": 14,
+      "z": 30
+    },
+    "size": {
+      "w": 14,
+      "d": 10
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@solene-galleria.com",
+    "contact_whatsapp": "+12145550111",
+    "avg_daily_revenue": 4200,
+    "brand_tone": "sophisticated, Mediterranean warmth, feminine confidence. Campaigns feel like a holiday. 'Effortless. Always.'",
+    "visual_direction": "warm sand tones, terracotta, Mediterranean light. Flowy fabrics, golden hour, confident women. Vacation energy year-round.",
+    "campaign_tags": [
+      "womens",
+      "Mediterranean",
+      "sophisticated",
+      "occasion wear",
+      "resort"
+    ],
+    "brand_colors": {
+      "primary": "#C2956B",
+      "secondary": "#8B4513"
+    },
+    "brand_initials": "SL"
+  },
+  {
+    "id": "S12",
+    "name": "Arca",
+    "category": "FASHION",
+    "zone_id": "Z4",
+    "floor": 1,
+    "pos_system": "SHOPIFY",
+    "fivetran_connector_id": "undertow_dehydrate",
+    "position": {
+      "x": 38,
+      "z": 25
+    },
+    "size": {
+      "w": 18,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@arca-galleria.com",
+    "contact_whatsapp": "+12145550112",
+    "avg_daily_revenue": 5100,
+    "brand_tone": "quiet, functional, thoughtful. The anti-fast-fashion fashion brand. Campaigns are calm and confident in their restraint. 'Less. Better.'",
+    "visual_direction": "neutral tones, clean architecture, fabric close-ups. Negative space is a design element. Nothing loud. Everything intentional.",
+    "campaign_tags": [
+      "basics",
+      "minimalist",
+      "quality",
+      "unisex",
+      "essentials",
+      "thoughtful"
+    ],
+    "brand_colors": {
+      "primary": "#78716C",
+      "secondary": "#F5F5F4"
+    },
+    "brand_initials": "AR"
+  },
+  {
+    "id": "S13",
+    "name": "Circuit World",
+    "category": "ELECTRONICS",
+    "zone_id": "Z5",
+    "floor": 2,
+    "pos_system": "LIGHTSPEED",
+    "fivetran_connector_id": "benefice_desires",
+    "position": {
+      "x": -42,
+      "z": -35
+    },
+    "size": {
+      "w": 20,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@circuitworld-galleria.com",
+    "contact_whatsapp": "+12145550113",
+    "avg_daily_revenue": 12100,
+    "brand_tone": "knowledgeable, helpful, not intimidating. Campaigns position the brand as the expert friend who helps you decide. 'We know tech. So you don't have to stress.'",
+    "visual_direction": "deep blues and yellows. Clean product grids. Comparison-friendly layouts. Information-rich but not cluttered.",
+    "campaign_tags": [
+      "electronics",
+      "appliances",
+      "gaming",
+      "cameras",
+      "helpful",
+      "expert",
+      "gifts"
+    ],
+    "brand_colors": {
+      "primary": "#1E3A8A",
+      "secondary": "#EAB308"
+    },
+    "brand_initials": "CW"
+  },
+  {
+    "id": "S14",
+    "name": "Glassline",
+    "category": "ELECTRONICS",
+    "zone_id": "Z5",
+    "floor": 2,
+    "pos_system": "LIGHTSPEED",
+    "fivetran_connector_id": "benefice_desires",
+    "position": {
+      "x": -14,
+      "z": -35
+    },
+    "size": {
+      "w": 18,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@glassline-galleria.com",
+    "contact_whatsapp": "+12145550114",
+    "avg_daily_revenue": 8700,
+    "brand_tone": "innovative, sleek, ambitious. Campaigns feel like the future arriving now. 'What's next is already here.'",
+    "visual_direction": "midnight blacks, vivid display colors, glass and light. Product lifestyle shots. Premium but more accessible than Apex Tech.",
+    "campaign_tags": [
+      "phones",
+      "TVs",
+      "displays",
+      "innovation",
+      "premium",
+      "tech lifestyle"
+    ],
+    "brand_colors": {
+      "primary": "#0F172A",
+      "secondary": "#818CF8"
+    },
+    "brand_initials": "GL"
+  },
+  {
+    "id": "S15",
+    "name": "Aero Home",
+    "category": "ELECTRONICS",
+    "zone_id": "Z6",
+    "floor": 2,
+    "pos_system": "LIGHTSPEED",
+    "fivetran_connector_id": "benefice_desires",
+    "position": {
+      "x": 8,
+      "z": -35
+    },
+    "size": {
+      "w": 14,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@aerohome-galleria.com",
+    "contact_whatsapp": "+12145550115",
+    "avg_daily_revenue": 4300,
+    "brand_tone": "intelligent design, problem-solving, premium utility. Campaigns feel like an invention reveal. 'Engineering that changes how you live.'",
+    "visual_direction": "whites, silvers, cyclone and airflow motion graphics. Cross-section product reveals. Clean home environments. Aspirational domestic.",
+    "campaign_tags": [
+      "home appliances",
+      "premium",
+      "gifting",
+      "engineering",
+      "design",
+      "innovation"
+    ],
+    "brand_colors": {
+      "primary": "#E5E7EB",
+      "secondary": "#6B7280"
+    },
+    "brand_initials": "AH"
+  },
+  {
+    "id": "S16",
+    "name": "Celeste Jewels",
+    "category": "JEWELRY",
+    "zone_id": "Z6",
+    "floor": 2,
+    "pos_system": "LIGHTSPEED",
+    "fivetran_connector_id": "benefice_desires",
+    "position": {
+      "x": 28,
+      "z": -35
+    },
+    "size": {
+      "w": 14,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@celestejewels-galleria.com",
+    "contact_whatsapp": "+12145550116",
+    "avg_daily_revenue": 5200,
+    "brand_tone": "personal, collectible, celebratory. Campaigns focus on self-expression and building a story over time. 'Every charm, a chapter.'",
+    "visual_direction": "rose golds, soft pinks, charm close-ups. Stacking and layering aesthetic. Personal and feminine.",
+    "campaign_tags": [
+      "jewelry",
+      "charms",
+      "personal",
+      "gifting",
+      "feminine",
+      "collectible",
+      "self-expression"
+    ],
+    "brand_colors": {
+      "primary": "#BE185D",
+      "secondary": "#FBCFE8"
+    },
+    "brand_initials": "CJ"
+  },
+  {
+    "id": "S17",
+    "name": "Aurel",
+    "category": "JEWELRY",
+    "zone_id": "Z6",
+    "floor": 2,
+    "pos_system": "LIGHTSPEED",
+    "fivetran_connector_id": "benefice_desires",
+    "position": {
+      "x": 46,
+      "z": -35
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@aurel-galleria.com",
+    "contact_whatsapp": "+12145550117",
+    "avg_daily_revenue": 6700,
+    "brand_tone": "romantic, milestone-focused, emotional. Campaigns are about the moment, not the product. 'The gift that becomes a memory.'",
+    "visual_direction": "soft bokeh, warm light, couples and families. Emotional storytelling. Product is secondary to the feeling.",
+    "campaign_tags": [
+      "jewelry",
+      "gifting",
+      "engagement",
+      "anniversary",
+      "milestone",
+      "romantic",
+      "luxury-lite"
+    ],
+    "brand_colors": {
+      "primary": "#78350F",
+      "secondary": "#D4AF37"
+    },
+    "brand_initials": "AU"
+  },
+  {
+    "id": "S18",
+    "name": "Atelier M",
+    "category": "BEAUTY",
+    "zone_id": "Z5",
+    "floor": 2,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": -52,
+      "z": -5
+    },
+    "size": {
+      "w": 14,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@atelierm-galleria.com",
+    "contact_whatsapp": "+12145550118",
+    "avg_daily_revenue": 4100,
+    "brand_tone": "bold, artistic, unapologetic. Campaigns celebrate self-expression as art. 'Wear your mood.'",
+    "visual_direction": "dramatic blacks and vivid color pops. High-contrast editorial beauty. Avant-garde but wearable.",
+    "campaign_tags": [
+      "makeup",
+      "bold",
+      "artistic",
+      "professional",
+      "colour",
+      "self-expression"
+    ],
+    "brand_colors": {
+      "primary": "#0A0A0A",
+      "secondary": "#E11D48"
+    },
+    "brand_initials": "AM"
+  },
+  {
+    "id": "S19",
+    "name": "Verdure",
+    "category": "BEAUTY",
+    "zone_id": "Z6",
+    "floor": 2,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": 52,
+      "z": -5
+    },
+    "size": {
+      "w": 14,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@verdure-galleria.com",
+    "contact_whatsapp": "+12145550119",
+    "avg_daily_revenue": 3200,
+    "brand_tone": "ethical, sensory, earthy joyful. Campaigns feel handmade and personal. 'Good for you. Good for everything.'",
+    "visual_direction": "rich ingredient photography \u2014 fruits, botanicals, clays. Vivid natural colors. Artisan textures. Warm and lush.",
+    "campaign_tags": [
+      "bath",
+      "skincare",
+      "ethical",
+      "natural",
+      "gifting",
+      "sensory",
+      "vegan"
+    ],
+    "brand_colors": {
+      "primary": "#166534",
+      "secondary": "#A3E635"
+    },
+    "brand_initials": "VD"
+  },
+  {
+    "id": "S20",
+    "name": "Karat & Co",
+    "category": "JEWELRY",
+    "zone_id": "Z5",
+    "floor": 2,
+    "pos_system": "LIGHTSPEED",
+    "fivetran_connector_id": "benefice_desires",
+    "position": {
+      "x": -52,
+      "z": 12
+    },
+    "size": {
+      "w": 14,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@karatandco-galleria.com",
+    "contact_whatsapp": "+12145550120",
+    "avg_daily_revenue": 4800,
+    "brand_tone": "trustworthy, accessible luxury, no-pressure. Campaigns feel honest and warm without being flashy. 'Real gold. Real moments. Real price.'",
+    "visual_direction": "clean whites and golds. Product clarity. No lifestyle fluff \u2014 the jewelry is the hero. Clean and credible.",
+    "campaign_tags": [
+      "jewelry",
+      "accessible",
+      "gifting",
+      "wedding",
+      "value",
+      "trustworthy"
+    ],
+    "brand_colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#D4AF37"
+    },
+    "brand_initials": "KC"
+  },
+  {
+    "id": "S21",
+    "name": "Bloom & Co",
+    "category": "BEAUTY",
+    "zone_id": "Z6",
+    "floor": 2,
+    "pos_system": "SQUARE",
+    "fivetran_connector_id": "negotiating_scone",
+    "position": {
+      "x": 52,
+      "z": 12
+    },
+    "size": {
+      "w": 14,
+      "d": 12
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@bloomandco-galleria.com",
+    "contact_whatsapp": "+12145550121",
+    "avg_daily_revenue": 3800,
+    "brand_tone": "warm, seasonal, nostalgic, comforting. Campaigns lean hard into seasons and moments. The most micro-season-responsive brand in the mall. 'Your home. Your mood. Your season.'",
+    "visual_direction": "warm pastels, seasonal motifs, candle glow, cozy home environments. Highly seasonal creative.",
+    "campaign_tags": [
+      "candles",
+      "body care",
+      "home fragrance",
+      "seasonal",
+      "gifting",
+      "comfort"
+    ],
+    "brand_colors": {
+      "primary": "#F9A8D4",
+      "secondary": "#FDE68A"
+    },
+    "brand_initials": "BC2"
+  },
+  {
+    "id": "S22",
+    "name": "Brewpoint Coffee",
+    "category": "FB",
+    "zone_id": "Z7",
+    "floor": 2,
+    "pos_system": "TOAST",
+    "fivetran_connector_id": "warning_businesses",
+    "position": {
+      "x": -36,
+      "z": 20
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@brewpointcoffee-galleria.com",
+    "contact_whatsapp": "+12145550122",
+    "avg_daily_revenue": 6800,
+    "brand_tone": "warm, unhurried, artisanal. Campaigns should feel like a reward, a pause in the day. Language is gentle and indulgent. 'You've earned this moment.' Never loud, never urgent.",
+    "visual_direction": "deep espresso browns, cream whites, soft steam. Warm lighting. Cozy textures. Morning light aesthetic even in the afternoon.",
+    "campaign_tags": [
+      "hot drinks",
+      "coffee",
+      "pastries",
+      "comfort",
+      "morning",
+      "payday treat"
+    ],
+    "brand_colors": {
+      "primary": "#4A2C1A",
+      "secondary": "#D4A574"
+    },
+    "brand_initials": "BC"
+  },
+  {
+    "id": "S23",
+    "name": "Golden Fork",
+    "category": "FB",
+    "zone_id": "Z7",
+    "floor": 2,
+    "pos_system": "TOAST",
+    "fivetran_connector_id": "warning_businesses",
+    "position": {
+      "x": -14,
+      "z": 20
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@goldenfork-galleria.com",
+    "contact_whatsapp": "+12145550123",
+    "avg_daily_revenue": 9200,
+    "brand_tone": "energetic, democratic, fast. Campaigns are punchy and direct. No poetry \u2014 just clear value and speed. 'Hot. Fast. Here.'",
+    "visual_direction": "bold yellows and warm reds. High contrast. Big typography. Food-forward imagery, steam and sizzle.",
+    "campaign_tags": [
+      "quick service",
+      "burgers",
+      "family",
+      "value",
+      "fast",
+      "kids"
+    ],
+    "brand_colors": {
+      "primary": "#DC2626",
+      "secondary": "#FACC15"
+    },
+    "brand_initials": "GF"
+  },
+  {
+    "id": "S24",
+    "name": "Mesa Grill",
+    "category": "FB",
+    "zone_id": "Z7",
+    "floor": 2,
+    "pos_system": "TOAST",
+    "fivetran_connector_id": "warning_businesses",
+    "position": {
+      "x": 10,
+      "z": 20
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@mesagrill-galleria.com",
+    "contact_whatsapp": "+12145550124",
+    "avg_daily_revenue": 5400,
+    "brand_tone": "confident, fresh, slightly rebellious. Anti-corporate feel despite being a chain. Campaigns lean into freshness and customization. 'Built your way.'",
+    "visual_direction": "terracotta, olive green, natural textures. Earthy and vibrant simultaneously. Hand-drawn aesthetic elements.",
+    "campaign_tags": [
+      "mexican",
+      "bowls",
+      "fresh",
+      "customizable",
+      "lunch",
+      "millennial"
+    ],
+    "brand_colors": {
+      "primary": "#92400E",
+      "secondary": "#65A30D"
+    },
+    "brand_initials": "MG"
+  },
+  {
+    "id": "S25",
+    "name": "Lotus Kitchen",
+    "category": "FB",
+    "zone_id": "Z7",
+    "floor": 2,
+    "pos_system": "TOAST",
+    "fivetran_connector_id": "warning_businesses",
+    "position": {
+      "x": 32,
+      "z": 20
+    },
+    "size": {
+      "w": 16,
+      "d": 14
+    },
+    "campaign_opt_in": true,
+    "contact_email": "manager@lotuskitchen-galleria.com",
+    "contact_whatsapp": "+12145550125",
+    "avg_daily_revenue": 4900,
+    "brand_tone": "inviting, communal, celebratory. Leans into family and sharing. Campaigns feel festive and generous. 'Share something good.'",
+    "visual_direction": "rich reds, gold accents, clean modern Asian aesthetic. Warm but polished. Food imagery is abundant and generous-looking.",
+    "campaign_tags": [
+      "asian",
+      "family",
+      "sharing",
+      "rice",
+      "noodles",
+      "festive"
+    ],
+    "brand_colors": {
+      "primary": "#B91C1C",
+      "secondary": "#D4A017"
+    },
+    "brand_initials": "LK"
+  }
+]

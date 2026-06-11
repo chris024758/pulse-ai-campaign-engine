@@ -1,0 +1,301 @@
+tenant_id,store_name,covers,revenue,items_ordered,timestamp,zone
+brewpoint_coffee,Brewpoint Coffee,1,9.48,"Cafe Latte, Caramel Macchiato, Croissant",2026-05-24 15:42:38,food_court
+lotus_kitchen,Lotus Kitchen,4,61.27,Fried Rice,2026-05-20 13:15:49,food_court
+golden_fork,Golden Fork,3,50.47,Big Mac Meal,2026-05-30 19:28:09,food_court
+brewpoint_coffee,Brewpoint Coffee,4,43.59,"Cold Brew, Caramel Macchiato",2026-05-10 10:23:53,food_court
+brewpoint_coffee,Brewpoint Coffee,4,71.93,Caramel Macchiato,2026-05-28 13:40:54,food_court
+brewpoint_coffee,Brewpoint Coffee,3,45.93,"Croissant, Cafe Latte, Caramel Macchiato",2026-05-13 15:15:07,food_court
+golden_fork,Golden Fork,3,31.64,"Apple Pie, Fries",2026-05-18 11:42:14,food_court
+lotus_kitchen,Lotus Kitchen,4,45.1,"Beijing Beef, Fried Rice, Chow Mein",2026-05-07 13:40:16,food_court
+lotus_kitchen,Lotus Kitchen,2,24.89,"Chow Mein, Fried Rice",2026-05-12 15:07:33,food_court
+lotus_kitchen,Lotus Kitchen,2,29.57,"Chow Mein, Beijing Beef, Orange Chicken",2026-05-05 12:31:13,food_court
+brewpoint_coffee,Brewpoint Coffee,1,11.5,"Cold Brew, Cafe Latte, Cake Pop",2026-05-21 08:32:52,food_court
+golden_fork,Golden Fork,4,35.14,"Fries, Nuggets, Big Mac Meal",2026-05-12 07:53:11,food_court
+golden_fork,Golden Fork,1,10.04,Nuggets,2026-05-31 08:22:21,food_court
+golden_fork,Golden Fork,1,16.46,"McChicken, Big Mac Meal",2026-05-18 08:39:00,food_court
+mesa_grill,Mesa Grill,4,65.32,Tacos Trio,2026-05-31 07:32:46,food_court
+brewpoint_coffee,Brewpoint Coffee,3,33.18,"Croissant, Cake Pop",2026-05-07 13:48:27,food_court
+mesa_grill,Mesa Grill,1,12.87,"Chips & Guac, Agua Fresca, Quesadilla",2026-05-27 19:48:09,food_court
+golden_fork,Golden Fork,2,21.23,"Big Mac Meal, Nuggets, McChicken",2026-05-23 12:54:06,food_court
+brewpoint_coffee,Brewpoint Coffee,3,35.5,"Cafe Latte, Cake Pop",2026-05-12 17:57:58,food_court
+brewpoint_coffee,Brewpoint Coffee,3,49.18,Cake Pop,2026-05-05 16:58:01,food_court
+golden_fork,Golden Fork,1,17.82,"Big Mac Meal, Fries",2026-05-31 12:08:06,food_court
+mesa_grill,Mesa Grill,2,35.8,"Quesadilla, Tacos Trio, Chips & Guac",2026-05-17 20:16:52,food_court
+brewpoint_coffee,Brewpoint Coffee,1,9.64,Croissant,2026-05-26 08:41:22,food_court
+mesa_grill,Mesa Grill,4,36.28,Burrito Bowl,2026-05-09 14:04:33,food_court
+brewpoint_coffee,Brewpoint Coffee,4,43.37,"Croissant, Cake Pop",2026-05-15 19:13:16,food_court
+brewpoint_coffee,Brewpoint Coffee,4,36.8,"Cafe Latte, Cake Pop",2026-05-09 10:32:31,food_court
+lotus_kitchen,Lotus Kitchen,2,29.44,"Beijing Beef, Spring Roll",2026-05-13 18:14:16,food_court
+brewpoint_coffee,Brewpoint Coffee,3,34.98,"Cafe Latte, Cake Pop, Cold Brew",2026-05-07 13:51:47,food_court
+brewpoint_coffee,Brewpoint Coffee,2,19.18,"Cold Brew, Caramel Macchiato",2026-05-06 12:40:25,food_court
+mesa_grill,Mesa Grill,2,24.4,"Burrito Bowl, Tacos Trio, Chips & Guac",2026-05-03 15:49:51,food_court
+brewpoint_coffee,Brewpoint Coffee,4,46.35,"Cake Pop, Croissant",2026-05-16 12:01:12,food_court
+mesa_grill,Mesa Grill,2,23.47,Agua Fresca,2026-05-29 12:59:10,food_court
+brewpoint_coffee,Brewpoint Coffee,2,21.94,Cold Brew,2026-05-05 12:53:46,food_court
+golden_fork,Golden Fork,4,41.33,"Big Mac Meal, Nuggets",2026-05-14 13:19:16,food_court
+mesa_grill,Mesa Grill,1,9.57,"Agua Fresca, Quesadilla, Chips & Guac",2026-05-21 15:51:22,food_court
+lotus_kitchen,Lotus Kitchen,2,35.68,Chow Mein,2026-05-09 09:31:49,food_court
+lotus_kitchen,Lotus Kitchen,1,12.86,Beijing Beef,2026-05-18 19:48:08,food_court
+golden_fork,Golden Fork,2,31.6,"Fries, Nuggets",2026-05-24 16:52:19,food_court
+golden_fork,Golden Fork,3,46.81,"Big Mac Meal, Nuggets",2026-05-10 10:12:27,food_court
+golden_fork,Golden Fork,1,10.39,Apple Pie,2026-05-28 20:47:43,food_court
+brewpoint_coffee,Brewpoint Coffee,4,57.39,"Caramel Macchiato, Cafe Latte, Cake Pop",2026-05-15 18:05:08,food_court
+mesa_grill,Mesa Grill,2,25.78,Tacos Trio,2026-05-03 12:50:42,food_court
+lotus_kitchen,Lotus Kitchen,3,30.33,Fried Rice,2026-05-29 13:46:53,food_court
+brewpoint_coffee,Brewpoint Coffee,4,44.22,"Croissant, Caramel Macchiato",2026-05-19 12:59:49,food_court
+brewpoint_coffee,Brewpoint Coffee,3,48.91,"Cake Pop, Cold Brew, Croissant",2026-05-26 13:31:59,food_court
+golden_fork,Golden Fork,2,18.37,"Big Mac Meal, Fries, McChicken",2026-05-31 18:42:30,food_court
+lotus_kitchen,Lotus Kitchen,4,61.95,Chow Mein,2026-05-23 13:08:47,food_court
+lotus_kitchen,Lotus Kitchen,4,46.26,"Orange Chicken, Fried Rice",2026-05-14 19:52:43,food_court
+brewpoint_coffee,Brewpoint Coffee,3,46.69,"Cake Pop, Cafe Latte, Caramel Macchiato",2026-05-30 19:31:34,food_court
+brewpoint_coffee,Brewpoint Coffee,4,51.26,"Cold Brew, Cafe Latte, Cake Pop",2026-05-09 08:58:24,food_court
+lotus_kitchen,Lotus Kitchen,4,36.56,"Spring Roll, Orange Chicken, Fried Rice",2026-05-13 13:41:09,food_court
+mesa_grill,Mesa Grill,4,44.56,"Chips & Guac, Burrito Bowl",2026-05-05 16:40:57,food_court
+golden_fork,Golden Fork,4,45.69,"Fries, McChicken, Big Mac Meal",2026-05-13 07:35:54,food_court
+golden_fork,Golden Fork,2,20.07,"Big Mac Meal, Nuggets, Fries",2026-05-17 09:37:04,food_court
+lotus_kitchen,Lotus Kitchen,2,31.58,"Chow Mein, Beijing Beef, Spring Roll",2026-05-10 07:17:51,food_court
+mesa_grill,Mesa Grill,3,32.76,"Tacos Trio, Agua Fresca, Burrito Bowl",2026-05-27 10:14:16,food_court
+mesa_grill,Mesa Grill,3,46.94,"Tacos Trio, Quesadilla, Chips & Guac",2026-05-23 08:15:36,food_court
+mesa_grill,Mesa Grill,1,9.09,"Agua Fresca, Quesadilla",2026-05-24 10:42:21,food_court
+mesa_grill,Mesa Grill,4,46.82,"Quesadilla, Chips & Guac",2026-05-02 17:22:52,food_court
+brewpoint_coffee,Brewpoint Coffee,4,57.93,"Cafe Latte, Caramel Macchiato",2026-05-21 13:46:14,food_court
+golden_fork,Golden Fork,4,70.73,McChicken,2026-05-24 08:14:38,food_court
+brewpoint_coffee,Brewpoint Coffee,2,21.03,"Cake Pop, Cold Brew",2026-05-31 07:08:17,food_court
+brewpoint_coffee,Brewpoint Coffee,1,15.76,"Cafe Latte, Cold Brew",2026-05-02 18:05:38,food_court
+golden_fork,Golden Fork,1,15.57,"Fries, Big Mac Meal",2026-05-07 10:40:00,food_court
+brewpoint_coffee,Brewpoint Coffee,1,13.77,Cold Brew,2026-05-31 07:38:24,food_court
+golden_fork,Golden Fork,3,42.9,Fries,2026-05-25 15:03:20,food_court
+lotus_kitchen,Lotus Kitchen,3,41.4,"Beijing Beef, Chow Mein",2026-05-27 16:28:49,food_court
+lotus_kitchen,Lotus Kitchen,3,32.92,"Beijing Beef, Fried Rice, Orange Chicken",2026-05-10 16:08:07,food_court
+lotus_kitchen,Lotus Kitchen,4,44.71,"Fried Rice, Beijing Beef, Spring Roll",2026-05-18 13:38:29,food_court
+lotus_kitchen,Lotus Kitchen,1,9.92,"Chow Mein, Beijing Beef",2026-05-06 11:30:06,food_court
+golden_fork,Golden Fork,3,42.59,"Apple Pie, McChicken, Big Mac Meal",2026-05-04 11:28:24,food_court
+lotus_kitchen,Lotus Kitchen,2,24.76,Beijing Beef,2026-05-07 18:34:19,food_court
+brewpoint_coffee,Brewpoint Coffee,4,66.8,Cafe Latte,2026-05-05 12:10:02,food_court
+brewpoint_coffee,Brewpoint Coffee,4,38.41,"Cafe Latte, Cold Brew",2026-05-18 11:53:33,food_court
+golden_fork,Golden Fork,4,38.88,"Fries, Big Mac Meal, Apple Pie",2026-05-25 18:52:13,food_court
+golden_fork,Golden Fork,2,29.55,"Apple Pie, McChicken, Fries",2026-05-03 08:04:20,food_court
+mesa_grill,Mesa Grill,4,52.54,"Chips & Guac, Burrito Bowl",2026-05-21 20:55:49,food_court
+lotus_kitchen,Lotus Kitchen,4,68.98,"Spring Roll, Orange Chicken, Chow Mein",2026-05-31 20:41:37,food_court
+brewpoint_coffee,Brewpoint Coffee,1,17.25,"Cafe Latte, Caramel Macchiato",2026-05-28 15:08:39,food_court
+brewpoint_coffee,Brewpoint Coffee,1,13.29,"Cold Brew, Caramel Macchiato, Cake Pop",2026-05-13 11:36:24,food_court
+golden_fork,Golden Fork,3,33.73,Nuggets,2026-05-29 12:29:48,food_court
+mesa_grill,Mesa Grill,1,10.71,Tacos Trio,2026-05-25 10:53:43,food_court
+brewpoint_coffee,Brewpoint Coffee,1,11.81,Caramel Macchiato,2026-05-15 20:52:18,food_court
+brewpoint_coffee,Brewpoint Coffee,2,30.75,"Caramel Macchiato, Cake Pop, Cold Brew",2026-05-26 07:33:45,food_court
+golden_fork,Golden Fork,4,49.78,"Nuggets, Big Mac Meal, McChicken",2026-05-17 12:50:28,food_court
+brewpoint_coffee,Brewpoint Coffee,3,29.74,"Cold Brew, Cake Pop, Caramel Macchiato",2026-05-18 11:30:18,food_court
+golden_fork,Golden Fork,3,41.9,"Big Mac Meal, McChicken, Fries",2026-05-24 17:51:20,food_court
+golden_fork,Golden Fork,4,37.39,"Big Mac Meal, Nuggets, Apple Pie",2026-05-15 19:59:41,food_court
+golden_fork,Golden Fork,1,17.12,Fries,2026-05-02 13:25:32,food_court
+brewpoint_coffee,Brewpoint Coffee,3,25.57,Cafe Latte,2026-05-03 14:15:08,food_court
+brewpoint_coffee,Brewpoint Coffee,3,43.96,Cold Brew,2026-05-18 20:07:05,food_court
+lotus_kitchen,Lotus Kitchen,1,11.94,"Orange Chicken, Chow Mein, Fried Rice",2026-05-19 16:10:29,food_court
+mesa_grill,Mesa Grill,1,14.47,Agua Fresca,2026-05-17 15:42:47,food_court
+mesa_grill,Mesa Grill,4,38.29,"Burrito Bowl, Tacos Trio",2026-05-07 11:24:08,food_court
+mesa_grill,Mesa Grill,3,29.01,"Burrito Bowl, Agua Fresca",2026-05-19 19:59:53,food_court
+golden_fork,Golden Fork,1,10.29,"Fries, Nuggets, Apple Pie",2026-05-28 07:56:16,food_court
+mesa_grill,Mesa Grill,1,16.86,"Quesadilla, Agua Fresca, Burrito Bowl",2026-05-16 13:52:13,food_court
+brewpoint_coffee,Brewpoint Coffee,3,31.32,"Cold Brew, Cafe Latte, Cake Pop",2026-05-29 18:50:24,food_court
+mesa_grill,Mesa Grill,1,13.44,"Agua Fresca, Chips & Guac, Tacos Trio",2026-05-08 16:12:19,food_court
+brewpoint_coffee,Brewpoint Coffee,3,48.96,"Cold Brew, Cafe Latte, Cake Pop",2026-05-16 11:06:03,food_court
+mesa_grill,Mesa Grill,4,58.21,Burrito Bowl,2026-05-31 08:51:13,food_court
+lotus_kitchen,Lotus Kitchen,4,48.57,"Chow Mein, Orange Chicken",2026-05-12 12:10:47,food_court
+golden_fork,Golden Fork,3,38.34,"Fries, Apple Pie",2026-05-29 08:40:21,food_court
+brewpoint_coffee,Brewpoint Coffee,1,12.61,Caramel Macchiato,2026-05-20 13:17:14,food_court
+mesa_grill,Mesa Grill,4,62.95,"Quesadilla, Chips & Guac, Agua Fresca",2026-05-05 08:43:27,food_court
+golden_fork,Golden Fork,1,17.66,Fries,2026-05-11 11:22:49,food_court
+lotus_kitchen,Lotus Kitchen,2,26.06,"Spring Roll, Fried Rice",2026-05-29 13:21:52,food_court
+brewpoint_coffee,Brewpoint Coffee,3,53.77,Cold Brew,2026-06-01 07:58:36,food_court
+mesa_grill,Mesa Grill,3,51.54,Tacos Trio,2026-05-19 14:11:22,food_court
+golden_fork,Golden Fork,1,10.86,"Fries, Apple Pie, Nuggets",2026-05-05 15:41:25,food_court
+mesa_grill,Mesa Grill,3,47.37,Quesadilla,2026-05-29 15:49:41,food_court
+lotus_kitchen,Lotus Kitchen,4,43.47,"Orange Chicken, Chow Mein",2026-05-23 08:47:30,food_court
+lotus_kitchen,Lotus Kitchen,1,9.1,"Spring Roll, Fried Rice",2026-05-09 13:08:11,food_court
+golden_fork,Golden Fork,1,17.58,"Fries, McChicken, Big Mac Meal",2026-05-06 12:21:04,food_court
+mesa_grill,Mesa Grill,4,48.48,"Agua Fresca, Chips & Guac",2026-05-25 13:45:01,food_court
+lotus_kitchen,Lotus Kitchen,1,10.68,"Beijing Beef, Chow Mein",2026-05-26 09:26:40,food_court
+lotus_kitchen,Lotus Kitchen,2,28.31,Fried Rice,2026-05-13 08:25:28,food_court
+lotus_kitchen,Lotus Kitchen,3,37.92,"Beijing Beef, Fried Rice",2026-05-26 12:36:32,food_court
+brewpoint_coffee,Brewpoint Coffee,4,70.56,Croissant,2026-06-01 18:16:37,food_court
+lotus_kitchen,Lotus Kitchen,1,15.85,"Orange Chicken, Fried Rice",2026-05-31 12:25:46,food_court
+golden_fork,Golden Fork,3,43.09,Fries,2026-05-17 17:34:58,food_court
+lotus_kitchen,Lotus Kitchen,1,12.92,Orange Chicken,2026-05-07 10:45:28,food_court
+brewpoint_coffee,Brewpoint Coffee,2,33.98,"Cold Brew, Caramel Macchiato",2026-05-07 10:41:04,food_court
+brewpoint_coffee,Brewpoint Coffee,4,66.73,"Cold Brew, Croissant, Cake Pop",2026-05-12 19:17:13,food_court
+mesa_grill,Mesa Grill,1,12.54,Chips & Guac,2026-05-04 14:34:45,food_court
+golden_fork,Golden Fork,4,41.3,"McChicken, Apple Pie, Fries",2026-05-13 16:06:22,food_court
+brewpoint_coffee,Brewpoint Coffee,4,44.62,Cold Brew,2026-05-19 12:13:32,food_court
+golden_fork,Golden Fork,1,16.07,"Fries, McChicken, Nuggets",2026-05-27 07:57:29,food_court
+lotus_kitchen,Lotus Kitchen,1,12.75,Spring Roll,2026-05-04 19:13:05,food_court
+mesa_grill,Mesa Grill,2,30.34,Quesadilla,2026-05-23 10:26:23,food_court
+brewpoint_coffee,Brewpoint Coffee,4,59.15,"Cold Brew, Croissant",2026-05-02 08:33:05,food_court
+lotus_kitchen,Lotus Kitchen,3,47.76,Spring Roll,2026-05-12 12:38:50,food_court
+mesa_grill,Mesa Grill,2,24.58,"Agua Fresca, Quesadilla, Tacos Trio",2026-05-19 14:59:13,food_court
+brewpoint_coffee,Brewpoint Coffee,3,32.26,Cold Brew,2026-05-17 19:24:43,food_court
+lotus_kitchen,Lotus Kitchen,4,45.09,Beijing Beef,2026-05-08 13:43:01,food_court
+mesa_grill,Mesa Grill,2,30.84,"Tacos Trio, Agua Fresca",2026-05-17 19:34:55,food_court
+lotus_kitchen,Lotus Kitchen,3,50.65,Chow Mein,2026-05-11 19:26:18,food_court
+mesa_grill,Mesa Grill,4,69.05,Tacos Trio,2026-05-30 16:06:05,food_court
+lotus_kitchen,Lotus Kitchen,4,63.4,Spring Roll,2026-05-29 16:26:50,food_court
+mesa_grill,Mesa Grill,1,8.59,"Agua Fresca, Quesadilla",2026-05-07 08:48:39,food_court
+brewpoint_coffee,Brewpoint Coffee,4,68.68,Caramel Macchiato,2026-05-25 18:46:59,food_court
+mesa_grill,Mesa Grill,2,19.17,"Agua Fresca, Chips & Guac",2026-05-16 11:43:04,food_court
+lotus_kitchen,Lotus Kitchen,1,15.19,Orange Chicken,2026-05-23 16:59:30,food_court
+mesa_grill,Mesa Grill,1,8.89,Burrito Bowl,2026-05-21 13:21:42,food_court
+mesa_grill,Mesa Grill,2,19.01,"Chips & Guac, Agua Fresca, Tacos Trio",2026-05-13 12:29:47,food_court
+mesa_grill,Mesa Grill,2,23.1,Quesadilla,2026-05-15 14:28:12,food_court
+brewpoint_coffee,Brewpoint Coffee,1,14.71,"Cafe Latte, Caramel Macchiato, Croissant",2026-05-26 20:51:48,food_court
+brewpoint_coffee,Brewpoint Coffee,2,27.0,"Croissant, Cafe Latte, Caramel Macchiato",2026-05-10 09:12:26,food_court
+brewpoint_coffee,Brewpoint Coffee,1,12.76,"Caramel Macchiato, Cold Brew, Croissant",2026-05-15 20:20:53,food_court
+mesa_grill,Mesa Grill,3,35.03,"Quesadilla, Burrito Bowl",2026-05-26 18:28:26,food_court
+lotus_kitchen,Lotus Kitchen,4,46.62,"Spring Roll, Orange Chicken, Fried Rice",2026-05-13 08:09:48,food_court
+mesa_grill,Mesa Grill,1,12.93,Chips & Guac,2026-05-16 16:40:12,food_court
+mesa_grill,Mesa Grill,4,40.33,Chips & Guac,2026-05-20 09:09:58,food_court
+lotus_kitchen,Lotus Kitchen,1,13.68,"Chow Mein, Spring Roll, Fried Rice",2026-05-20 16:00:46,food_court
+lotus_kitchen,Lotus Kitchen,2,22.24,"Spring Roll, Orange Chicken, Chow Mein",2026-05-17 13:41:09,food_court
+brewpoint_coffee,Brewpoint Coffee,1,8.89,Cold Brew,2026-05-21 20:44:20,food_court
+mesa_grill,Mesa Grill,1,13.57,Agua Fresca,2026-05-15 11:28:05,food_court
+golden_fork,Golden Fork,3,44.76,"Fries, Nuggets, Big Mac Meal",2026-05-04 18:02:27,food_court
+mesa_grill,Mesa Grill,1,16.08,Quesadilla,2026-05-16 08:29:35,food_court
+lotus_kitchen,Lotus Kitchen,1,10.15,Fried Rice,2026-05-21 19:29:33,food_court
+lotus_kitchen,Lotus Kitchen,2,33.74,Fried Rice,2026-05-18 11:09:15,food_court
+golden_fork,Golden Fork,4,57.59,"Apple Pie, Big Mac Meal",2026-05-16 09:22:28,food_court
+mesa_grill,Mesa Grill,3,33.29,Tacos Trio,2026-05-14 12:48:04,food_court
+lotus_kitchen,Lotus Kitchen,4,51.63,"Fried Rice, Spring Roll, Orange Chicken",2026-05-21 18:10:21,food_court
+lotus_kitchen,Lotus Kitchen,3,46.09,"Orange Chicken, Beijing Beef, Chow Mein",2026-05-18 10:38:54,food_court
+mesa_grill,Mesa Grill,2,17.53,Quesadilla,2026-05-29 08:16:18,food_court
+brewpoint_coffee,Brewpoint Coffee,1,17.51,"Cake Pop, Croissant",2026-05-23 20:18:36,food_court
+brewpoint_coffee,Brewpoint Coffee,4,52.89,Cold Brew,2026-05-13 12:25:27,food_court
+brewpoint_coffee,Brewpoint Coffee,2,35.58,"Cold Brew, Cake Pop, Caramel Macchiato",2026-05-18 16:18:19,food_court
+lotus_kitchen,Lotus Kitchen,4,52.69,Orange Chicken,2026-05-05 15:54:51,food_court
+lotus_kitchen,Lotus Kitchen,4,54.42,"Orange Chicken, Fried Rice, Beijing Beef",2026-05-12 13:58:44,food_court
+brewpoint_coffee,Brewpoint Coffee,2,28.38,Cake Pop,2026-05-24 07:53:57,food_court
+brewpoint_coffee,Brewpoint Coffee,3,28.15,"Croissant, Cafe Latte, Cake Pop",2026-05-26 16:54:44,food_court
+brewpoint_coffee,Brewpoint Coffee,3,50.93,Cold Brew,2026-05-23 19:40:24,food_court
+brewpoint_coffee,Brewpoint Coffee,2,18.98,"Caramel Macchiato, Cafe Latte, Cold Brew",2026-05-15 14:46:12,food_court
+brewpoint_coffee,Brewpoint Coffee,2,35.03,Cafe Latte,2026-05-06 11:30:09,food_court
+brewpoint_coffee,Brewpoint Coffee,1,14.24,"Cafe Latte, Cake Pop, Caramel Macchiato",2026-05-11 15:50:42,food_court
+golden_fork,Golden Fork,3,47.88,Nuggets,2026-05-16 16:53:14,food_court
+golden_fork,Golden Fork,2,22.09,McChicken,2026-05-27 15:18:49,food_court
+mesa_grill,Mesa Grill,3,28.75,"Agua Fresca, Quesadilla",2026-05-24 13:56:16,food_court
+brewpoint_coffee,Brewpoint Coffee,2,31.44,"Caramel Macchiato, Cafe Latte",2026-05-29 14:36:36,food_court
+brewpoint_coffee,Brewpoint Coffee,2,35.04,"Cafe Latte, Caramel Macchiato",2026-05-06 07:01:31,food_court
+lotus_kitchen,Lotus Kitchen,1,10.03,Chow Mein,2026-05-13 18:05:34,food_court
+golden_fork,Golden Fork,3,33.67,Big Mac Meal,2026-05-09 10:14:09,food_court
+golden_fork,Golden Fork,1,17.78,"Apple Pie, McChicken, Nuggets",2026-05-06 08:45:57,food_court
+mesa_grill,Mesa Grill,4,52.55,Agua Fresca,2026-05-07 14:33:49,food_court
+mesa_grill,Mesa Grill,4,65.49,"Burrito Bowl, Quesadilla",2026-05-07 11:32:19,food_court
+lotus_kitchen,Lotus Kitchen,4,66.89,"Spring Roll, Beijing Beef",2026-05-06 07:50:28,food_court
+mesa_grill,Mesa Grill,4,48.94,"Tacos Trio, Agua Fresca, Burrito Bowl",2026-05-11 09:39:27,food_court
+mesa_grill,Mesa Grill,4,62.6,"Quesadilla, Tacos Trio, Agua Fresca",2026-06-01 20:23:30,food_court
+brewpoint_coffee,Brewpoint Coffee,4,37.86,"Caramel Macchiato, Croissant, Cake Pop",2026-05-11 12:32:02,food_court
+golden_fork,Golden Fork,4,48.65,"Apple Pie, Big Mac Meal",2026-05-17 20:57:21,food_court
+golden_fork,Golden Fork,3,30.06,"Big Mac Meal, Fries, Nuggets",2026-05-27 15:29:00,food_court
+brewpoint_coffee,Brewpoint Coffee,4,49.93,"Caramel Macchiato, Cake Pop",2026-05-18 14:08:01,food_court
+brewpoint_coffee,Brewpoint Coffee,2,29.25,Croissant,2026-05-06 08:08:14,food_court
+golden_fork,Golden Fork,1,10.97,Nuggets,2026-05-13 08:23:16,food_court
+brewpoint_coffee,Brewpoint Coffee,1,17.29,"Cafe Latte, Cake Pop",2026-05-22 13:14:29,food_court
+brewpoint_coffee,Brewpoint Coffee,1,15.95,"Cake Pop, Croissant, Caramel Macchiato",2026-05-18 17:32:16,food_court
+golden_fork,Golden Fork,4,59.36,Nuggets,2026-05-04 15:29:07,food_court
+golden_fork,Golden Fork,2,21.08,McChicken,2026-05-08 17:32:10,food_court
+mesa_grill,Mesa Grill,4,65.98,"Agua Fresca, Tacos Trio, Chips & Guac",2026-05-06 12:20:45,food_court
+golden_fork,Golden Fork,3,25.93,"McChicken, Fries, Apple Pie",2026-05-09 15:27:33,food_court
+brewpoint_coffee,Brewpoint Coffee,3,26.77,Cafe Latte,2026-05-17 15:05:02,food_court
+brewpoint_coffee,Brewpoint Coffee,4,63.18,Caramel Macchiato,2026-05-24 13:45:50,food_court
+mesa_grill,Mesa Grill,3,42.67,"Agua Fresca, Chips & Guac",2026-05-04 08:01:14,food_court
+brewpoint_coffee,Brewpoint Coffee,3,25.71,"Croissant, Cake Pop, Caramel Macchiato",2026-05-26 13:35:22,food_court
+mesa_grill,Mesa Grill,4,34.75,"Quesadilla, Chips & Guac",2026-05-23 12:58:22,food_court
+golden_fork,Golden Fork,3,43.83,"McChicken, Big Mac Meal",2026-05-30 12:27:02,food_court
+lotus_kitchen,Lotus Kitchen,1,16.65,"Spring Roll, Orange Chicken, Chow Mein",2026-05-24 13:10:51,food_court
+mesa_grill,Mesa Grill,2,28.93,Burrito Bowl,2026-05-28 11:06:10,food_court
+lotus_kitchen,Lotus Kitchen,3,53.09,"Orange Chicken, Beijing Beef, Chow Mein",2026-05-09 16:23:10,food_court
+mesa_grill,Mesa Grill,4,49.55,"Chips & Guac, Tacos Trio, Quesadilla",2026-05-29 10:17:00,food_court
+brewpoint_coffee,Brewpoint Coffee,3,45.26,Caramel Macchiato,2026-05-16 08:36:42,food_court
+brewpoint_coffee,Brewpoint Coffee,2,20.98,Caramel Macchiato,2026-05-22 08:41:03,food_court
+golden_fork,Golden Fork,4,48.09,"McChicken, Big Mac Meal",2026-05-12 13:33:17,food_court
+mesa_grill,Mesa Grill,3,25.76,"Quesadilla, Agua Fresca, Burrito Bowl",2026-05-02 14:24:17,food_court
+mesa_grill,Mesa Grill,4,52.02,Chips & Guac,2026-05-25 20:35:17,food_court
+brewpoint_coffee,Brewpoint Coffee,3,41.12,"Caramel Macchiato, Cold Brew, Cake Pop",2026-05-10 12:19:28,food_court
+mesa_grill,Mesa Grill,4,53.69,Quesadilla,2026-05-19 20:26:50,food_court
+brewpoint_coffee,Brewpoint Coffee,2,29.82,"Cafe Latte, Cake Pop, Croissant",2026-05-16 09:06:20,food_court
+golden_fork,Golden Fork,1,15.04,Nuggets,2026-05-12 08:04:19,food_court
+lotus_kitchen,Lotus Kitchen,4,35.24,Spring Roll,2026-05-28 17:59:57,food_court
+golden_fork,Golden Fork,1,17.04,"Big Mac Meal, Fries, Apple Pie",2026-05-10 17:16:27,food_court
+lotus_kitchen,Lotus Kitchen,1,10.66,Orange Chicken,2026-05-22 17:29:25,food_court
+brewpoint_coffee,Brewpoint Coffee,3,29.71,Cafe Latte,2026-05-29 14:48:12,food_court
+brewpoint_coffee,Brewpoint Coffee,2,35.34,"Cold Brew, Caramel Macchiato",2026-05-14 19:41:51,food_court
+lotus_kitchen,Lotus Kitchen,3,48.37,"Fried Rice, Chow Mein, Beijing Beef",2026-05-23 07:12:14,food_court
+golden_fork,Golden Fork,1,13.1,"Fries, McChicken",2026-05-28 10:03:35,food_court
+mesa_grill,Mesa Grill,3,43.47,Agua Fresca,2026-05-11 14:00:07,food_court
+golden_fork,Golden Fork,4,47.13,"Nuggets, Fries",2026-05-28 12:15:36,food_court
+brewpoint_coffee,Brewpoint Coffee,4,37.67,Cake Pop,2026-05-28 12:51:52,food_court
+mesa_grill,Mesa Grill,2,35.13,Burrito Bowl,2026-05-07 14:39:51,food_court
+lotus_kitchen,Lotus Kitchen,1,13.46,"Fried Rice, Beijing Beef, Chow Mein",2026-05-05 11:43:43,food_court
+lotus_kitchen,Lotus Kitchen,4,69.93,Spring Roll,2026-05-16 14:02:42,food_court
+brewpoint_coffee,Brewpoint Coffee,4,64.71,"Cold Brew, Cake Pop, Cafe Latte",2026-05-16 09:35:07,food_court
+brewpoint_coffee,Brewpoint Coffee,3,45.82,"Croissant, Cake Pop",2026-05-13 18:24:24,food_court
+golden_fork,Golden Fork,3,32.73,"Big Mac Meal, Fries, Apple Pie",2026-05-31 20:58:21,food_court
+mesa_grill,Mesa Grill,2,29.59,Tacos Trio,2026-05-22 15:31:49,food_court
+mesa_grill,Mesa Grill,4,48.93,Burrito Bowl,2026-05-02 19:57:28,food_court
+brewpoint_coffee,Brewpoint Coffee,4,51.98,Croissant,2026-06-01 20:25:45,food_court
+mesa_grill,Mesa Grill,3,38.56,"Agua Fresca, Quesadilla",2026-06-01 19:26:58,food_court
+lotus_kitchen,Lotus Kitchen,3,27.38,"Spring Roll, Beijing Beef, Fried Rice",2026-05-04 20:43:43,food_court
+lotus_kitchen,Lotus Kitchen,2,32.24,"Fried Rice, Orange Chicken, Chow Mein",2026-05-19 13:22:34,food_court
+golden_fork,Golden Fork,4,71.09,"Big Mac Meal, Fries, Apple Pie",2026-05-12 13:43:56,food_court
+lotus_kitchen,Lotus Kitchen,3,53.24,"Spring Roll, Orange Chicken, Beijing Beef",2026-05-18 13:23:42,food_court
+golden_fork,Golden Fork,3,39.33,"Big Mac Meal, Nuggets, McChicken",2026-05-25 10:49:48,food_court
+golden_fork,Golden Fork,1,10.82,McChicken,2026-05-17 08:25:28,food_court
+brewpoint_coffee,Brewpoint Coffee,1,17.8,"Cold Brew, Caramel Macchiato",2026-05-03 10:27:16,food_court
+golden_fork,Golden Fork,2,33.24,McChicken,2026-05-06 08:43:22,food_court
+golden_fork,Golden Fork,2,19.8,Big Mac Meal,2026-05-28 09:43:04,food_court
+brewpoint_coffee,Brewpoint Coffee,3,37.58,"Cake Pop, Cold Brew",2026-05-28 08:44:06,food_court
+brewpoint_coffee,Brewpoint Coffee,3,50.24,Cake Pop,2026-05-09 18:47:13,food_court
+mesa_grill,Mesa Grill,1,9.27,Burrito Bowl,2026-05-27 11:12:32,food_court
+golden_fork,Golden Fork,3,50.13,"Nuggets, Big Mac Meal",2026-05-17 16:23:56,food_court
+golden_fork,Golden Fork,4,37.52,"McChicken, Big Mac Meal",2026-05-26 10:48:33,food_court
+mesa_grill,Mesa Grill,1,16.36,Agua Fresca,2026-05-17 08:43:26,food_court
+lotus_kitchen,Lotus Kitchen,2,17.96,"Beijing Beef, Chow Mein",2026-05-21 12:29:15,food_court
+brewpoint_coffee,Brewpoint Coffee,2,21.2,"Cafe Latte, Caramel Macchiato, Cold Brew",2026-05-04 13:16:56,food_court
+mesa_grill,Mesa Grill,2,33.31,Chips & Guac,2026-05-22 19:51:03,food_court
+brewpoint_coffee,Brewpoint Coffee,1,10.09,Croissant,2026-05-20 15:37:40,food_court
+golden_fork,Golden Fork,2,23.01,"Nuggets, Fries, Big Mac Meal",2026-05-20 08:12:18,food_court
+golden_fork,Golden Fork,1,16.23,"McChicken, Apple Pie, Nuggets",2026-05-19 08:40:52,food_court
+brewpoint_coffee,Brewpoint Coffee,4,71.59,"Croissant, Caramel Macchiato, Cold Brew",2026-05-17 13:25:59,food_court
+mesa_grill,Mesa Grill,2,24.72,Burrito Bowl,2026-05-03 15:04:16,food_court
+mesa_grill,Mesa Grill,3,50.45,"Quesadilla, Chips & Guac, Tacos Trio",2026-05-13 08:31:16,food_court
+brewpoint_coffee,Brewpoint Coffee,1,10.6,"Cold Brew, Cake Pop",2026-05-18 08:06:07,food_court
+brewpoint_coffee,Brewpoint Coffee,2,29.62,Cafe Latte,2026-05-23 19:52:02,food_court
+brewpoint_coffee,Brewpoint Coffee,4,35.15,"Cold Brew, Caramel Macchiato, Cafe Latte",2026-05-10 11:02:57,food_court
+lotus_kitchen,Lotus Kitchen,3,28.03,Chow Mein,2026-05-25 09:12:37,food_court
+golden_fork,Golden Fork,4,42.69,Nuggets,2026-05-19 16:47:00,food_court
+mesa_grill,Mesa Grill,3,36.71,"Chips & Guac, Burrito Bowl",2026-05-24 16:28:07,food_court
+golden_fork,Golden Fork,2,34.14,Fries,2026-05-09 19:51:26,food_court
+mesa_grill,Mesa Grill,2,28.82,"Tacos Trio, Agua Fresca",2026-05-22 10:42:55,food_court
+lotus_kitchen,Lotus Kitchen,4,70.57,Chow Mein,2026-05-24 13:20:55,food_court
+mesa_grill,Mesa Grill,2,21.8,"Agua Fresca, Quesadilla, Burrito Bowl",2026-05-20 11:36:32,food_court
+golden_fork,Golden Fork,1,12.15,"Nuggets, McChicken, Fries",2026-05-19 18:03:09,food_court
+brewpoint_coffee,Brewpoint Coffee,4,38.98,"Cafe Latte, Cold Brew",2026-05-02 19:15:48,food_court
+lotus_kitchen,Lotus Kitchen,1,14.91,"Beijing Beef, Chow Mein, Spring Roll",2026-05-08 13:06:29,food_court
+brewpoint_coffee,Brewpoint Coffee,4,70.3,Caramel Macchiato,2026-05-11 12:19:33,food_court
+golden_fork,Golden Fork,1,9.86,Big Mac Meal,2026-05-11 19:28:07,food_court
+brewpoint_coffee,Brewpoint Coffee,4,34.87,"Croissant, Caramel Macchiato, Cafe Latte",2026-05-14 10:40:27,food_court
+golden_fork,Golden Fork,2,33.4,Nuggets,2026-05-10 15:17:38,food_court
+mesa_grill,Mesa Grill,1,12.17,"Burrito Bowl, Agua Fresca, Tacos Trio",2026-05-05 11:27:28,food_court
+mesa_grill,Mesa Grill,3,28.21,Chips & Guac,2026-05-08 18:35:47,food_court
+brewpoint_coffee,Brewpoint Coffee,1,16.03,"Caramel Macchiato, Croissant",2026-05-31 09:18:51,food_court
+mesa_grill,Mesa Grill,3,31.98,"Burrito Bowl, Agua Fresca",2026-05-14 11:25:21,food_court
+mesa_grill,Mesa Grill,3,34.39,"Agua Fresca, Chips & Guac, Burrito Bowl",2026-05-08 11:50:14,food_court
+golden_fork,Golden Fork,4,45.83,"Nuggets, Apple Pie, Fries",2026-05-17 07:02:56,food_court
+mesa_grill,Mesa Grill,3,34.96,Chips & Guac,2026-05-30 07:00:54,food_court
+mesa_grill,Mesa Grill,2,33.05,"Tacos Trio, Chips & Guac, Agua Fresca",2026-05-21 13:15:25,food_court
+mesa_grill,Mesa Grill,4,55.02,Agua Fresca,2026-05-07 17:27:31,food_court
+mesa_grill,Mesa Grill,3,27.63,"Agua Fresca, Burrito Bowl, Tacos Trio",2026-05-15 17:08:15,food_court
+golden_fork,Golden Fork,2,35.94,Fries,2026-06-01 16:25:22,food_court
+golden_fork,Golden Fork,1,10.03,Big Mac Meal,2026-05-29 18:52:16,food_court
+brewpoint_coffee,Brewpoint Coffee,1,14.34,"Cold Brew, Croissant",2026-05-22 14:09:21,food_court
+lotus_kitchen,Lotus Kitchen,1,14.87,"Spring Roll, Orange Chicken, Chow Mein",2026-05-31 14:08:18,food_court
+brewpoint_coffee,Brewpoint Coffee,3,41.26,"Caramel Macchiato, Croissant",2026-05-17 13:44:14,food_court
+golden_fork,Golden Fork,3,29.64,"Fries, Nuggets, McChicken",2026-05-23 13:46:03,food_court
+lotus_kitchen,Lotus Kitchen,4,47.71,"Chow Mein, Spring Roll, Fried Rice",2026-05-19 16:53:03,food_court
+brewpoint_coffee,Brewpoint Coffee,3,39.65,Cafe Latte,2026-05-03 11:37:55,food_court

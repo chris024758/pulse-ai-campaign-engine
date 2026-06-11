@@ -1,0 +1,121 @@
+tenant_id,sku,product_name,category,quantity_available,last_updated
+circuit_world,CIRCUIT_WORLD-843-0,Smartwatch V2 Classic,ELECTRONICS,0,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-923-1,USB-C Cable Classic,ELECTRONICS,28,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-200-2,USB-C Cable Pulse,ELECTRONICS,11,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-563-3,OLED TV 55 Special,ELECTRONICS,31,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-298-4,OLED TV 55 Pulse,ELECTRONICS,31,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-339-5,USB-C Cable Classic,ELECTRONICS,25,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-990-6,Gaming Laptop Pro,ELECTRONICS,18,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-125-7,Bluetooth Speaker Pro,ELECTRONICS,20,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-656-8,Wireless Headphones Classic,ELECTRONICS,1,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-421-9,OLED TV 55 Special,ELECTRONICS,23,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-148-10,USB-C Cable Air,ELECTRONICS,20,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-914-11,Bluetooth Speaker Classic,ELECTRONICS,43,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-932-12,Smartwatch V2 Special,ELECTRONICS,50,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-569-13,USB-C Cable Air,ELECTRONICS,40,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-739-14,Bluetooth Speaker Pro,ELECTRONICS,40,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-667-15,Gaming Laptop Classic,ELECTRONICS,18,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-545-16,Wireless Headphones Air,ELECTRONICS,1,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-767-17,Gaming Laptop Classic,ELECTRONICS,23,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-135-18,Bluetooth Speaker Pro,ELECTRONICS,40,2026-06-01 02:15:22
+circuit_world,CIRCUIT_WORLD-923-19,OLED TV 55 Classic,ELECTRONICS,4,2026-06-01 02:15:22
+glassline,GLASSLINE-757-0,Smart Phone G1 Pro,ELECTRONICS,31,2026-06-01 02:15:22
+glassline,GLASSLINE-521-1,QLED Display 65 Pro,ELECTRONICS,8,2026-06-01 02:15:22
+glassline,GLASSLINE-981-2,QLED Display 65 Air,ELECTRONICS,10,2026-06-01 02:15:22
+glassline,GLASSLINE-659-3,Soundbar Pro Classic,ELECTRONICS,22,2026-06-01 02:15:22
+glassline,GLASSLINE-552-4,Foldable Phone Special,ELECTRONICS,13,2026-06-01 02:15:22
+glassline,GLASSLINE-844-5,Foldable Phone Pulse,ELECTRONICS,27,2026-06-01 02:15:22
+glassline,GLASSLINE-576-6,QLED Display 65 Classic,ELECTRONICS,5,2026-06-01 02:15:22
+glassline,GLASSLINE-186-7,Foldable Phone Air,ELECTRONICS,12,2026-06-01 02:15:22
+glassline,GLASSLINE-202-8,Wireless Charger Classic,ELECTRONICS,42,2026-06-01 02:15:22
+glassline,GLASSLINE-598-9,Soundbar Pro Special,ELECTRONICS,3,2026-06-01 02:15:22
+glassline,GLASSLINE-952-10,Wireless Charger Classic,ELECTRONICS,47,2026-06-01 02:15:22
+glassline,GLASSLINE-389-11,QLED Display 65 Pro,ELECTRONICS,15,2026-06-01 02:15:22
+glassline,GLASSLINE-927-12,Smart Phone G1 Special,ELECTRONICS,36,2026-06-01 02:15:22
+glassline,GLASSLINE-390-13,Smart Phone G1 Special,ELECTRONICS,25,2026-06-01 02:15:22
+glassline,GLASSLINE-388-14,Soundbar Pro Pulse,ELECTRONICS,26,2026-06-01 02:15:22
+glassline,GLASSLINE-522-15,Wireless Charger Classic,ELECTRONICS,1,2026-06-01 02:15:22
+glassline,GLASSLINE-767-16,QLED Display 65 Special,ELECTRONICS,44,2026-06-01 02:15:22
+glassline,GLASSLINE-725-17,Wireless Charger Pro,ELECTRONICS,15,2026-06-01 02:15:22
+glassline,GLASSLINE-914-18,Soundbar Pro Special,ELECTRONICS,29,2026-06-01 02:15:22
+glassline,GLASSLINE-221-19,Soundbar Pro Air,ELECTRONICS,26,2026-06-01 02:15:22
+aero_home,AERO_HOME-702-0,Cyclone Vacuum Special,ELECTRONICS,47,2026-06-01 02:15:22
+aero_home,AERO_HOME-469-1,Air Purifier H1 Classic,ELECTRONICS,10,2026-06-01 02:15:22
+aero_home,AERO_HOME-159-2,Air Purifier H1 Air,ELECTRONICS,27,2026-06-01 02:15:22
+aero_home,AERO_HOME-541-3,Hair Dryer Premium Special,ELECTRONICS,18,2026-06-01 02:15:22
+aero_home,AERO_HOME-893-4,Cyclone Vacuum Pulse,ELECTRONICS,11,2026-06-01 02:15:22
+aero_home,AERO_HOME-805-5,Air Purifier H1 Pro,ELECTRONICS,31,2026-06-01 02:15:22
+aero_home,AERO_HOME-325-6,Hair Dryer Premium Pro,ELECTRONICS,24,2026-06-01 02:15:22
+aero_home,AERO_HOME-454-7,Humidifier Cool Classic,ELECTRONICS,49,2026-06-01 02:15:22
+aero_home,AERO_HOME-519-8,Cyclone Vacuum Air,ELECTRONICS,9,2026-06-01 02:15:22
+aero_home,AERO_HOME-644-9,Hair Dryer Premium Classic,ELECTRONICS,21,2026-06-01 02:15:22
+aero_home,AERO_HOME-807-10,Cyclone Vacuum Special,ELECTRONICS,36,2026-06-01 02:15:22
+aero_home,AERO_HOME-334-11,Air Purifier H1 Air,ELECTRONICS,36,2026-06-01 02:15:22
+aero_home,AERO_HOME-187-12,Cyclone Vacuum Special,ELECTRONICS,8,2026-06-01 02:15:22
+aero_home,AERO_HOME-958-13,Hair Dryer Premium Classic,ELECTRONICS,23,2026-06-01 02:15:22
+aero_home,AERO_HOME-355-14,Hair Dryer Premium Air,ELECTRONICS,29,2026-06-01 02:15:22
+aero_home,AERO_HOME-622-15,Hair Dryer Premium Pro,ELECTRONICS,13,2026-06-01 02:15:22
+aero_home,AERO_HOME-312-16,Air Purifier H1 Pulse,ELECTRONICS,1,2026-06-01 02:15:22
+aero_home,AERO_HOME-374-17,Humidifier Cool Pro,ELECTRONICS,2,2026-06-01 02:15:22
+aero_home,AERO_HOME-891-18,Air Purifier H1 Classic,ELECTRONICS,38,2026-06-01 02:15:22
+aero_home,AERO_HOME-716-19,Cyclone Vacuum Special,ELECTRONICS,31,2026-06-01 02:15:22
+aurel,AUREL-397-0,Diamond Pendant Special,JEWELRY,16,2026-06-01 02:15:22
+aurel,AUREL-822-1,Charms Starter Set Pro,JEWELRY,25,2026-06-01 02:15:22
+aurel,AUREL-483-2,Gemstone Earrings Classic,JEWELRY,50,2026-06-01 02:15:22
+aurel,AUREL-286-3,Charms Starter Set Air,JEWELRY,0,2026-06-01 02:15:22
+aurel,AUREL-820-4,Gemstone Earrings Special,JEWELRY,39,2026-06-01 02:15:22
+aurel,AUREL-282-5,Charms Starter Set Special,JEWELRY,39,2026-06-01 02:15:22
+aurel,AUREL-830-6,Diamond Pendant Special,JEWELRY,27,2026-06-01 02:15:22
+aurel,AUREL-504-7,Charms Starter Set Pro,JEWELRY,5,2026-06-01 02:15:22
+aurel,AUREL-362-8,Silver Bracelet Pulse,JEWELRY,23,2026-06-01 02:15:22
+aurel,AUREL-994-9,Silver Bracelet Air,JEWELRY,27,2026-06-01 02:15:22
+aurel,AUREL-624-10,Gold Ring Classic,JEWELRY,33,2026-06-01 02:15:22
+aurel,AUREL-214-11,Silver Bracelet Special,JEWELRY,38,2026-06-01 02:15:22
+aurel,AUREL-221-12,Charms Starter Set Special,JEWELRY,24,2026-06-01 02:15:22
+aurel,AUREL-333-13,Charms Starter Set Pro,JEWELRY,18,2026-06-01 02:15:22
+aurel,AUREL-373-14,Silver Bracelet Air,JEWELRY,23,2026-06-01 02:15:22
+aurel,AUREL-996-15,Charms Starter Set Air,JEWELRY,26,2026-06-01 02:15:22
+aurel,AUREL-151-16,Diamond Pendant Pulse,JEWELRY,49,2026-06-01 02:15:22
+aurel,AUREL-568-17,Gold Ring Air,JEWELRY,12,2026-06-01 02:15:22
+aurel,AUREL-597-18,Gemstone Earrings Pulse,JEWELRY,11,2026-06-01 02:15:22
+aurel,AUREL-771-19,Silver Bracelet Pulse,JEWELRY,19,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-501-0,Gemstone Earrings Classic,JEWELRY,33,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-849-1,Charms Starter Set Air,JEWELRY,29,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-155-2,Silver Bracelet Special,JEWELRY,36,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-499-3,Silver Bracelet Special,JEWELRY,42,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-393-4,Gold Ring Classic,JEWELRY,2,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-479-5,Silver Bracelet Special,JEWELRY,48,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-979-6,Gemstone Earrings Pulse,JEWELRY,1,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-323-7,Charms Starter Set Pulse,JEWELRY,48,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-173-8,Gemstone Earrings Special,JEWELRY,9,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-804-9,Silver Bracelet Pro,JEWELRY,19,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-660-10,Charms Starter Set Pulse,JEWELRY,32,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-339-11,Charms Starter Set Special,JEWELRY,46,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-109-12,Silver Bracelet Air,JEWELRY,29,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-322-13,Silver Bracelet Classic,JEWELRY,49,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-651-14,Diamond Pendant Classic,JEWELRY,6,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-790-15,Gold Ring Air,JEWELRY,18,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-445-16,Gold Ring Pulse,JEWELRY,26,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-365-17,Gold Ring Classic,JEWELRY,47,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-907-18,Charms Starter Set Classic,JEWELRY,6,2026-06-01 02:15:22
+celeste_jewels,CELESTE_JEWELS-269-19,Charms Starter Set Pro,JEWELRY,40,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-904-0,Charms Starter Set Classic,JEWELRY,25,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-592-1,Gemstone Earrings Pro,JEWELRY,29,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-933-2,Silver Bracelet Classic,JEWELRY,38,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-354-3,Gemstone Earrings Air,JEWELRY,30,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-166-4,Charms Starter Set Pulse,JEWELRY,2,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-384-5,Silver Bracelet Air,JEWELRY,40,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-307-6,Diamond Pendant Pro,JEWELRY,18,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-452-7,Charms Starter Set Special,JEWELRY,17,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-554-8,Gemstone Earrings Pro,JEWELRY,32,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-350-9,Gemstone Earrings Classic,JEWELRY,41,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-992-10,Charms Starter Set Classic,JEWELRY,37,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-131-11,Charms Starter Set Pulse,JEWELRY,13,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-582-12,Gold Ring Pulse,JEWELRY,32,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-140-13,Gemstone Earrings Pro,JEWELRY,20,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-658-14,Gold Ring Special,JEWELRY,42,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-249-15,Diamond Pendant Pulse,JEWELRY,5,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-556-16,Diamond Pendant Pulse,JEWELRY,24,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-243-17,Charms Starter Set Pulse,JEWELRY,45,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-200-18,Charms Starter Set Pro,JEWELRY,12,2026-06-01 02:15:22
+karat_and_co,KARAT_AND_CO-725-19,Gold Ring Pulse,JEWELRY,21,2026-06-01 02:15:22

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 100%; height: 100vh;
+  background: linear-gradient(135deg, #333333 0%, #444444 100%);
+  font-family: 'DM Sans', sans-serif;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body::before {
+  content: ''; position: absolute;
+  top: 0; left: 0; right: 0; height: 3px;
+  background: #CCCCCC;
+}
+body::after {
+  content: ''; position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: repeating-linear-gradient(
+    0deg, transparent, transparent 3px,
+    rgba(0,0,0,0.03) 3px, rgba(0,0,0,0.03) 4px
+  );
+  pointer-events: none; z-index: 100;
+}
+.accent-bottom {
+  position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+  background: #CCCCCC;
+}
+.corner { position: absolute; width: 16px; height: 16px; }
+.tl { top:10px; left:10px; border-top:2px solid #CCCCCC; border-left:2px solid #CCCCCC; }
+.tr { top:10px; right:10px; border-top:2px solid #CCCCCC; border-right:2px solid #CCCCCC; }
+.bl { bottom:10px; left:10px; border-bottom:2px solid #CCCCCC; border-left:2px solid #CCCCCC; }
+.br { bottom:10px; right:10px; border-bottom:2px solid #CCCCCC; border-right:2px solid #CCCCCC; }
+.logo-wrap {
+  position: absolute; top: 14px; left: 16px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 6px; padding: 6px 8px;
+  display: flex; align-items: center;
+}
+.logo-wrap img {
+  height: 32px; width: auto;
+  mix-blend-mode: multiply;
+  filter: brightness(1.2) contrast(1.05);
+}
+.pulse-brand {
+  position: absolute; bottom: 14px; right: 14px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 9px; letter-spacing: 2px;
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+}
+.content {
+  text-align: center;
+  padding: 0 40px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 10px;
+  margin-top: 20px;
+}
+.headline {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  color: #FFFFFF;
+}
+.subline {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.4;
+}
+.offer-badge {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 2px;
+  background: #CCCCCC;
+  color: #333333;
+}
+.stitch { border-top: 1px dashed #CCCCCC; width: 60%; margin: 8px auto; opacity: 0.5; }
+</style>
+</head>
+<body>
+  <div class="corner tl"></div>
+  <div class="corner tr"></div>
+  <div class="corner bl"></div>
+  <div class="corner br"></div>
+  <div class="accent-bottom"></div>
+  <div class="logo-wrap">
+    <img src="/assets/logos/S03.png" alt="Common Thread">
+  </div>
+  <div class="content">
+    <div class="headline" style="font-size:38px">EVERYDAY CLASSICS</div>
+    <div class="subline" style="font-size:15px">Comfortable, everyday styles for the whole family.</div>
+    <div class="stitch"></div>
+    <div class="offer-badge">ESSENTIALS IN STORE</div>
+  </div>
+  <div class="pulse-brand">PULSE Campaign Active</div>
+</body>
+</html>

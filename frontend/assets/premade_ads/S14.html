@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 100%; height: 100vh;
+  background: linear-gradient(135deg, #0A0F1E 0%, #0F172A 50%, #1A1F35 100%);
+  font-family: 'DM Sans', sans-serif;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body::before {
+  content: ''; position: absolute;
+  top: 0; left: 0; right: 0; height: 3px;
+  background: #818CF8;
+}
+body::after {
+  content: ''; position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: repeating-linear-gradient(
+    0deg, transparent, transparent 3px,
+    rgba(0,0,0,0.03) 3px, rgba(0,0,0,0.03) 4px
+  );
+  pointer-events: none; z-index: 100;
+}
+.accent-bottom {
+  position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+  background: #818CF8;
+}
+.corner { position: absolute; width: 16px; height: 16px; }
+.tl { top:10px; left:10px; border-top:2px solid #818CF8; border-left:2px solid #818CF8; }
+.tr { top:10px; right:10px; border-top:2px solid #818CF8; border-right:2px solid #818CF8; }
+.bl { bottom:10px; left:10px; border-bottom:2px solid #818CF8; border-left:2px solid #818CF8; }
+.br { bottom:10px; right:10px; border-bottom:2px solid #818CF8; border-right:2px solid #818CF8; }
+.logo-wrap {
+  position: absolute; top: 14px; left: 16px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 6px; padding: 6px 8px;
+  display: flex; align-items: center;
+}
+.logo-wrap img {
+  height: 32px; width: auto;
+  mix-blend-mode: multiply;
+  filter: brightness(1.2) contrast(1.05);
+}
+.pulse-brand {
+  position: absolute; bottom: 14px; right: 14px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 9px; letter-spacing: 2px;
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+}
+.content {
+  text-align: center;
+  padding: 0 40px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 10px;
+  margin-top: 20px;
+}
+.headline {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  color: #FFFFFF;
+}
+.subline {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  color: rgba(255,255,255,0.7);
+  line-height: 1.4;
+}
+.offer-badge {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 2px;
+  background: #818CF8;
+  color: #0F172A;
+}
+.glass-card {
+  background: rgba(129,140,248,0.08);
+  border: 1px solid rgba(129,140,248,0.2);
+  border-radius: 8px;
+  padding: 16px 28px;
+  backdrop-filter: blur(4px);
+  display: flex; flex-direction: column;
+  align-items: center; gap: 8px;
+}
+</style>
+</head>
+<body>
+  <div class="corner tl"></div>
+  <div class="corner tr"></div>
+  <div class="corner bl"></div>
+  <div class="corner br"></div>
+  <div class="accent-bottom"></div>
+  <div class="logo-wrap">
+    <img src="/assets/logos/S14.png" alt="Glassline">
+  </div>
+  <div class="content">
+    <div class="glass-card">
+      <div class="headline" style="font-size:36px">WHAT'S NEXT</div>
+      <div class="subline" style="font-size:15px">Is already here. Cutting-edge displays and devices.</div>
+      <div class="offer-badge">NEW ARRIVALS</div>
+    </div>
+  </div>
+  <div class="pulse-brand">PULSE Campaign Active</div>
+</body>
+</html>

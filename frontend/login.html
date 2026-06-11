@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PULSE — Command Center</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=DM+Sans:wght@300;400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: #080C10;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'DM Sans', sans-serif;
+      overflow: hidden;
+    }
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: repeating-linear-gradient(
+        0deg, transparent, transparent 2px,
+        rgba(0,229,255,0.012) 2px, rgba(0,229,255,0.012) 4px
+      );
+      pointer-events: none;
+      z-index: 0;
+    }
+    .container {
+      position: relative; z-index: 1;
+      display: flex; flex-direction: column;
+      align-items: center; gap: 36px;
+      animation: fadeUp 0.7s ease forwards;
+      opacity: 0; animation-delay: 0.2s;
+    }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .logo { text-align: center; }
+    .logo-text {
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 80px; font-weight: 700;
+      color: #00E5FF; letter-spacing: 14px;
+      animation: pulse 2.2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0%,100% { text-shadow: 0 0 25px rgba(0,229,255,0.35); }
+      50% { text-shadow: 0 0 55px rgba(0,229,255,0.7), 0 0 90px rgba(0,229,255,0.25); }
+    }
+    .tagline {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 11px; color: #2D3748;
+      letter-spacing: 4px; text-transform: uppercase;
+      margin-top: 6px;
+    }
+    .mall-label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 10px; color: #1E2A38;
+      letter-spacing: 2px; margin-top: 3px;
+    }
+    .form {
+      display: flex; flex-direction: column;
+      gap: 10px; width: 300px;
+    }
+    .field { display: flex; flex-direction: column; gap: 3px; }
+    .label {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9px; color: #2D3748;
+      letter-spacing: 1px; text-transform: uppercase;
+    }
+    .input {
+      background: #0D1117; border: 1px solid #1E2A38;
+      color: #E8EDF2; padding: 11px 13px;
+      border-radius: 4px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px; width: 100%;
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+    .input:focus {
+      outline: none; border-color: #00E5FF;
+      box-shadow: 0 0 0 2px rgba(0,229,255,0.12);
+    }
+    .btn {
+      background: #00E5FF; color: #080C10;
+      border: none; padding: 13px;
+      border-radius: 4px; cursor: pointer;
+      font-family: 'Rajdhani', sans-serif;
+      font-size: 15px; font-weight: 700;
+      letter-spacing: 2px; text-transform: uppercase;
+      transition: all 0.2s;
+      margin-top: 4px;
+    }
+    .btn:hover { background: #00CCEE; box-shadow: 0 0 20px rgba(0,229,255,0.3); }
+    .divider {
+      width: 300px; height: 1px;
+      background: linear-gradient(90deg, transparent, #1E2A38, transparent);
+    }
+    .version {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 9px; color: #1A2332; letter-spacing: 1px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">
+      <div class="logo-text">PULSE</div>
+      <div class="tagline">Predictive Unified Live Signal Engine</div>
+      <div class="mall-label">// GALLERIA DALLAS — GM COMMAND CENTER</div>
+    </div>
+    <div class="form">
+      <div class="field">
+        <div class="label">User ID</div>
+        <input class="input" type="text" id="username" value="gm@galleriadallas.com" autocomplete="off">
+      </div>
+      <div class="field">
+        <div class="label">Access Code</div>
+        <input class="input" type="password" id="password" value="pulse2026">
+      </div>
+      <button class="btn" id="login-btn" onclick="doLogin()">Enter Command Center →</button>
+    </div>
+    <div class="divider"></div>
+    <div class="version">PULSE v1.0 · RapidAgent 2026 · Fivetran MCP</div>
+  </div>
+  <script>
+    function doLogin() {
+      document.getElementById('login-btn').innerText = 'Initializing...';
+      setTimeout(() => { window.location.href = '/index.html'; }, 600);
+    }
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Enter') doLogin();
+    });
+  </script>
+</body>
+</html>

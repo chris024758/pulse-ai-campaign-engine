@@ -1,0 +1,2341 @@
+zone_id,zone_name,visitor_count,timestamp,entrance_id
+food_court,Food Court,62,2026-06-01 09:00:00,entrance_south
+fashion_floor,Fashion Floor,35,2026-06-01 09:00:00,entrance_west
+electronics,Electronics,33,2026-06-01 09:00:00,entrance_west
+sporting,Sporting,85,2026-06-01 09:00:00,entrance_east
+beauty,Beauty,92,2026-06-01 09:00:00,entrance_north
+entertainment,Entertainment,97,2026-06-01 09:00:00,entrance_north
+food_court,Food Court,34,2026-06-01 10:00:00,entrance_west
+fashion_floor,Fashion Floor,90,2026-06-01 10:00:00,entrance_east
+electronics,Electronics,98,2026-06-01 10:00:00,entrance_south
+sporting,Sporting,90,2026-06-01 10:00:00,entrance_south
+beauty,Beauty,29,2026-06-01 10:00:00,entrance_west
+entertainment,Entertainment,97,2026-06-01 10:00:00,entrance_north
+food_court,Food Court,70,2026-06-01 11:00:00,entrance_north
+fashion_floor,Fashion Floor,26,2026-06-01 11:00:00,entrance_west
+electronics,Electronics,91,2026-06-01 11:00:00,entrance_north
+sporting,Sporting,83,2026-06-01 11:00:00,entrance_south
+beauty,Beauty,33,2026-06-01 11:00:00,entrance_north
+entertainment,Entertainment,92,2026-06-01 11:00:00,entrance_south
+food_court,Food Court,154,2026-06-01 12:00:00,entrance_west
+fashion_floor,Fashion Floor,246,2026-06-01 12:00:00,entrance_east
+electronics,Electronics,140,2026-06-01 12:00:00,entrance_west
+sporting,Sporting,217,2026-06-01 12:00:00,entrance_west
+beauty,Beauty,183,2026-06-01 12:00:00,entrance_south
+entertainment,Entertainment,124,2026-06-01 12:00:00,entrance_north
+food_court,Food Court,165,2026-06-01 13:00:00,entrance_north
+fashion_floor,Fashion Floor,226,2026-06-01 13:00:00,entrance_west
+electronics,Electronics,102,2026-06-01 13:00:00,entrance_south
+sporting,Sporting,183,2026-06-01 13:00:00,entrance_west
+beauty,Beauty,248,2026-06-01 13:00:00,entrance_east
+entertainment,Entertainment,186,2026-06-01 13:00:00,entrance_south
+food_court,Food Court,199,2026-06-01 14:00:00,entrance_east
+fashion_floor,Fashion Floor,182,2026-06-01 14:00:00,entrance_south
+electronics,Electronics,228,2026-06-01 14:00:00,entrance_south
+sporting,Sporting,216,2026-06-01 14:00:00,entrance_north
+beauty,Beauty,163,2026-06-01 14:00:00,entrance_east
+entertainment,Entertainment,166,2026-06-01 14:00:00,entrance_west
+food_court,Food Court,77,2026-06-01 15:00:00,entrance_east
+fashion_floor,Fashion Floor,69,2026-06-01 15:00:00,entrance_west
+electronics,Electronics,89,2026-06-01 15:00:00,entrance_west
+sporting,Sporting,45,2026-06-01 15:00:00,entrance_south
+beauty,Beauty,93,2026-06-01 15:00:00,entrance_north
+entertainment,Entertainment,82,2026-06-01 15:00:00,entrance_south
+food_court,Food Court,46,2026-06-01 16:00:00,entrance_east
+fashion_floor,Fashion Floor,98,2026-06-01 16:00:00,entrance_south
+electronics,Electronics,84,2026-06-01 16:00:00,entrance_west
+sporting,Sporting,65,2026-06-01 16:00:00,entrance_east
+beauty,Beauty,21,2026-06-01 16:00:00,entrance_west
+entertainment,Entertainment,50,2026-06-01 16:00:00,entrance_east
+food_court,Food Court,46,2026-06-01 17:00:00,entrance_east
+fashion_floor,Fashion Floor,76,2026-06-01 17:00:00,entrance_east
+electronics,Electronics,36,2026-06-01 17:00:00,entrance_south
+sporting,Sporting,38,2026-06-01 17:00:00,entrance_south
+beauty,Beauty,80,2026-06-01 17:00:00,entrance_east
+entertainment,Entertainment,76,2026-06-01 17:00:00,entrance_north
+food_court,Food Court,269,2026-06-01 18:00:00,entrance_north
+fashion_floor,Fashion Floor,160,2026-06-01 18:00:00,entrance_south
+electronics,Electronics,139,2026-06-01 18:00:00,entrance_west
+sporting,Sporting,266,2026-06-01 18:00:00,entrance_south
+beauty,Beauty,152,2026-06-01 18:00:00,entrance_north
+entertainment,Entertainment,125,2026-06-01 18:00:00,entrance_south
+food_court,Food Court,113,2026-06-01 19:00:00,entrance_east
+fashion_floor,Fashion Floor,191,2026-06-01 19:00:00,entrance_west
+electronics,Electronics,291,2026-06-01 19:00:00,entrance_west
+sporting,Sporting,260,2026-06-01 19:00:00,entrance_east
+beauty,Beauty,234,2026-06-01 19:00:00,entrance_west
+entertainment,Entertainment,235,2026-06-01 19:00:00,entrance_east
+food_court,Food Court,214,2026-06-01 20:00:00,entrance_north
+fashion_floor,Fashion Floor,297,2026-06-01 20:00:00,entrance_east
+electronics,Electronics,107,2026-06-01 20:00:00,entrance_north
+sporting,Sporting,134,2026-06-01 20:00:00,entrance_west
+beauty,Beauty,255,2026-06-01 20:00:00,entrance_west
+entertainment,Entertainment,152,2026-06-01 20:00:00,entrance_south
+food_court,Food Court,67,2026-06-01 21:00:00,entrance_east
+fashion_floor,Fashion Floor,92,2026-06-01 21:00:00,entrance_east
+electronics,Electronics,62,2026-06-01 21:00:00,entrance_west
+sporting,Sporting,81,2026-06-01 21:00:00,entrance_north
+beauty,Beauty,28,2026-06-01 21:00:00,entrance_west
+entertainment,Entertainment,65,2026-06-01 21:00:00,entrance_south
+food_court,Food Court,74,2026-05-31 09:00:00,entrance_west
+fashion_floor,Fashion Floor,131,2026-05-31 09:00:00,entrance_south
+electronics,Electronics,59,2026-05-31 09:00:00,entrance_east
+sporting,Sporting,104,2026-05-31 09:00:00,entrance_east
+beauty,Beauty,62,2026-05-31 09:00:00,entrance_east
+entertainment,Entertainment,195,2026-05-31 09:00:00,entrance_east
+food_court,Food Court,137,2026-05-31 10:00:00,entrance_south
+fashion_floor,Fashion Floor,54,2026-05-31 10:00:00,entrance_west
+electronics,Electronics,38,2026-05-31 10:00:00,entrance_west
+sporting,Sporting,126,2026-05-31 10:00:00,entrance_east
+beauty,Beauty,129,2026-05-31 10:00:00,entrance_west
+entertainment,Entertainment,55,2026-05-31 10:00:00,entrance_east
+food_court,Food Court,62,2026-05-31 11:00:00,entrance_north
+fashion_floor,Fashion Floor,124,2026-05-31 11:00:00,entrance_east
+electronics,Electronics,75,2026-05-31 11:00:00,entrance_south
+sporting,Sporting,65,2026-05-31 11:00:00,entrance_east
+beauty,Beauty,84,2026-05-31 11:00:00,entrance_west
+entertainment,Entertainment,104,2026-05-31 11:00:00,entrance_south
+food_court,Food Court,168,2026-05-31 12:00:00,entrance_north
+fashion_floor,Fashion Floor,295,2026-05-31 12:00:00,entrance_north
+electronics,Electronics,294,2026-05-31 12:00:00,entrance_west
+sporting,Sporting,324,2026-05-31 12:00:00,entrance_west
+beauty,Beauty,296,2026-05-31 12:00:00,entrance_east
+entertainment,Entertainment,362,2026-05-31 12:00:00,entrance_east
+food_court,Food Court,318,2026-05-31 13:00:00,entrance_south
+fashion_floor,Fashion Floor,288,2026-05-31 13:00:00,entrance_west
+electronics,Electronics,311,2026-05-31 13:00:00,entrance_west
+sporting,Sporting,459,2026-05-31 13:00:00,entrance_south
+beauty,Beauty,214,2026-05-31 13:00:00,entrance_south
+entertainment,Entertainment,338,2026-05-31 13:00:00,entrance_north
+food_court,Food Court,140,2026-05-31 14:00:00,entrance_north
+fashion_floor,Fashion Floor,146,2026-05-31 14:00:00,entrance_south
+electronics,Electronics,434,2026-05-31 14:00:00,entrance_east
+sporting,Sporting,319,2026-05-31 14:00:00,entrance_north
+beauty,Beauty,261,2026-05-31 14:00:00,entrance_east
+entertainment,Entertainment,380,2026-05-31 14:00:00,entrance_east
+food_court,Food Court,163,2026-05-31 15:00:00,entrance_west
+fashion_floor,Fashion Floor,162,2026-05-31 15:00:00,entrance_west
+electronics,Electronics,75,2026-05-31 15:00:00,entrance_west
+sporting,Sporting,28,2026-05-31 15:00:00,entrance_east
+beauty,Beauty,90,2026-05-31 15:00:00,entrance_east
+entertainment,Entertainment,66,2026-05-31 15:00:00,entrance_west
+food_court,Food Court,137,2026-05-31 16:00:00,entrance_north
+fashion_floor,Fashion Floor,74,2026-05-31 16:00:00,entrance_west
+electronics,Electronics,153,2026-05-31 16:00:00,entrance_north
+sporting,Sporting,65,2026-05-31 16:00:00,entrance_west
+beauty,Beauty,101,2026-05-31 16:00:00,entrance_east
+entertainment,Entertainment,32,2026-05-31 16:00:00,entrance_south
+food_court,Food Court,121,2026-05-31 17:00:00,entrance_south
+fashion_floor,Fashion Floor,127,2026-05-31 17:00:00,entrance_west
+electronics,Electronics,116,2026-05-31 17:00:00,entrance_north
+sporting,Sporting,41,2026-05-31 17:00:00,entrance_north
+beauty,Beauty,68,2026-05-31 17:00:00,entrance_west
+entertainment,Entertainment,38,2026-05-31 17:00:00,entrance_south
+food_court,Food Court,265,2026-05-31 18:00:00,entrance_north
+fashion_floor,Fashion Floor,345,2026-05-31 18:00:00,entrance_north
+electronics,Electronics,279,2026-05-31 18:00:00,entrance_east
+sporting,Sporting,533,2026-05-31 18:00:00,entrance_north
+beauty,Beauty,350,2026-05-31 18:00:00,entrance_east
+entertainment,Entertainment,252,2026-05-31 18:00:00,entrance_south
+food_court,Food Court,317,2026-05-31 19:00:00,entrance_west
+fashion_floor,Fashion Floor,482,2026-05-31 19:00:00,entrance_east
+electronics,Electronics,390,2026-05-31 19:00:00,entrance_north
+sporting,Sporting,371,2026-05-31 19:00:00,entrance_east
+beauty,Beauty,389,2026-05-31 19:00:00,entrance_west
+entertainment,Entertainment,167,2026-05-31 19:00:00,entrance_south
+food_court,Food Court,318,2026-05-31 20:00:00,entrance_east
+fashion_floor,Fashion Floor,364,2026-05-31 20:00:00,entrance_west
+electronics,Electronics,242,2026-05-31 20:00:00,entrance_south
+sporting,Sporting,199,2026-05-31 20:00:00,entrance_east
+beauty,Beauty,436,2026-05-31 20:00:00,entrance_north
+entertainment,Entertainment,232,2026-05-31 20:00:00,entrance_south
+food_court,Food Court,123,2026-05-31 21:00:00,entrance_east
+fashion_floor,Fashion Floor,40,2026-05-31 21:00:00,entrance_south
+electronics,Electronics,60,2026-05-31 21:00:00,entrance_north
+sporting,Sporting,103,2026-05-31 21:00:00,entrance_east
+beauty,Beauty,87,2026-05-31 21:00:00,entrance_north
+entertainment,Entertainment,115,2026-05-31 21:00:00,entrance_south
+food_court,Food Court,37,2026-05-30 09:00:00,entrance_south
+fashion_floor,Fashion Floor,38,2026-05-30 09:00:00,entrance_west
+electronics,Electronics,112,2026-05-30 09:00:00,entrance_south
+sporting,Sporting,49,2026-05-30 09:00:00,entrance_west
+beauty,Beauty,78,2026-05-30 09:00:00,entrance_south
+entertainment,Entertainment,51,2026-05-30 09:00:00,entrance_north
+food_court,Food Court,139,2026-05-30 10:00:00,entrance_west
+fashion_floor,Fashion Floor,132,2026-05-30 10:00:00,entrance_south
+electronics,Electronics,110,2026-05-30 10:00:00,entrance_north
+sporting,Sporting,95,2026-05-30 10:00:00,entrance_south
+beauty,Beauty,79,2026-05-30 10:00:00,entrance_east
+entertainment,Entertainment,123,2026-05-30 10:00:00,entrance_east
+food_court,Food Court,134,2026-05-30 11:00:00,entrance_east
+fashion_floor,Fashion Floor,105,2026-05-30 11:00:00,entrance_north
+electronics,Electronics,124,2026-05-30 11:00:00,entrance_south
+sporting,Sporting,106,2026-05-30 11:00:00,entrance_west
+beauty,Beauty,41,2026-05-30 11:00:00,entrance_east
+entertainment,Entertainment,187,2026-05-30 11:00:00,entrance_north
+food_court,Food Court,173,2026-05-30 12:00:00,entrance_north
+fashion_floor,Fashion Floor,208,2026-05-30 12:00:00,entrance_east
+electronics,Electronics,227,2026-05-30 12:00:00,entrance_north
+sporting,Sporting,351,2026-05-30 12:00:00,entrance_south
+beauty,Beauty,406,2026-05-30 12:00:00,entrance_south
+entertainment,Entertainment,121,2026-05-30 12:00:00,entrance_south
+food_court,Food Court,255,2026-05-30 13:00:00,entrance_south
+fashion_floor,Fashion Floor,239,2026-05-30 13:00:00,entrance_south
+electronics,Electronics,467,2026-05-30 13:00:00,entrance_east
+sporting,Sporting,283,2026-05-30 13:00:00,entrance_west
+beauty,Beauty,294,2026-05-30 13:00:00,entrance_south
+entertainment,Entertainment,328,2026-05-30 13:00:00,entrance_east
+food_court,Food Court,305,2026-05-30 14:00:00,entrance_west
+fashion_floor,Fashion Floor,329,2026-05-30 14:00:00,entrance_east
+electronics,Electronics,198,2026-05-30 14:00:00,entrance_north
+sporting,Sporting,132,2026-05-30 14:00:00,entrance_west
+beauty,Beauty,163,2026-05-30 14:00:00,entrance_north
+entertainment,Entertainment,216,2026-05-30 14:00:00,entrance_west
+food_court,Food Court,165,2026-05-30 15:00:00,entrance_east
+fashion_floor,Fashion Floor,78,2026-05-30 15:00:00,entrance_east
+electronics,Electronics,95,2026-05-30 15:00:00,entrance_west
+sporting,Sporting,106,2026-05-30 15:00:00,entrance_south
+beauty,Beauty,54,2026-05-30 15:00:00,entrance_north
+entertainment,Entertainment,111,2026-05-30 15:00:00,entrance_east
+food_court,Food Court,88,2026-05-30 16:00:00,entrance_west
+fashion_floor,Fashion Floor,70,2026-05-30 16:00:00,entrance_south
+electronics,Electronics,85,2026-05-30 16:00:00,entrance_west
+sporting,Sporting,132,2026-05-30 16:00:00,entrance_west
+beauty,Beauty,76,2026-05-30 16:00:00,entrance_west
+entertainment,Entertainment,122,2026-05-30 16:00:00,entrance_west
+food_court,Food Court,76,2026-05-30 17:00:00,entrance_west
+fashion_floor,Fashion Floor,70,2026-05-30 17:00:00,entrance_south
+electronics,Electronics,37,2026-05-30 17:00:00,entrance_north
+sporting,Sporting,57,2026-05-30 17:00:00,entrance_west
+beauty,Beauty,126,2026-05-30 17:00:00,entrance_south
+entertainment,Entertainment,69,2026-05-30 17:00:00,entrance_north
+food_court,Food Court,413,2026-05-30 18:00:00,entrance_south
+fashion_floor,Fashion Floor,283,2026-05-30 18:00:00,entrance_west
+electronics,Electronics,196,2026-05-30 18:00:00,entrance_south
+sporting,Sporting,369,2026-05-30 18:00:00,entrance_north
+beauty,Beauty,413,2026-05-30 18:00:00,entrance_north
+entertainment,Entertainment,542,2026-05-30 18:00:00,entrance_south
+food_court,Food Court,376,2026-05-30 19:00:00,entrance_west
+fashion_floor,Fashion Floor,364,2026-05-30 19:00:00,entrance_north
+electronics,Electronics,253,2026-05-30 19:00:00,entrance_north
+sporting,Sporting,200,2026-05-30 19:00:00,entrance_north
+beauty,Beauty,336,2026-05-30 19:00:00,entrance_north
+entertainment,Entertainment,434,2026-05-30 19:00:00,entrance_south
+food_court,Food Court,276,2026-05-30 20:00:00,entrance_west
+fashion_floor,Fashion Floor,278,2026-05-30 20:00:00,entrance_south
+electronics,Electronics,357,2026-05-30 20:00:00,entrance_south
+sporting,Sporting,330,2026-05-30 20:00:00,entrance_south
+beauty,Beauty,383,2026-05-30 20:00:00,entrance_south
+entertainment,Entertainment,258,2026-05-30 20:00:00,entrance_west
+food_court,Food Court,135,2026-05-30 21:00:00,entrance_south
+fashion_floor,Fashion Floor,82,2026-05-30 21:00:00,entrance_east
+electronics,Electronics,114,2026-05-30 21:00:00,entrance_west
+sporting,Sporting,66,2026-05-30 21:00:00,entrance_south
+beauty,Beauty,134,2026-05-30 21:00:00,entrance_south
+entertainment,Entertainment,127,2026-05-30 21:00:00,entrance_west
+food_court,Food Court,78,2026-05-29 09:00:00,entrance_east
+fashion_floor,Fashion Floor,47,2026-05-29 09:00:00,entrance_north
+electronics,Electronics,48,2026-05-29 09:00:00,entrance_east
+sporting,Sporting,56,2026-05-29 09:00:00,entrance_north
+beauty,Beauty,67,2026-05-29 09:00:00,entrance_west
+entertainment,Entertainment,38,2026-05-29 09:00:00,entrance_west
+food_court,Food Court,70,2026-05-29 10:00:00,entrance_south
+fashion_floor,Fashion Floor,61,2026-05-29 10:00:00,entrance_west
+electronics,Electronics,53,2026-05-29 10:00:00,entrance_west
+sporting,Sporting,29,2026-05-29 10:00:00,entrance_west
+beauty,Beauty,69,2026-05-29 10:00:00,entrance_east
+entertainment,Entertainment,23,2026-05-29 10:00:00,entrance_south
+food_court,Food Court,90,2026-05-29 11:00:00,entrance_west
+fashion_floor,Fashion Floor,34,2026-05-29 11:00:00,entrance_south
+electronics,Electronics,67,2026-05-29 11:00:00,entrance_west
+sporting,Sporting,42,2026-05-29 11:00:00,entrance_east
+beauty,Beauty,78,2026-05-29 11:00:00,entrance_north
+entertainment,Entertainment,66,2026-05-29 11:00:00,entrance_west
+food_court,Food Court,116,2026-05-29 12:00:00,entrance_west
+fashion_floor,Fashion Floor,185,2026-05-29 12:00:00,entrance_south
+electronics,Electronics,176,2026-05-29 12:00:00,entrance_west
+sporting,Sporting,249,2026-05-29 12:00:00,entrance_north
+beauty,Beauty,124,2026-05-29 12:00:00,entrance_north
+entertainment,Entertainment,210,2026-05-29 12:00:00,entrance_north
+food_court,Food Court,245,2026-05-29 13:00:00,entrance_west
+fashion_floor,Fashion Floor,175,2026-05-29 13:00:00,entrance_west
+electronics,Electronics,177,2026-05-29 13:00:00,entrance_west
+sporting,Sporting,189,2026-05-29 13:00:00,entrance_east
+beauty,Beauty,175,2026-05-29 13:00:00,entrance_north
+entertainment,Entertainment,152,2026-05-29 13:00:00,entrance_east
+food_court,Food Court,218,2026-05-29 14:00:00,entrance_west
+fashion_floor,Fashion Floor,196,2026-05-29 14:00:00,entrance_east
+electronics,Electronics,93,2026-05-29 14:00:00,entrance_west
+sporting,Sporting,132,2026-05-29 14:00:00,entrance_east
+beauty,Beauty,138,2026-05-29 14:00:00,entrance_east
+entertainment,Entertainment,247,2026-05-29 14:00:00,entrance_north
+food_court,Food Court,48,2026-05-29 15:00:00,entrance_north
+fashion_floor,Fashion Floor,72,2026-05-29 15:00:00,entrance_north
+electronics,Electronics,76,2026-05-29 15:00:00,entrance_east
+sporting,Sporting,84,2026-05-29 15:00:00,entrance_north
+beauty,Beauty,57,2026-05-29 15:00:00,entrance_west
+entertainment,Entertainment,46,2026-05-29 15:00:00,entrance_north
+food_court,Food Court,86,2026-05-29 16:00:00,entrance_west
+fashion_floor,Fashion Floor,65,2026-05-29 16:00:00,entrance_east
+electronics,Electronics,50,2026-05-29 16:00:00,entrance_west
+sporting,Sporting,56,2026-05-29 16:00:00,entrance_south
+beauty,Beauty,100,2026-05-29 16:00:00,entrance_north
+entertainment,Entertainment,32,2026-05-29 16:00:00,entrance_south
+food_court,Food Court,25,2026-05-29 17:00:00,entrance_north
+fashion_floor,Fashion Floor,84,2026-05-29 17:00:00,entrance_north
+electronics,Electronics,90,2026-05-29 17:00:00,entrance_east
+sporting,Sporting,65,2026-05-29 17:00:00,entrance_west
+beauty,Beauty,51,2026-05-29 17:00:00,entrance_east
+entertainment,Entertainment,42,2026-05-29 17:00:00,entrance_east
+food_court,Food Court,263,2026-05-29 18:00:00,entrance_east
+fashion_floor,Fashion Floor,276,2026-05-29 18:00:00,entrance_east
+electronics,Electronics,177,2026-05-29 18:00:00,entrance_east
+sporting,Sporting,215,2026-05-29 18:00:00,entrance_east
+beauty,Beauty,271,2026-05-29 18:00:00,entrance_north
+entertainment,Entertainment,132,2026-05-29 18:00:00,entrance_north
+food_court,Food Court,219,2026-05-29 19:00:00,entrance_south
+fashion_floor,Fashion Floor,147,2026-05-29 19:00:00,entrance_east
+electronics,Electronics,161,2026-05-29 19:00:00,entrance_west
+sporting,Sporting,150,2026-05-29 19:00:00,entrance_north
+beauty,Beauty,174,2026-05-29 19:00:00,entrance_south
+entertainment,Entertainment,115,2026-05-29 19:00:00,entrance_west
+food_court,Food Court,193,2026-05-29 20:00:00,entrance_south
+fashion_floor,Fashion Floor,201,2026-05-29 20:00:00,entrance_west
+electronics,Electronics,222,2026-05-29 20:00:00,entrance_north
+sporting,Sporting,286,2026-05-29 20:00:00,entrance_east
+beauty,Beauty,258,2026-05-29 20:00:00,entrance_west
+entertainment,Entertainment,243,2026-05-29 20:00:00,entrance_west
+food_court,Food Court,68,2026-05-29 21:00:00,entrance_north
+fashion_floor,Fashion Floor,89,2026-05-29 21:00:00,entrance_east
+electronics,Electronics,59,2026-05-29 21:00:00,entrance_west
+sporting,Sporting,61,2026-05-29 21:00:00,entrance_east
+beauty,Beauty,95,2026-05-29 21:00:00,entrance_north
+entertainment,Entertainment,83,2026-05-29 21:00:00,entrance_south
+food_court,Food Court,27,2026-05-28 09:00:00,entrance_east
+fashion_floor,Fashion Floor,76,2026-05-28 09:00:00,entrance_north
+electronics,Electronics,39,2026-05-28 09:00:00,entrance_west
+sporting,Sporting,22,2026-05-28 09:00:00,entrance_east
+beauty,Beauty,56,2026-05-28 09:00:00,entrance_west
+entertainment,Entertainment,73,2026-05-28 09:00:00,entrance_north
+food_court,Food Court,76,2026-05-28 10:00:00,entrance_east
+fashion_floor,Fashion Floor,58,2026-05-28 10:00:00,entrance_south
+electronics,Electronics,45,2026-05-28 10:00:00,entrance_south
+sporting,Sporting,67,2026-05-28 10:00:00,entrance_west
+beauty,Beauty,92,2026-05-28 10:00:00,entrance_north
+entertainment,Entertainment,23,2026-05-28 10:00:00,entrance_north
+food_court,Food Court,81,2026-05-28 11:00:00,entrance_south
+fashion_floor,Fashion Floor,80,2026-05-28 11:00:00,entrance_east
+electronics,Electronics,60,2026-05-28 11:00:00,entrance_east
+sporting,Sporting,48,2026-05-28 11:00:00,entrance_west
+beauty,Beauty,71,2026-05-28 11:00:00,entrance_west
+entertainment,Entertainment,86,2026-05-28 11:00:00,entrance_east
+food_court,Food Court,228,2026-05-28 12:00:00,entrance_east
+fashion_floor,Fashion Floor,247,2026-05-28 12:00:00,entrance_north
+electronics,Electronics,213,2026-05-28 12:00:00,entrance_north
+sporting,Sporting,170,2026-05-28 12:00:00,entrance_south
+beauty,Beauty,120,2026-05-28 12:00:00,entrance_west
+entertainment,Entertainment,166,2026-05-28 12:00:00,entrance_east
+food_court,Food Court,82,2026-05-28 13:00:00,entrance_east
+fashion_floor,Fashion Floor,219,2026-05-28 13:00:00,entrance_east
+electronics,Electronics,237,2026-05-28 13:00:00,entrance_north
+sporting,Sporting,125,2026-05-28 13:00:00,entrance_east
+beauty,Beauty,161,2026-05-28 13:00:00,entrance_south
+entertainment,Entertainment,86,2026-05-28 13:00:00,entrance_east
+food_court,Food Court,230,2026-05-28 14:00:00,entrance_east
+fashion_floor,Fashion Floor,219,2026-05-28 14:00:00,entrance_west
+electronics,Electronics,95,2026-05-28 14:00:00,entrance_south
+sporting,Sporting,168,2026-05-28 14:00:00,entrance_east
+beauty,Beauty,105,2026-05-28 14:00:00,entrance_north
+entertainment,Entertainment,81,2026-05-28 14:00:00,entrance_west
+food_court,Food Court,64,2026-05-28 15:00:00,entrance_south
+fashion_floor,Fashion Floor,22,2026-05-28 15:00:00,entrance_east
+electronics,Electronics,90,2026-05-28 15:00:00,entrance_south
+sporting,Sporting,25,2026-05-28 15:00:00,entrance_west
+beauty,Beauty,57,2026-05-28 15:00:00,entrance_west
+entertainment,Entertainment,42,2026-05-28 15:00:00,entrance_south
+food_court,Food Court,44,2026-05-28 16:00:00,entrance_east
+fashion_floor,Fashion Floor,94,2026-05-28 16:00:00,entrance_east
+electronics,Electronics,92,2026-05-28 16:00:00,entrance_west
+sporting,Sporting,84,2026-05-28 16:00:00,entrance_north
+beauty,Beauty,69,2026-05-28 16:00:00,entrance_east
+entertainment,Entertainment,42,2026-05-28 16:00:00,entrance_east
+food_court,Food Court,72,2026-05-28 17:00:00,entrance_south
+fashion_floor,Fashion Floor,70,2026-05-28 17:00:00,entrance_west
+electronics,Electronics,31,2026-05-28 17:00:00,entrance_west
+sporting,Sporting,35,2026-05-28 17:00:00,entrance_east
+beauty,Beauty,84,2026-05-28 17:00:00,entrance_south
+entertainment,Entertainment,82,2026-05-28 17:00:00,entrance_west
+food_court,Food Court,109,2026-05-28 18:00:00,entrance_west
+fashion_floor,Fashion Floor,248,2026-05-28 18:00:00,entrance_west
+electronics,Electronics,143,2026-05-28 18:00:00,entrance_north
+sporting,Sporting,264,2026-05-28 18:00:00,entrance_east
+beauty,Beauty,275,2026-05-28 18:00:00,entrance_south
+entertainment,Entertainment,149,2026-05-28 18:00:00,entrance_east
+food_court,Food Court,146,2026-05-28 19:00:00,entrance_south
+fashion_floor,Fashion Floor,250,2026-05-28 19:00:00,entrance_south
+electronics,Electronics,285,2026-05-28 19:00:00,entrance_south
+sporting,Sporting,289,2026-05-28 19:00:00,entrance_east
+beauty,Beauty,269,2026-05-28 19:00:00,entrance_north
+entertainment,Entertainment,150,2026-05-28 19:00:00,entrance_east
+food_court,Food Court,155,2026-05-28 20:00:00,entrance_south
+fashion_floor,Fashion Floor,144,2026-05-28 20:00:00,entrance_north
+electronics,Electronics,118,2026-05-28 20:00:00,entrance_east
+sporting,Sporting,293,2026-05-28 20:00:00,entrance_west
+beauty,Beauty,108,2026-05-28 20:00:00,entrance_east
+entertainment,Entertainment,204,2026-05-28 20:00:00,entrance_east
+food_court,Food Court,31,2026-05-28 21:00:00,entrance_east
+fashion_floor,Fashion Floor,36,2026-05-28 21:00:00,entrance_north
+electronics,Electronics,51,2026-05-28 21:00:00,entrance_south
+sporting,Sporting,52,2026-05-28 21:00:00,entrance_west
+beauty,Beauty,80,2026-05-28 21:00:00,entrance_west
+entertainment,Entertainment,54,2026-05-28 21:00:00,entrance_east
+food_court,Food Court,31,2026-05-27 09:00:00,entrance_south
+fashion_floor,Fashion Floor,46,2026-05-27 09:00:00,entrance_east
+electronics,Electronics,55,2026-05-27 09:00:00,entrance_south
+sporting,Sporting,87,2026-05-27 09:00:00,entrance_east
+beauty,Beauty,21,2026-05-27 09:00:00,entrance_north
+entertainment,Entertainment,70,2026-05-27 09:00:00,entrance_west
+food_court,Food Court,83,2026-05-27 10:00:00,entrance_west
+fashion_floor,Fashion Floor,97,2026-05-27 10:00:00,entrance_north
+electronics,Electronics,20,2026-05-27 10:00:00,entrance_north
+sporting,Sporting,32,2026-05-27 10:00:00,entrance_north
+beauty,Beauty,52,2026-05-27 10:00:00,entrance_north
+entertainment,Entertainment,91,2026-05-27 10:00:00,entrance_west
+food_court,Food Court,47,2026-05-27 11:00:00,entrance_east
+fashion_floor,Fashion Floor,78,2026-05-27 11:00:00,entrance_west
+electronics,Electronics,62,2026-05-27 11:00:00,entrance_south
+sporting,Sporting,54,2026-05-27 11:00:00,entrance_west
+beauty,Beauty,88,2026-05-27 11:00:00,entrance_east
+entertainment,Entertainment,44,2026-05-27 11:00:00,entrance_east
+food_court,Food Court,104,2026-05-27 12:00:00,entrance_north
+fashion_floor,Fashion Floor,113,2026-05-27 12:00:00,entrance_north
+electronics,Electronics,237,2026-05-27 12:00:00,entrance_east
+sporting,Sporting,249,2026-05-27 12:00:00,entrance_south
+beauty,Beauty,121,2026-05-27 12:00:00,entrance_west
+entertainment,Entertainment,197,2026-05-27 12:00:00,entrance_east
+food_court,Food Court,85,2026-05-27 13:00:00,entrance_west
+fashion_floor,Fashion Floor,139,2026-05-27 13:00:00,entrance_west
+electronics,Electronics,126,2026-05-27 13:00:00,entrance_west
+sporting,Sporting,122,2026-05-27 13:00:00,entrance_north
+beauty,Beauty,215,2026-05-27 13:00:00,entrance_east
+entertainment,Entertainment,144,2026-05-27 13:00:00,entrance_east
+food_court,Food Court,214,2026-05-27 14:00:00,entrance_north
+fashion_floor,Fashion Floor,177,2026-05-27 14:00:00,entrance_south
+electronics,Electronics,149,2026-05-27 14:00:00,entrance_south
+sporting,Sporting,226,2026-05-27 14:00:00,entrance_east
+beauty,Beauty,101,2026-05-27 14:00:00,entrance_north
+entertainment,Entertainment,250,2026-05-27 14:00:00,entrance_west
+food_court,Food Court,99,2026-05-27 15:00:00,entrance_east
+fashion_floor,Fashion Floor,41,2026-05-27 15:00:00,entrance_west
+electronics,Electronics,62,2026-05-27 15:00:00,entrance_west
+sporting,Sporting,59,2026-05-27 15:00:00,entrance_east
+beauty,Beauty,42,2026-05-27 15:00:00,entrance_south
+entertainment,Entertainment,66,2026-05-27 15:00:00,entrance_north
+food_court,Food Court,39,2026-05-27 16:00:00,entrance_north
+fashion_floor,Fashion Floor,31,2026-05-27 16:00:00,entrance_east
+electronics,Electronics,55,2026-05-27 16:00:00,entrance_south
+sporting,Sporting,77,2026-05-27 16:00:00,entrance_north
+beauty,Beauty,65,2026-05-27 16:00:00,entrance_east
+entertainment,Entertainment,57,2026-05-27 16:00:00,entrance_east
+food_court,Food Court,35,2026-05-27 17:00:00,entrance_west
+fashion_floor,Fashion Floor,23,2026-05-27 17:00:00,entrance_west
+electronics,Electronics,50,2026-05-27 17:00:00,entrance_east
+sporting,Sporting,58,2026-05-27 17:00:00,entrance_north
+beauty,Beauty,30,2026-05-27 17:00:00,entrance_east
+entertainment,Entertainment,93,2026-05-27 17:00:00,entrance_south
+food_court,Food Court,266,2026-05-27 18:00:00,entrance_west
+fashion_floor,Fashion Floor,284,2026-05-27 18:00:00,entrance_north
+electronics,Electronics,266,2026-05-27 18:00:00,entrance_south
+sporting,Sporting,152,2026-05-27 18:00:00,entrance_south
+beauty,Beauty,296,2026-05-27 18:00:00,entrance_north
+entertainment,Entertainment,182,2026-05-27 18:00:00,entrance_south
+food_court,Food Court,150,2026-05-27 19:00:00,entrance_east
+fashion_floor,Fashion Floor,245,2026-05-27 19:00:00,entrance_north
+electronics,Electronics,180,2026-05-27 19:00:00,entrance_west
+sporting,Sporting,101,2026-05-27 19:00:00,entrance_south
+beauty,Beauty,274,2026-05-27 19:00:00,entrance_south
+entertainment,Entertainment,145,2026-05-27 19:00:00,entrance_north
+food_court,Food Court,229,2026-05-27 20:00:00,entrance_south
+fashion_floor,Fashion Floor,109,2026-05-27 20:00:00,entrance_east
+electronics,Electronics,214,2026-05-27 20:00:00,entrance_north
+sporting,Sporting,237,2026-05-27 20:00:00,entrance_west
+beauty,Beauty,293,2026-05-27 20:00:00,entrance_west
+entertainment,Entertainment,165,2026-05-27 20:00:00,entrance_west
+food_court,Food Court,54,2026-05-27 21:00:00,entrance_south
+fashion_floor,Fashion Floor,92,2026-05-27 21:00:00,entrance_west
+electronics,Electronics,86,2026-05-27 21:00:00,entrance_south
+sporting,Sporting,76,2026-05-27 21:00:00,entrance_south
+beauty,Beauty,52,2026-05-27 21:00:00,entrance_south
+entertainment,Entertainment,87,2026-05-27 21:00:00,entrance_south
+food_court,Food Court,42,2026-05-26 09:00:00,entrance_north
+fashion_floor,Fashion Floor,22,2026-05-26 09:00:00,entrance_east
+electronics,Electronics,45,2026-05-26 09:00:00,entrance_west
+sporting,Sporting,61,2026-05-26 09:00:00,entrance_east
+beauty,Beauty,50,2026-05-26 09:00:00,entrance_south
+entertainment,Entertainment,60,2026-05-26 09:00:00,entrance_east
+food_court,Food Court,22,2026-05-26 10:00:00,entrance_east
+fashion_floor,Fashion Floor,87,2026-05-26 10:00:00,entrance_east
+electronics,Electronics,24,2026-05-26 10:00:00,entrance_west
+sporting,Sporting,65,2026-05-26 10:00:00,entrance_west
+beauty,Beauty,58,2026-05-26 10:00:00,entrance_west
+entertainment,Entertainment,42,2026-05-26 10:00:00,entrance_south
+food_court,Food Court,53,2026-05-26 11:00:00,entrance_west
+fashion_floor,Fashion Floor,94,2026-05-26 11:00:00,entrance_east
+electronics,Electronics,94,2026-05-26 11:00:00,entrance_north
+sporting,Sporting,100,2026-05-26 11:00:00,entrance_east
+beauty,Beauty,76,2026-05-26 11:00:00,entrance_north
+entertainment,Entertainment,56,2026-05-26 11:00:00,entrance_west
+food_court,Food Court,125,2026-05-26 12:00:00,entrance_east
+fashion_floor,Fashion Floor,139,2026-05-26 12:00:00,entrance_north
+electronics,Electronics,238,2026-05-26 12:00:00,entrance_south
+sporting,Sporting,196,2026-05-26 12:00:00,entrance_north
+beauty,Beauty,115,2026-05-26 12:00:00,entrance_east
+entertainment,Entertainment,185,2026-05-26 12:00:00,entrance_north
+food_court,Food Court,231,2026-05-26 13:00:00,entrance_south
+fashion_floor,Fashion Floor,160,2026-05-26 13:00:00,entrance_east
+electronics,Electronics,154,2026-05-26 13:00:00,entrance_south
+sporting,Sporting,240,2026-05-26 13:00:00,entrance_north
+beauty,Beauty,219,2026-05-26 13:00:00,entrance_north
+entertainment,Entertainment,129,2026-05-26 13:00:00,entrance_east
+food_court,Food Court,216,2026-05-26 14:00:00,entrance_west
+fashion_floor,Fashion Floor,234,2026-05-26 14:00:00,entrance_south
+electronics,Electronics,143,2026-05-26 14:00:00,entrance_north
+sporting,Sporting,180,2026-05-26 14:00:00,entrance_east
+beauty,Beauty,248,2026-05-26 14:00:00,entrance_east
+entertainment,Entertainment,150,2026-05-26 14:00:00,entrance_west
+food_court,Food Court,59,2026-05-26 15:00:00,entrance_east
+fashion_floor,Fashion Floor,71,2026-05-26 15:00:00,entrance_west
+electronics,Electronics,58,2026-05-26 15:00:00,entrance_east
+sporting,Sporting,73,2026-05-26 15:00:00,entrance_east
+beauty,Beauty,30,2026-05-26 15:00:00,entrance_east
+entertainment,Entertainment,90,2026-05-26 15:00:00,entrance_east
+food_court,Food Court,42,2026-05-26 16:00:00,entrance_east
+fashion_floor,Fashion Floor,20,2026-05-26 16:00:00,entrance_south
+electronics,Electronics,59,2026-05-26 16:00:00,entrance_west
+sporting,Sporting,38,2026-05-26 16:00:00,entrance_west
+beauty,Beauty,56,2026-05-26 16:00:00,entrance_east
+entertainment,Entertainment,54,2026-05-26 16:00:00,entrance_west
+food_court,Food Court,100,2026-05-26 17:00:00,entrance_south
+fashion_floor,Fashion Floor,32,2026-05-26 17:00:00,entrance_north
+electronics,Electronics,28,2026-05-26 17:00:00,entrance_east
+sporting,Sporting,99,2026-05-26 17:00:00,entrance_east
+beauty,Beauty,64,2026-05-26 17:00:00,entrance_east
+entertainment,Entertainment,58,2026-05-26 17:00:00,entrance_north
+food_court,Food Court,125,2026-05-26 18:00:00,entrance_west
+fashion_floor,Fashion Floor,123,2026-05-26 18:00:00,entrance_north
+electronics,Electronics,262,2026-05-26 18:00:00,entrance_west
+sporting,Sporting,162,2026-05-26 18:00:00,entrance_west
+beauty,Beauty,203,2026-05-26 18:00:00,entrance_west
+entertainment,Entertainment,272,2026-05-26 18:00:00,entrance_north
+food_court,Food Court,238,2026-05-26 19:00:00,entrance_north
+fashion_floor,Fashion Floor,254,2026-05-26 19:00:00,entrance_west
+electronics,Electronics,194,2026-05-26 19:00:00,entrance_north
+sporting,Sporting,110,2026-05-26 19:00:00,entrance_south
+beauty,Beauty,236,2026-05-26 19:00:00,entrance_east
+entertainment,Entertainment,220,2026-05-26 19:00:00,entrance_south
+food_court,Food Court,266,2026-05-26 20:00:00,entrance_south
+fashion_floor,Fashion Floor,119,2026-05-26 20:00:00,entrance_east
+electronics,Electronics,237,2026-05-26 20:00:00,entrance_south
+sporting,Sporting,291,2026-05-26 20:00:00,entrance_south
+beauty,Beauty,177,2026-05-26 20:00:00,entrance_east
+entertainment,Entertainment,168,2026-05-26 20:00:00,entrance_north
+food_court,Food Court,31,2026-05-26 21:00:00,entrance_north
+fashion_floor,Fashion Floor,81,2026-05-26 21:00:00,entrance_west
+electronics,Electronics,68,2026-05-26 21:00:00,entrance_south
+sporting,Sporting,43,2026-05-26 21:00:00,entrance_south
+beauty,Beauty,69,2026-05-26 21:00:00,entrance_north
+entertainment,Entertainment,67,2026-05-26 21:00:00,entrance_west
+food_court,Food Court,37,2026-05-25 09:00:00,entrance_south
+fashion_floor,Fashion Floor,25,2026-05-25 09:00:00,entrance_south
+electronics,Electronics,61,2026-05-25 09:00:00,entrance_north
+sporting,Sporting,52,2026-05-25 09:00:00,entrance_west
+beauty,Beauty,65,2026-05-25 09:00:00,entrance_west
+entertainment,Entertainment,66,2026-05-25 09:00:00,entrance_west
+food_court,Food Court,45,2026-05-25 10:00:00,entrance_west
+fashion_floor,Fashion Floor,54,2026-05-25 10:00:00,entrance_south
+electronics,Electronics,20,2026-05-25 10:00:00,entrance_east
+sporting,Sporting,64,2026-05-25 10:00:00,entrance_south
+beauty,Beauty,91,2026-05-25 10:00:00,entrance_west
+entertainment,Entertainment,81,2026-05-25 10:00:00,entrance_north
+food_court,Food Court,57,2026-05-25 11:00:00,entrance_east
+fashion_floor,Fashion Floor,76,2026-05-25 11:00:00,entrance_east
+electronics,Electronics,82,2026-05-25 11:00:00,entrance_north
+sporting,Sporting,38,2026-05-25 11:00:00,entrance_west
+beauty,Beauty,41,2026-05-25 11:00:00,entrance_east
+entertainment,Entertainment,64,2026-05-25 11:00:00,entrance_south
+food_court,Food Court,230,2026-05-25 12:00:00,entrance_east
+fashion_floor,Fashion Floor,125,2026-05-25 12:00:00,entrance_south
+electronics,Electronics,129,2026-05-25 12:00:00,entrance_south
+sporting,Sporting,228,2026-05-25 12:00:00,entrance_north
+beauty,Beauty,235,2026-05-25 12:00:00,entrance_east
+entertainment,Entertainment,145,2026-05-25 12:00:00,entrance_west
+food_court,Food Court,186,2026-05-25 13:00:00,entrance_south
+fashion_floor,Fashion Floor,198,2026-05-25 13:00:00,entrance_south
+electronics,Electronics,115,2026-05-25 13:00:00,entrance_south
+sporting,Sporting,185,2026-05-25 13:00:00,entrance_south
+beauty,Beauty,89,2026-05-25 13:00:00,entrance_west
+entertainment,Entertainment,223,2026-05-25 13:00:00,entrance_north
+food_court,Food Court,229,2026-05-25 14:00:00,entrance_south
+fashion_floor,Fashion Floor,124,2026-05-25 14:00:00,entrance_north
+electronics,Electronics,107,2026-05-25 14:00:00,entrance_west
+sporting,Sporting,245,2026-05-25 14:00:00,entrance_north
+beauty,Beauty,188,2026-05-25 14:00:00,entrance_west
+entertainment,Entertainment,184,2026-05-25 14:00:00,entrance_north
+food_court,Food Court,37,2026-05-25 15:00:00,entrance_west
+fashion_floor,Fashion Floor,81,2026-05-25 15:00:00,entrance_west
+electronics,Electronics,95,2026-05-25 15:00:00,entrance_south
+sporting,Sporting,98,2026-05-25 15:00:00,entrance_east
+beauty,Beauty,98,2026-05-25 15:00:00,entrance_south
+entertainment,Entertainment,36,2026-05-25 15:00:00,entrance_west
+food_court,Food Court,29,2026-05-25 16:00:00,entrance_east
+fashion_floor,Fashion Floor,21,2026-05-25 16:00:00,entrance_south
+electronics,Electronics,31,2026-05-25 16:00:00,entrance_south
+sporting,Sporting,92,2026-05-25 16:00:00,entrance_east
+beauty,Beauty,22,2026-05-25 16:00:00,entrance_south
+entertainment,Entertainment,56,2026-05-25 16:00:00,entrance_south
+food_court,Food Court,24,2026-05-25 17:00:00,entrance_west
+fashion_floor,Fashion Floor,21,2026-05-25 17:00:00,entrance_south
+electronics,Electronics,46,2026-05-25 17:00:00,entrance_north
+sporting,Sporting,72,2026-05-25 17:00:00,entrance_north
+beauty,Beauty,82,2026-05-25 17:00:00,entrance_west
+entertainment,Entertainment,96,2026-05-25 17:00:00,entrance_east
+food_court,Food Court,182,2026-05-25 18:00:00,entrance_west
+fashion_floor,Fashion Floor,257,2026-05-25 18:00:00,entrance_west
+electronics,Electronics,276,2026-05-25 18:00:00,entrance_south
+sporting,Sporting,158,2026-05-25 18:00:00,entrance_east
+beauty,Beauty,129,2026-05-25 18:00:00,entrance_east
+entertainment,Entertainment,175,2026-05-25 18:00:00,entrance_north
+food_court,Food Court,273,2026-05-25 19:00:00,entrance_north
+fashion_floor,Fashion Floor,135,2026-05-25 19:00:00,entrance_west
+electronics,Electronics,147,2026-05-25 19:00:00,entrance_east
+sporting,Sporting,226,2026-05-25 19:00:00,entrance_east
+beauty,Beauty,173,2026-05-25 19:00:00,entrance_north
+entertainment,Entertainment,186,2026-05-25 19:00:00,entrance_south
+food_court,Food Court,222,2026-05-25 20:00:00,entrance_east
+fashion_floor,Fashion Floor,198,2026-05-25 20:00:00,entrance_east
+electronics,Electronics,209,2026-05-25 20:00:00,entrance_north
+sporting,Sporting,274,2026-05-25 20:00:00,entrance_east
+beauty,Beauty,210,2026-05-25 20:00:00,entrance_east
+entertainment,Entertainment,282,2026-05-25 20:00:00,entrance_west
+food_court,Food Court,51,2026-05-25 21:00:00,entrance_west
+fashion_floor,Fashion Floor,60,2026-05-25 21:00:00,entrance_north
+electronics,Electronics,60,2026-05-25 21:00:00,entrance_west
+sporting,Sporting,53,2026-05-25 21:00:00,entrance_east
+beauty,Beauty,24,2026-05-25 21:00:00,entrance_east
+entertainment,Entertainment,70,2026-05-25 21:00:00,entrance_north
+food_court,Food Court,133,2026-05-24 09:00:00,entrance_south
+fashion_floor,Fashion Floor,161,2026-05-24 09:00:00,entrance_north
+electronics,Electronics,106,2026-05-24 09:00:00,entrance_west
+sporting,Sporting,51,2026-05-24 09:00:00,entrance_west
+beauty,Beauty,51,2026-05-24 09:00:00,entrance_north
+entertainment,Entertainment,32,2026-05-24 09:00:00,entrance_west
+food_court,Food Court,100,2026-05-24 10:00:00,entrance_east
+fashion_floor,Fashion Floor,113,2026-05-24 10:00:00,entrance_east
+electronics,Electronics,140,2026-05-24 10:00:00,entrance_east
+sporting,Sporting,152,2026-05-24 10:00:00,entrance_east
+beauty,Beauty,130,2026-05-24 10:00:00,entrance_north
+entertainment,Entertainment,114,2026-05-24 10:00:00,entrance_south
+food_court,Food Court,142,2026-05-24 11:00:00,entrance_east
+fashion_floor,Fashion Floor,116,2026-05-24 11:00:00,entrance_east
+electronics,Electronics,113,2026-05-24 11:00:00,entrance_north
+sporting,Sporting,99,2026-05-24 11:00:00,entrance_east
+beauty,Beauty,96,2026-05-24 11:00:00,entrance_east
+entertainment,Entertainment,75,2026-05-24 11:00:00,entrance_south
+food_court,Food Court,284,2026-05-24 12:00:00,entrance_east
+fashion_floor,Fashion Floor,319,2026-05-24 12:00:00,entrance_west
+electronics,Electronics,393,2026-05-24 12:00:00,entrance_north
+sporting,Sporting,257,2026-05-24 12:00:00,entrance_west
+beauty,Beauty,393,2026-05-24 12:00:00,entrance_east
+entertainment,Entertainment,174,2026-05-24 12:00:00,entrance_east
+food_court,Food Court,387,2026-05-24 13:00:00,entrance_south
+fashion_floor,Fashion Floor,175,2026-05-24 13:00:00,entrance_south
+electronics,Electronics,390,2026-05-24 13:00:00,entrance_north
+sporting,Sporting,212,2026-05-24 13:00:00,entrance_east
+beauty,Beauty,188,2026-05-24 13:00:00,entrance_west
+entertainment,Entertainment,236,2026-05-24 13:00:00,entrance_east
+food_court,Food Court,292,2026-05-24 14:00:00,entrance_south
+fashion_floor,Fashion Floor,356,2026-05-24 14:00:00,entrance_west
+electronics,Electronics,381,2026-05-24 14:00:00,entrance_north
+sporting,Sporting,202,2026-05-24 14:00:00,entrance_west
+beauty,Beauty,159,2026-05-24 14:00:00,entrance_west
+entertainment,Entertainment,442,2026-05-24 14:00:00,entrance_west
+food_court,Food Court,111,2026-05-24 15:00:00,entrance_east
+fashion_floor,Fashion Floor,51,2026-05-24 15:00:00,entrance_south
+electronics,Electronics,68,2026-05-24 15:00:00,entrance_west
+sporting,Sporting,128,2026-05-24 15:00:00,entrance_west
+beauty,Beauty,167,2026-05-24 15:00:00,entrance_south
+entertainment,Entertainment,77,2026-05-24 15:00:00,entrance_west
+food_court,Food Court,144,2026-05-24 16:00:00,entrance_south
+fashion_floor,Fashion Floor,44,2026-05-24 16:00:00,entrance_south
+electronics,Electronics,63,2026-05-24 16:00:00,entrance_north
+sporting,Sporting,128,2026-05-24 16:00:00,entrance_north
+beauty,Beauty,48,2026-05-24 16:00:00,entrance_west
+entertainment,Entertainment,97,2026-05-24 16:00:00,entrance_south
+food_court,Food Court,133,2026-05-24 17:00:00,entrance_east
+fashion_floor,Fashion Floor,170,2026-05-24 17:00:00,entrance_south
+electronics,Electronics,136,2026-05-24 17:00:00,entrance_west
+sporting,Sporting,74,2026-05-24 17:00:00,entrance_west
+beauty,Beauty,63,2026-05-24 17:00:00,entrance_north
+entertainment,Entertainment,108,2026-05-24 17:00:00,entrance_south
+food_court,Food Court,448,2026-05-24 18:00:00,entrance_south
+fashion_floor,Fashion Floor,324,2026-05-24 18:00:00,entrance_south
+electronics,Electronics,423,2026-05-24 18:00:00,entrance_north
+sporting,Sporting,437,2026-05-24 18:00:00,entrance_north
+beauty,Beauty,192,2026-05-24 18:00:00,entrance_north
+entertainment,Entertainment,173,2026-05-24 18:00:00,entrance_south
+food_court,Food Court,442,2026-05-24 19:00:00,entrance_east
+fashion_floor,Fashion Floor,226,2026-05-24 19:00:00,entrance_north
+electronics,Electronics,196,2026-05-24 19:00:00,entrance_west
+sporting,Sporting,297,2026-05-24 19:00:00,entrance_north
+beauty,Beauty,390,2026-05-24 19:00:00,entrance_south
+entertainment,Entertainment,241,2026-05-24 19:00:00,entrance_west
+food_court,Food Court,407,2026-05-24 20:00:00,entrance_north
+fashion_floor,Fashion Floor,396,2026-05-24 20:00:00,entrance_west
+electronics,Electronics,406,2026-05-24 20:00:00,entrance_south
+sporting,Sporting,451,2026-05-24 20:00:00,entrance_south
+beauty,Beauty,365,2026-05-24 20:00:00,entrance_north
+entertainment,Entertainment,290,2026-05-24 20:00:00,entrance_south
+food_court,Food Court,153,2026-05-24 21:00:00,entrance_south
+fashion_floor,Fashion Floor,54,2026-05-24 21:00:00,entrance_west
+electronics,Electronics,70,2026-05-24 21:00:00,entrance_west
+sporting,Sporting,155,2026-05-24 21:00:00,entrance_east
+beauty,Beauty,113,2026-05-24 21:00:00,entrance_west
+entertainment,Entertainment,119,2026-05-24 21:00:00,entrance_east
+food_court,Food Court,46,2026-05-23 09:00:00,entrance_north
+fashion_floor,Fashion Floor,110,2026-05-23 09:00:00,entrance_north
+electronics,Electronics,179,2026-05-23 09:00:00,entrance_east
+sporting,Sporting,152,2026-05-23 09:00:00,entrance_south
+beauty,Beauty,41,2026-05-23 09:00:00,entrance_south
+entertainment,Entertainment,126,2026-05-23 09:00:00,entrance_east
+food_court,Food Court,33,2026-05-23 10:00:00,entrance_south
+fashion_floor,Fashion Floor,51,2026-05-23 10:00:00,entrance_west
+electronics,Electronics,99,2026-05-23 10:00:00,entrance_east
+sporting,Sporting,193,2026-05-23 10:00:00,entrance_north
+beauty,Beauty,120,2026-05-23 10:00:00,entrance_east
+entertainment,Entertainment,60,2026-05-23 10:00:00,entrance_west
+food_court,Food Court,81,2026-05-23 11:00:00,entrance_south
+fashion_floor,Fashion Floor,127,2026-05-23 11:00:00,entrance_west
+electronics,Electronics,58,2026-05-23 11:00:00,entrance_north
+sporting,Sporting,82,2026-05-23 11:00:00,entrance_east
+beauty,Beauty,136,2026-05-23 11:00:00,entrance_west
+entertainment,Entertainment,181,2026-05-23 11:00:00,entrance_west
+food_court,Food Court,136,2026-05-23 12:00:00,entrance_north
+fashion_floor,Fashion Floor,310,2026-05-23 12:00:00,entrance_south
+electronics,Electronics,387,2026-05-23 12:00:00,entrance_west
+sporting,Sporting,398,2026-05-23 12:00:00,entrance_south
+beauty,Beauty,181,2026-05-23 12:00:00,entrance_north
+entertainment,Entertainment,401,2026-05-23 12:00:00,entrance_north
+food_court,Food Court,202,2026-05-23 13:00:00,entrance_north
+fashion_floor,Fashion Floor,455,2026-05-23 13:00:00,entrance_south
+electronics,Electronics,252,2026-05-23 13:00:00,entrance_east
+sporting,Sporting,190,2026-05-23 13:00:00,entrance_west
+beauty,Beauty,234,2026-05-23 13:00:00,entrance_east
+entertainment,Entertainment,291,2026-05-23 13:00:00,entrance_west
+food_court,Food Court,292,2026-05-23 14:00:00,entrance_west
+fashion_floor,Fashion Floor,271,2026-05-23 14:00:00,entrance_south
+electronics,Electronics,234,2026-05-23 14:00:00,entrance_east
+sporting,Sporting,140,2026-05-23 14:00:00,entrance_south
+beauty,Beauty,386,2026-05-23 14:00:00,entrance_south
+entertainment,Entertainment,283,2026-05-23 14:00:00,entrance_south
+food_court,Food Court,74,2026-05-23 15:00:00,entrance_west
+fashion_floor,Fashion Floor,112,2026-05-23 15:00:00,entrance_east
+electronics,Electronics,76,2026-05-23 15:00:00,entrance_west
+sporting,Sporting,53,2026-05-23 15:00:00,entrance_west
+beauty,Beauty,166,2026-05-23 15:00:00,entrance_north
+entertainment,Entertainment,137,2026-05-23 15:00:00,entrance_south
+food_court,Food Court,61,2026-05-23 16:00:00,entrance_north
+fashion_floor,Fashion Floor,117,2026-05-23 16:00:00,entrance_north
+electronics,Electronics,51,2026-05-23 16:00:00,entrance_north
+sporting,Sporting,115,2026-05-23 16:00:00,entrance_west
+beauty,Beauty,70,2026-05-23 16:00:00,entrance_west
+entertainment,Entertainment,170,2026-05-23 16:00:00,entrance_east
+food_court,Food Court,94,2026-05-23 17:00:00,entrance_west
+fashion_floor,Fashion Floor,156,2026-05-23 17:00:00,entrance_east
+electronics,Electronics,106,2026-05-23 17:00:00,entrance_east
+sporting,Sporting,50,2026-05-23 17:00:00,entrance_south
+beauty,Beauty,73,2026-05-23 17:00:00,entrance_west
+entertainment,Entertainment,50,2026-05-23 17:00:00,entrance_east
+food_court,Food Court,192,2026-05-23 18:00:00,entrance_east
+fashion_floor,Fashion Floor,487,2026-05-23 18:00:00,entrance_west
+electronics,Electronics,236,2026-05-23 18:00:00,entrance_north
+sporting,Sporting,421,2026-05-23 18:00:00,entrance_east
+beauty,Beauty,397,2026-05-23 18:00:00,entrance_south
+entertainment,Entertainment,311,2026-05-23 18:00:00,entrance_east
+food_court,Food Court,160,2026-05-23 19:00:00,entrance_west
+fashion_floor,Fashion Floor,286,2026-05-23 19:00:00,entrance_south
+electronics,Electronics,179,2026-05-23 19:00:00,entrance_west
+sporting,Sporting,189,2026-05-23 19:00:00,entrance_south
+beauty,Beauty,281,2026-05-23 19:00:00,entrance_east
+entertainment,Entertainment,550,2026-05-23 19:00:00,entrance_east
+food_court,Food Court,234,2026-05-23 20:00:00,entrance_south
+fashion_floor,Fashion Floor,360,2026-05-23 20:00:00,entrance_east
+electronics,Electronics,283,2026-05-23 20:00:00,entrance_east
+sporting,Sporting,221,2026-05-23 20:00:00,entrance_east
+beauty,Beauty,268,2026-05-23 20:00:00,entrance_east
+entertainment,Entertainment,263,2026-05-23 20:00:00,entrance_east
+food_court,Food Court,76,2026-05-23 21:00:00,entrance_east
+fashion_floor,Fashion Floor,185,2026-05-23 21:00:00,entrance_north
+electronics,Electronics,145,2026-05-23 21:00:00,entrance_west
+sporting,Sporting,87,2026-05-23 21:00:00,entrance_north
+beauty,Beauty,115,2026-05-23 21:00:00,entrance_north
+entertainment,Entertainment,130,2026-05-23 21:00:00,entrance_east
+food_court,Food Court,25,2026-05-22 09:00:00,entrance_south
+fashion_floor,Fashion Floor,86,2026-05-22 09:00:00,entrance_east
+electronics,Electronics,92,2026-05-22 09:00:00,entrance_south
+sporting,Sporting,49,2026-05-22 09:00:00,entrance_east
+beauty,Beauty,50,2026-05-22 09:00:00,entrance_south
+entertainment,Entertainment,77,2026-05-22 09:00:00,entrance_east
+food_court,Food Court,40,2026-05-22 10:00:00,entrance_south
+fashion_floor,Fashion Floor,38,2026-05-22 10:00:00,entrance_north
+electronics,Electronics,61,2026-05-22 10:00:00,entrance_north
+sporting,Sporting,23,2026-05-22 10:00:00,entrance_west
+beauty,Beauty,71,2026-05-22 10:00:00,entrance_west
+entertainment,Entertainment,30,2026-05-22 10:00:00,entrance_west
+food_court,Food Court,67,2026-05-22 11:00:00,entrance_east
+fashion_floor,Fashion Floor,20,2026-05-22 11:00:00,entrance_west
+electronics,Electronics,79,2026-05-22 11:00:00,entrance_north
+sporting,Sporting,54,2026-05-22 11:00:00,entrance_west
+beauty,Beauty,20,2026-05-22 11:00:00,entrance_north
+entertainment,Entertainment,51,2026-05-22 11:00:00,entrance_south
+food_court,Food Court,186,2026-05-22 12:00:00,entrance_north
+fashion_floor,Fashion Floor,177,2026-05-22 12:00:00,entrance_west
+electronics,Electronics,121,2026-05-22 12:00:00,entrance_north
+sporting,Sporting,203,2026-05-22 12:00:00,entrance_north
+beauty,Beauty,171,2026-05-22 12:00:00,entrance_east
+entertainment,Entertainment,238,2026-05-22 12:00:00,entrance_south
+food_court,Food Court,103,2026-05-22 13:00:00,entrance_south
+fashion_floor,Fashion Floor,119,2026-05-22 13:00:00,entrance_north
+electronics,Electronics,250,2026-05-22 13:00:00,entrance_south
+sporting,Sporting,120,2026-05-22 13:00:00,entrance_west
+beauty,Beauty,135,2026-05-22 13:00:00,entrance_south
+entertainment,Entertainment,241,2026-05-22 13:00:00,entrance_west
+food_court,Food Court,117,2026-05-22 14:00:00,entrance_south
+fashion_floor,Fashion Floor,229,2026-05-22 14:00:00,entrance_west
+electronics,Electronics,237,2026-05-22 14:00:00,entrance_east
+sporting,Sporting,159,2026-05-22 14:00:00,entrance_east
+beauty,Beauty,202,2026-05-22 14:00:00,entrance_east
+entertainment,Entertainment,200,2026-05-22 14:00:00,entrance_west
+food_court,Food Court,55,2026-05-22 15:00:00,entrance_south
+fashion_floor,Fashion Floor,64,2026-05-22 15:00:00,entrance_north
+electronics,Electronics,99,2026-05-22 15:00:00,entrance_west
+sporting,Sporting,58,2026-05-22 15:00:00,entrance_west
+beauty,Beauty,37,2026-05-22 15:00:00,entrance_north
+entertainment,Entertainment,99,2026-05-22 15:00:00,entrance_south
+food_court,Food Court,55,2026-05-22 16:00:00,entrance_east
+fashion_floor,Fashion Floor,67,2026-05-22 16:00:00,entrance_west
+electronics,Electronics,23,2026-05-22 16:00:00,entrance_south
+sporting,Sporting,57,2026-05-22 16:00:00,entrance_south
+beauty,Beauty,58,2026-05-22 16:00:00,entrance_north
+entertainment,Entertainment,98,2026-05-22 16:00:00,entrance_east
+food_court,Food Court,24,2026-05-22 17:00:00,entrance_east
+fashion_floor,Fashion Floor,100,2026-05-22 17:00:00,entrance_south
+electronics,Electronics,25,2026-05-22 17:00:00,entrance_west
+sporting,Sporting,85,2026-05-22 17:00:00,entrance_south
+beauty,Beauty,67,2026-05-22 17:00:00,entrance_east
+entertainment,Entertainment,26,2026-05-22 17:00:00,entrance_north
+food_court,Food Court,147,2026-05-22 18:00:00,entrance_east
+fashion_floor,Fashion Floor,190,2026-05-22 18:00:00,entrance_west
+electronics,Electronics,236,2026-05-22 18:00:00,entrance_north
+sporting,Sporting,133,2026-05-22 18:00:00,entrance_west
+beauty,Beauty,106,2026-05-22 18:00:00,entrance_west
+entertainment,Entertainment,165,2026-05-22 18:00:00,entrance_north
+food_court,Food Court,140,2026-05-22 19:00:00,entrance_south
+fashion_floor,Fashion Floor,271,2026-05-22 19:00:00,entrance_east
+electronics,Electronics,178,2026-05-22 19:00:00,entrance_west
+sporting,Sporting,205,2026-05-22 19:00:00,entrance_south
+beauty,Beauty,113,2026-05-22 19:00:00,entrance_south
+entertainment,Entertainment,156,2026-05-22 19:00:00,entrance_north
+food_court,Food Court,201,2026-05-22 20:00:00,entrance_south
+fashion_floor,Fashion Floor,242,2026-05-22 20:00:00,entrance_south
+electronics,Electronics,164,2026-05-22 20:00:00,entrance_east
+sporting,Sporting,255,2026-05-22 20:00:00,entrance_north
+beauty,Beauty,212,2026-05-22 20:00:00,entrance_north
+entertainment,Entertainment,296,2026-05-22 20:00:00,entrance_north
+food_court,Food Court,81,2026-05-22 21:00:00,entrance_north
+fashion_floor,Fashion Floor,29,2026-05-22 21:00:00,entrance_west
+electronics,Electronics,31,2026-05-22 21:00:00,entrance_west
+sporting,Sporting,60,2026-05-22 21:00:00,entrance_west
+beauty,Beauty,43,2026-05-22 21:00:00,entrance_north
+entertainment,Entertainment,34,2026-05-22 21:00:00,entrance_north
+food_court,Food Court,87,2026-05-21 09:00:00,entrance_west
+fashion_floor,Fashion Floor,40,2026-05-21 09:00:00,entrance_north
+electronics,Electronics,93,2026-05-21 09:00:00,entrance_east
+sporting,Sporting,91,2026-05-21 09:00:00,entrance_north
+beauty,Beauty,73,2026-05-21 09:00:00,entrance_west
+entertainment,Entertainment,84,2026-05-21 09:00:00,entrance_west
+food_court,Food Court,92,2026-05-21 10:00:00,entrance_west
+fashion_floor,Fashion Floor,95,2026-05-21 10:00:00,entrance_north
+electronics,Electronics,40,2026-05-21 10:00:00,entrance_west
+sporting,Sporting,39,2026-05-21 10:00:00,entrance_north
+beauty,Beauty,51,2026-05-21 10:00:00,entrance_east
+entertainment,Entertainment,87,2026-05-21 10:00:00,entrance_west
+food_court,Food Court,31,2026-05-21 11:00:00,entrance_west
+fashion_floor,Fashion Floor,78,2026-05-21 11:00:00,entrance_south
+electronics,Electronics,97,2026-05-21 11:00:00,entrance_east
+sporting,Sporting,62,2026-05-21 11:00:00,entrance_east
+beauty,Beauty,59,2026-05-21 11:00:00,entrance_west
+entertainment,Entertainment,71,2026-05-21 11:00:00,entrance_south
+food_court,Food Court,228,2026-05-21 12:00:00,entrance_west
+fashion_floor,Fashion Floor,134,2026-05-21 12:00:00,entrance_south
+electronics,Electronics,145,2026-05-21 12:00:00,entrance_west
+sporting,Sporting,122,2026-05-21 12:00:00,entrance_east
+beauty,Beauty,157,2026-05-21 12:00:00,entrance_south
+entertainment,Entertainment,146,2026-05-21 12:00:00,entrance_east
+food_court,Food Court,209,2026-05-21 13:00:00,entrance_south
+fashion_floor,Fashion Floor,202,2026-05-21 13:00:00,entrance_south
+electronics,Electronics,103,2026-05-21 13:00:00,entrance_east
+sporting,Sporting,123,2026-05-21 13:00:00,entrance_south
+beauty,Beauty,236,2026-05-21 13:00:00,entrance_east
+entertainment,Entertainment,149,2026-05-21 13:00:00,entrance_east
+food_court,Food Court,218,2026-05-21 14:00:00,entrance_north
+fashion_floor,Fashion Floor,105,2026-05-21 14:00:00,entrance_east
+electronics,Electronics,107,2026-05-21 14:00:00,entrance_north
+sporting,Sporting,105,2026-05-21 14:00:00,entrance_north
+beauty,Beauty,136,2026-05-21 14:00:00,entrance_east
+entertainment,Entertainment,131,2026-05-21 14:00:00,entrance_south
+food_court,Food Court,93,2026-05-21 15:00:00,entrance_north
+fashion_floor,Fashion Floor,51,2026-05-21 15:00:00,entrance_north
+electronics,Electronics,80,2026-05-21 15:00:00,entrance_east
+sporting,Sporting,81,2026-05-21 15:00:00,entrance_south
+beauty,Beauty,77,2026-05-21 15:00:00,entrance_south
+entertainment,Entertainment,32,2026-05-21 15:00:00,entrance_north
+food_court,Food Court,79,2026-05-21 16:00:00,entrance_west
+fashion_floor,Fashion Floor,60,2026-05-21 16:00:00,entrance_east
+electronics,Electronics,50,2026-05-21 16:00:00,entrance_east
+sporting,Sporting,33,2026-05-21 16:00:00,entrance_north
+beauty,Beauty,90,2026-05-21 16:00:00,entrance_west
+entertainment,Entertainment,50,2026-05-21 16:00:00,entrance_south
+food_court,Food Court,54,2026-05-21 17:00:00,entrance_west
+fashion_floor,Fashion Floor,27,2026-05-21 17:00:00,entrance_south
+electronics,Electronics,43,2026-05-21 17:00:00,entrance_south
+sporting,Sporting,74,2026-05-21 17:00:00,entrance_south
+beauty,Beauty,93,2026-05-21 17:00:00,entrance_east
+entertainment,Entertainment,67,2026-05-21 17:00:00,entrance_west
+food_court,Food Court,300,2026-05-21 18:00:00,entrance_north
+fashion_floor,Fashion Floor,252,2026-05-21 18:00:00,entrance_south
+electronics,Electronics,254,2026-05-21 18:00:00,entrance_south
+sporting,Sporting,251,2026-05-21 18:00:00,entrance_west
+beauty,Beauty,180,2026-05-21 18:00:00,entrance_south
+entertainment,Entertainment,132,2026-05-21 18:00:00,entrance_north
+food_court,Food Court,226,2026-05-21 19:00:00,entrance_south
+fashion_floor,Fashion Floor,173,2026-05-21 19:00:00,entrance_east
+electronics,Electronics,272,2026-05-21 19:00:00,entrance_north
+sporting,Sporting,218,2026-05-21 19:00:00,entrance_east
+beauty,Beauty,249,2026-05-21 19:00:00,entrance_west
+entertainment,Entertainment,270,2026-05-21 19:00:00,entrance_south
+food_court,Food Court,272,2026-05-21 20:00:00,entrance_south
+fashion_floor,Fashion Floor,258,2026-05-21 20:00:00,entrance_west
+electronics,Electronics,263,2026-05-21 20:00:00,entrance_west
+sporting,Sporting,298,2026-05-21 20:00:00,entrance_west
+beauty,Beauty,160,2026-05-21 20:00:00,entrance_west
+entertainment,Entertainment,224,2026-05-21 20:00:00,entrance_west
+food_court,Food Court,68,2026-05-21 21:00:00,entrance_north
+fashion_floor,Fashion Floor,74,2026-05-21 21:00:00,entrance_west
+electronics,Electronics,26,2026-05-21 21:00:00,entrance_north
+sporting,Sporting,78,2026-05-21 21:00:00,entrance_east
+beauty,Beauty,55,2026-05-21 21:00:00,entrance_west
+entertainment,Entertainment,51,2026-05-21 21:00:00,entrance_north
+food_court,Food Court,81,2026-05-20 09:00:00,entrance_west
+fashion_floor,Fashion Floor,32,2026-05-20 09:00:00,entrance_south
+electronics,Electronics,37,2026-05-20 09:00:00,entrance_west
+sporting,Sporting,62,2026-05-20 09:00:00,entrance_north
+beauty,Beauty,70,2026-05-20 09:00:00,entrance_east
+entertainment,Entertainment,52,2026-05-20 09:00:00,entrance_north
+food_court,Food Court,28,2026-05-20 10:00:00,entrance_north
+fashion_floor,Fashion Floor,76,2026-05-20 10:00:00,entrance_north
+electronics,Electronics,85,2026-05-20 10:00:00,entrance_north
+sporting,Sporting,96,2026-05-20 10:00:00,entrance_north
+beauty,Beauty,88,2026-05-20 10:00:00,entrance_north
+entertainment,Entertainment,62,2026-05-20 10:00:00,entrance_east
+food_court,Food Court,100,2026-05-20 11:00:00,entrance_east
+fashion_floor,Fashion Floor,58,2026-05-20 11:00:00,entrance_east
+electronics,Electronics,30,2026-05-20 11:00:00,entrance_south
+sporting,Sporting,40,2026-05-20 11:00:00,entrance_west
+beauty,Beauty,89,2026-05-20 11:00:00,entrance_north
+entertainment,Entertainment,80,2026-05-20 11:00:00,entrance_north
+food_court,Food Court,234,2026-05-20 12:00:00,entrance_east
+fashion_floor,Fashion Floor,227,2026-05-20 12:00:00,entrance_north
+electronics,Electronics,242,2026-05-20 12:00:00,entrance_north
+sporting,Sporting,193,2026-05-20 12:00:00,entrance_south
+beauty,Beauty,173,2026-05-20 12:00:00,entrance_west
+entertainment,Entertainment,115,2026-05-20 12:00:00,entrance_north
+food_court,Food Court,97,2026-05-20 13:00:00,entrance_west
+fashion_floor,Fashion Floor,245,2026-05-20 13:00:00,entrance_east
+electronics,Electronics,194,2026-05-20 13:00:00,entrance_east
+sporting,Sporting,201,2026-05-20 13:00:00,entrance_south
+beauty,Beauty,229,2026-05-20 13:00:00,entrance_west
+entertainment,Entertainment,92,2026-05-20 13:00:00,entrance_west
+food_court,Food Court,114,2026-05-20 14:00:00,entrance_north
+fashion_floor,Fashion Floor,172,2026-05-20 14:00:00,entrance_west
+electronics,Electronics,129,2026-05-20 14:00:00,entrance_south
+sporting,Sporting,169,2026-05-20 14:00:00,entrance_north
+beauty,Beauty,132,2026-05-20 14:00:00,entrance_east
+entertainment,Entertainment,118,2026-05-20 14:00:00,entrance_east
+food_court,Food Court,47,2026-05-20 15:00:00,entrance_east
+fashion_floor,Fashion Floor,91,2026-05-20 15:00:00,entrance_west
+electronics,Electronics,39,2026-05-20 15:00:00,entrance_east
+sporting,Sporting,63,2026-05-20 15:00:00,entrance_south
+beauty,Beauty,21,2026-05-20 15:00:00,entrance_south
+entertainment,Entertainment,79,2026-05-20 15:00:00,entrance_south
+food_court,Food Court,92,2026-05-20 16:00:00,entrance_south
+fashion_floor,Fashion Floor,46,2026-05-20 16:00:00,entrance_south
+electronics,Electronics,48,2026-05-20 16:00:00,entrance_south
+sporting,Sporting,26,2026-05-20 16:00:00,entrance_east
+beauty,Beauty,49,2026-05-20 16:00:00,entrance_east
+entertainment,Entertainment,22,2026-05-20 16:00:00,entrance_south
+food_court,Food Court,92,2026-05-20 17:00:00,entrance_north
+fashion_floor,Fashion Floor,21,2026-05-20 17:00:00,entrance_north
+electronics,Electronics,29,2026-05-20 17:00:00,entrance_east
+sporting,Sporting,32,2026-05-20 17:00:00,entrance_south
+beauty,Beauty,48,2026-05-20 17:00:00,entrance_north
+entertainment,Entertainment,84,2026-05-20 17:00:00,entrance_east
+food_court,Food Court,131,2026-05-20 18:00:00,entrance_west
+fashion_floor,Fashion Floor,147,2026-05-20 18:00:00,entrance_south
+electronics,Electronics,208,2026-05-20 18:00:00,entrance_north
+sporting,Sporting,291,2026-05-20 18:00:00,entrance_south
+beauty,Beauty,201,2026-05-20 18:00:00,entrance_south
+entertainment,Entertainment,118,2026-05-20 18:00:00,entrance_north
+food_court,Food Court,204,2026-05-20 19:00:00,entrance_north
+fashion_floor,Fashion Floor,104,2026-05-20 19:00:00,entrance_north
+electronics,Electronics,202,2026-05-20 19:00:00,entrance_west
+sporting,Sporting,192,2026-05-20 19:00:00,entrance_north
+beauty,Beauty,270,2026-05-20 19:00:00,entrance_east
+entertainment,Entertainment,173,2026-05-20 19:00:00,entrance_east
+food_court,Food Court,150,2026-05-20 20:00:00,entrance_south
+fashion_floor,Fashion Floor,181,2026-05-20 20:00:00,entrance_east
+electronics,Electronics,134,2026-05-20 20:00:00,entrance_south
+sporting,Sporting,259,2026-05-20 20:00:00,entrance_north
+beauty,Beauty,106,2026-05-20 20:00:00,entrance_south
+entertainment,Entertainment,260,2026-05-20 20:00:00,entrance_north
+food_court,Food Court,24,2026-05-20 21:00:00,entrance_east
+fashion_floor,Fashion Floor,80,2026-05-20 21:00:00,entrance_east
+electronics,Electronics,94,2026-05-20 21:00:00,entrance_east
+sporting,Sporting,45,2026-05-20 21:00:00,entrance_north
+beauty,Beauty,79,2026-05-20 21:00:00,entrance_north
+entertainment,Entertainment,66,2026-05-20 21:00:00,entrance_south
+food_court,Food Court,89,2026-05-19 09:00:00,entrance_north
+fashion_floor,Fashion Floor,46,2026-05-19 09:00:00,entrance_north
+electronics,Electronics,52,2026-05-19 09:00:00,entrance_east
+sporting,Sporting,69,2026-05-19 09:00:00,entrance_west
+beauty,Beauty,42,2026-05-19 09:00:00,entrance_east
+entertainment,Entertainment,99,2026-05-19 09:00:00,entrance_west
+food_court,Food Court,57,2026-05-19 10:00:00,entrance_north
+fashion_floor,Fashion Floor,37,2026-05-19 10:00:00,entrance_north
+electronics,Electronics,74,2026-05-19 10:00:00,entrance_north
+sporting,Sporting,63,2026-05-19 10:00:00,entrance_east
+beauty,Beauty,31,2026-05-19 10:00:00,entrance_north
+entertainment,Entertainment,84,2026-05-19 10:00:00,entrance_east
+food_court,Food Court,30,2026-05-19 11:00:00,entrance_east
+fashion_floor,Fashion Floor,99,2026-05-19 11:00:00,entrance_west
+electronics,Electronics,42,2026-05-19 11:00:00,entrance_east
+sporting,Sporting,92,2026-05-19 11:00:00,entrance_west
+beauty,Beauty,51,2026-05-19 11:00:00,entrance_south
+entertainment,Entertainment,36,2026-05-19 11:00:00,entrance_west
+food_court,Food Court,160,2026-05-19 12:00:00,entrance_north
+fashion_floor,Fashion Floor,248,2026-05-19 12:00:00,entrance_east
+electronics,Electronics,237,2026-05-19 12:00:00,entrance_north
+sporting,Sporting,238,2026-05-19 12:00:00,entrance_north
+beauty,Beauty,242,2026-05-19 12:00:00,entrance_east
+entertainment,Entertainment,131,2026-05-19 12:00:00,entrance_north
+food_court,Food Court,241,2026-05-19 13:00:00,entrance_west
+fashion_floor,Fashion Floor,226,2026-05-19 13:00:00,entrance_north
+electronics,Electronics,203,2026-05-19 13:00:00,entrance_north
+sporting,Sporting,102,2026-05-19 13:00:00,entrance_north
+beauty,Beauty,179,2026-05-19 13:00:00,entrance_west
+entertainment,Entertainment,99,2026-05-19 13:00:00,entrance_south
+food_court,Food Court,97,2026-05-19 14:00:00,entrance_east
+fashion_floor,Fashion Floor,89,2026-05-19 14:00:00,entrance_west
+electronics,Electronics,193,2026-05-19 14:00:00,entrance_west
+sporting,Sporting,144,2026-05-19 14:00:00,entrance_north
+beauty,Beauty,191,2026-05-19 14:00:00,entrance_east
+entertainment,Entertainment,227,2026-05-19 14:00:00,entrance_west
+food_court,Food Court,54,2026-05-19 15:00:00,entrance_south
+fashion_floor,Fashion Floor,89,2026-05-19 15:00:00,entrance_east
+electronics,Electronics,81,2026-05-19 15:00:00,entrance_east
+sporting,Sporting,61,2026-05-19 15:00:00,entrance_west
+beauty,Beauty,58,2026-05-19 15:00:00,entrance_west
+entertainment,Entertainment,27,2026-05-19 15:00:00,entrance_north
+food_court,Food Court,42,2026-05-19 16:00:00,entrance_south
+fashion_floor,Fashion Floor,25,2026-05-19 16:00:00,entrance_east
+electronics,Electronics,95,2026-05-19 16:00:00,entrance_south
+sporting,Sporting,87,2026-05-19 16:00:00,entrance_east
+beauty,Beauty,37,2026-05-19 16:00:00,entrance_south
+entertainment,Entertainment,90,2026-05-19 16:00:00,entrance_west
+food_court,Food Court,65,2026-05-19 17:00:00,entrance_south
+fashion_floor,Fashion Floor,73,2026-05-19 17:00:00,entrance_south
+electronics,Electronics,57,2026-05-19 17:00:00,entrance_south
+sporting,Sporting,59,2026-05-19 17:00:00,entrance_south
+beauty,Beauty,84,2026-05-19 17:00:00,entrance_east
+entertainment,Entertainment,100,2026-05-19 17:00:00,entrance_west
+food_court,Food Court,257,2026-05-19 18:00:00,entrance_west
+fashion_floor,Fashion Floor,184,2026-05-19 18:00:00,entrance_north
+electronics,Electronics,122,2026-05-19 18:00:00,entrance_east
+sporting,Sporting,223,2026-05-19 18:00:00,entrance_south
+beauty,Beauty,148,2026-05-19 18:00:00,entrance_east
+entertainment,Entertainment,197,2026-05-19 18:00:00,entrance_west
+food_court,Food Court,208,2026-05-19 19:00:00,entrance_south
+fashion_floor,Fashion Floor,300,2026-05-19 19:00:00,entrance_north
+electronics,Electronics,237,2026-05-19 19:00:00,entrance_north
+sporting,Sporting,196,2026-05-19 19:00:00,entrance_east
+beauty,Beauty,219,2026-05-19 19:00:00,entrance_east
+entertainment,Entertainment,249,2026-05-19 19:00:00,entrance_west
+food_court,Food Court,283,2026-05-19 20:00:00,entrance_east
+fashion_floor,Fashion Floor,243,2026-05-19 20:00:00,entrance_south
+electronics,Electronics,217,2026-05-19 20:00:00,entrance_west
+sporting,Sporting,264,2026-05-19 20:00:00,entrance_west
+beauty,Beauty,113,2026-05-19 20:00:00,entrance_east
+entertainment,Entertainment,177,2026-05-19 20:00:00,entrance_east
+food_court,Food Court,99,2026-05-19 21:00:00,entrance_west
+fashion_floor,Fashion Floor,32,2026-05-19 21:00:00,entrance_east
+electronics,Electronics,74,2026-05-19 21:00:00,entrance_east
+sporting,Sporting,76,2026-05-19 21:00:00,entrance_west
+beauty,Beauty,88,2026-05-19 21:00:00,entrance_east
+entertainment,Entertainment,70,2026-05-19 21:00:00,entrance_west
+food_court,Food Court,77,2026-05-18 09:00:00,entrance_north
+fashion_floor,Fashion Floor,77,2026-05-18 09:00:00,entrance_east
+electronics,Electronics,50,2026-05-18 09:00:00,entrance_west
+sporting,Sporting,66,2026-05-18 09:00:00,entrance_south
+beauty,Beauty,76,2026-05-18 09:00:00,entrance_north
+entertainment,Entertainment,67,2026-05-18 09:00:00,entrance_north
+food_court,Food Court,28,2026-05-18 10:00:00,entrance_east
+fashion_floor,Fashion Floor,83,2026-05-18 10:00:00,entrance_west
+electronics,Electronics,35,2026-05-18 10:00:00,entrance_north
+sporting,Sporting,73,2026-05-18 10:00:00,entrance_west
+beauty,Beauty,81,2026-05-18 10:00:00,entrance_south
+entertainment,Entertainment,39,2026-05-18 10:00:00,entrance_east
+food_court,Food Court,95,2026-05-18 11:00:00,entrance_east
+fashion_floor,Fashion Floor,33,2026-05-18 11:00:00,entrance_west
+electronics,Electronics,21,2026-05-18 11:00:00,entrance_south
+sporting,Sporting,23,2026-05-18 11:00:00,entrance_west
+beauty,Beauty,89,2026-05-18 11:00:00,entrance_west
+entertainment,Entertainment,74,2026-05-18 11:00:00,entrance_west
+food_court,Food Court,80,2026-05-18 12:00:00,entrance_south
+fashion_floor,Fashion Floor,242,2026-05-18 12:00:00,entrance_south
+electronics,Electronics,144,2026-05-18 12:00:00,entrance_north
+sporting,Sporting,153,2026-05-18 12:00:00,entrance_east
+beauty,Beauty,125,2026-05-18 12:00:00,entrance_north
+entertainment,Entertainment,119,2026-05-18 12:00:00,entrance_west
+food_court,Food Court,157,2026-05-18 13:00:00,entrance_south
+fashion_floor,Fashion Floor,104,2026-05-18 13:00:00,entrance_south
+electronics,Electronics,103,2026-05-18 13:00:00,entrance_east
+sporting,Sporting,234,2026-05-18 13:00:00,entrance_east
+beauty,Beauty,155,2026-05-18 13:00:00,entrance_south
+entertainment,Entertainment,82,2026-05-18 13:00:00,entrance_west
+food_court,Food Court,138,2026-05-18 14:00:00,entrance_east
+fashion_floor,Fashion Floor,169,2026-05-18 14:00:00,entrance_south
+electronics,Electronics,88,2026-05-18 14:00:00,entrance_south
+sporting,Sporting,88,2026-05-18 14:00:00,entrance_north
+beauty,Beauty,118,2026-05-18 14:00:00,entrance_south
+entertainment,Entertainment,106,2026-05-18 14:00:00,entrance_north
+food_court,Food Court,46,2026-05-18 15:00:00,entrance_west
+fashion_floor,Fashion Floor,93,2026-05-18 15:00:00,entrance_west
+electronics,Electronics,26,2026-05-18 15:00:00,entrance_north
+sporting,Sporting,61,2026-05-18 15:00:00,entrance_north
+beauty,Beauty,36,2026-05-18 15:00:00,entrance_east
+entertainment,Entertainment,85,2026-05-18 15:00:00,entrance_south
+food_court,Food Court,96,2026-05-18 16:00:00,entrance_south
+fashion_floor,Fashion Floor,53,2026-05-18 16:00:00,entrance_south
+electronics,Electronics,21,2026-05-18 16:00:00,entrance_west
+sporting,Sporting,29,2026-05-18 16:00:00,entrance_west
+beauty,Beauty,20,2026-05-18 16:00:00,entrance_east
+entertainment,Entertainment,55,2026-05-18 16:00:00,entrance_south
+food_court,Food Court,77,2026-05-18 17:00:00,entrance_west
+fashion_floor,Fashion Floor,27,2026-05-18 17:00:00,entrance_north
+electronics,Electronics,98,2026-05-18 17:00:00,entrance_west
+sporting,Sporting,81,2026-05-18 17:00:00,entrance_south
+beauty,Beauty,37,2026-05-18 17:00:00,entrance_west
+entertainment,Entertainment,68,2026-05-18 17:00:00,entrance_east
+food_court,Food Court,223,2026-05-18 18:00:00,entrance_north
+fashion_floor,Fashion Floor,241,2026-05-18 18:00:00,entrance_north
+electronics,Electronics,295,2026-05-18 18:00:00,entrance_east
+sporting,Sporting,287,2026-05-18 18:00:00,entrance_west
+beauty,Beauty,288,2026-05-18 18:00:00,entrance_east
+entertainment,Entertainment,297,2026-05-18 18:00:00,entrance_south
+food_court,Food Court,164,2026-05-18 19:00:00,entrance_north
+fashion_floor,Fashion Floor,124,2026-05-18 19:00:00,entrance_west
+electronics,Electronics,138,2026-05-18 19:00:00,entrance_south
+sporting,Sporting,119,2026-05-18 19:00:00,entrance_south
+beauty,Beauty,113,2026-05-18 19:00:00,entrance_east
+entertainment,Entertainment,271,2026-05-18 19:00:00,entrance_south
+food_court,Food Court,291,2026-05-18 20:00:00,entrance_north
+fashion_floor,Fashion Floor,154,2026-05-18 20:00:00,entrance_north
+electronics,Electronics,238,2026-05-18 20:00:00,entrance_north
+sporting,Sporting,124,2026-05-18 20:00:00,entrance_east
+beauty,Beauty,107,2026-05-18 20:00:00,entrance_north
+entertainment,Entertainment,187,2026-05-18 20:00:00,entrance_north
+food_court,Food Court,34,2026-05-18 21:00:00,entrance_east
+fashion_floor,Fashion Floor,44,2026-05-18 21:00:00,entrance_east
+electronics,Electronics,35,2026-05-18 21:00:00,entrance_south
+sporting,Sporting,35,2026-05-18 21:00:00,entrance_south
+beauty,Beauty,100,2026-05-18 21:00:00,entrance_south
+entertainment,Entertainment,34,2026-05-18 21:00:00,entrance_east
+food_court,Food Court,87,2026-05-17 09:00:00,entrance_west
+fashion_floor,Fashion Floor,79,2026-05-17 09:00:00,entrance_west
+electronics,Electronics,104,2026-05-17 09:00:00,entrance_north
+sporting,Sporting,97,2026-05-17 09:00:00,entrance_west
+beauty,Beauty,191,2026-05-17 09:00:00,entrance_east
+entertainment,Entertainment,79,2026-05-17 09:00:00,entrance_north
+food_court,Food Court,104,2026-05-17 10:00:00,entrance_east
+fashion_floor,Fashion Floor,129,2026-05-17 10:00:00,entrance_south
+electronics,Electronics,59,2026-05-17 10:00:00,entrance_south
+sporting,Sporting,124,2026-05-17 10:00:00,entrance_north
+beauty,Beauty,54,2026-05-17 10:00:00,entrance_west
+entertainment,Entertainment,131,2026-05-17 10:00:00,entrance_west
+food_court,Food Court,133,2026-05-17 11:00:00,entrance_west
+fashion_floor,Fashion Floor,97,2026-05-17 11:00:00,entrance_west
+electronics,Electronics,107,2026-05-17 11:00:00,entrance_north
+sporting,Sporting,128,2026-05-17 11:00:00,entrance_north
+beauty,Beauty,81,2026-05-17 11:00:00,entrance_north
+entertainment,Entertainment,60,2026-05-17 11:00:00,entrance_east
+food_court,Food Court,387,2026-05-17 12:00:00,entrance_south
+fashion_floor,Fashion Floor,305,2026-05-17 12:00:00,entrance_north
+electronics,Electronics,374,2026-05-17 12:00:00,entrance_north
+sporting,Sporting,318,2026-05-17 12:00:00,entrance_south
+beauty,Beauty,256,2026-05-17 12:00:00,entrance_south
+entertainment,Entertainment,296,2026-05-17 12:00:00,entrance_west
+food_court,Food Court,256,2026-05-17 13:00:00,entrance_east
+fashion_floor,Fashion Floor,467,2026-05-17 13:00:00,entrance_south
+electronics,Electronics,408,2026-05-17 13:00:00,entrance_east
+sporting,Sporting,190,2026-05-17 13:00:00,entrance_west
+beauty,Beauty,222,2026-05-17 13:00:00,entrance_east
+entertainment,Entertainment,308,2026-05-17 13:00:00,entrance_west
+food_court,Food Court,404,2026-05-17 14:00:00,entrance_north
+fashion_floor,Fashion Floor,402,2026-05-17 14:00:00,entrance_south
+electronics,Electronics,435,2026-05-17 14:00:00,entrance_north
+sporting,Sporting,430,2026-05-17 14:00:00,entrance_east
+beauty,Beauty,122,2026-05-17 14:00:00,entrance_north
+entertainment,Entertainment,310,2026-05-17 14:00:00,entrance_west
+food_court,Food Court,138,2026-05-17 15:00:00,entrance_south
+fashion_floor,Fashion Floor,81,2026-05-17 15:00:00,entrance_west
+electronics,Electronics,139,2026-05-17 15:00:00,entrance_west
+sporting,Sporting,44,2026-05-17 15:00:00,entrance_west
+beauty,Beauty,38,2026-05-17 15:00:00,entrance_north
+entertainment,Entertainment,75,2026-05-17 15:00:00,entrance_south
+food_court,Food Court,71,2026-05-17 16:00:00,entrance_east
+fashion_floor,Fashion Floor,108,2026-05-17 16:00:00,entrance_south
+electronics,Electronics,78,2026-05-17 16:00:00,entrance_east
+sporting,Sporting,103,2026-05-17 16:00:00,entrance_west
+beauty,Beauty,70,2026-05-17 16:00:00,entrance_north
+entertainment,Entertainment,33,2026-05-17 16:00:00,entrance_south
+food_court,Food Court,72,2026-05-17 17:00:00,entrance_west
+fashion_floor,Fashion Floor,68,2026-05-17 17:00:00,entrance_north
+electronics,Electronics,55,2026-05-17 17:00:00,entrance_east
+sporting,Sporting,38,2026-05-17 17:00:00,entrance_north
+beauty,Beauty,167,2026-05-17 17:00:00,entrance_north
+entertainment,Entertainment,100,2026-05-17 17:00:00,entrance_east
+food_court,Food Court,481,2026-05-17 18:00:00,entrance_east
+fashion_floor,Fashion Floor,250,2026-05-17 18:00:00,entrance_north
+electronics,Electronics,249,2026-05-17 18:00:00,entrance_south
+sporting,Sporting,173,2026-05-17 18:00:00,entrance_east
+beauty,Beauty,233,2026-05-17 18:00:00,entrance_west
+entertainment,Entertainment,365,2026-05-17 18:00:00,entrance_west
+food_court,Food Court,278,2026-05-17 19:00:00,entrance_east
+fashion_floor,Fashion Floor,373,2026-05-17 19:00:00,entrance_north
+electronics,Electronics,208,2026-05-17 19:00:00,entrance_north
+sporting,Sporting,312,2026-05-17 19:00:00,entrance_south
+beauty,Beauty,356,2026-05-17 19:00:00,entrance_west
+entertainment,Entertainment,374,2026-05-17 19:00:00,entrance_east
+food_court,Food Court,536,2026-05-17 20:00:00,entrance_west
+fashion_floor,Fashion Floor,462,2026-05-17 20:00:00,entrance_south
+electronics,Electronics,349,2026-05-17 20:00:00,entrance_south
+sporting,Sporting,182,2026-05-17 20:00:00,entrance_east
+beauty,Beauty,491,2026-05-17 20:00:00,entrance_east
+entertainment,Entertainment,434,2026-05-17 20:00:00,entrance_east
+food_court,Food Court,175,2026-05-17 21:00:00,entrance_north
+fashion_floor,Fashion Floor,117,2026-05-17 21:00:00,entrance_east
+electronics,Electronics,57,2026-05-17 21:00:00,entrance_east
+sporting,Sporting,156,2026-05-17 21:00:00,entrance_west
+beauty,Beauty,41,2026-05-17 21:00:00,entrance_north
+entertainment,Entertainment,152,2026-05-17 21:00:00,entrance_west
+food_court,Food Court,137,2026-05-16 09:00:00,entrance_east
+fashion_floor,Fashion Floor,100,2026-05-16 09:00:00,entrance_south
+electronics,Electronics,36,2026-05-16 09:00:00,entrance_west
+sporting,Sporting,85,2026-05-16 09:00:00,entrance_west
+beauty,Beauty,79,2026-05-16 09:00:00,entrance_east
+entertainment,Entertainment,66,2026-05-16 09:00:00,entrance_east
+food_court,Food Court,52,2026-05-16 10:00:00,entrance_north
+fashion_floor,Fashion Floor,29,2026-05-16 10:00:00,entrance_east
+electronics,Electronics,145,2026-05-16 10:00:00,entrance_east
+sporting,Sporting,54,2026-05-16 10:00:00,entrance_south
+beauty,Beauty,98,2026-05-16 10:00:00,entrance_east
+entertainment,Entertainment,145,2026-05-16 10:00:00,entrance_north
+food_court,Food Court,161,2026-05-16 11:00:00,entrance_south
+fashion_floor,Fashion Floor,109,2026-05-16 11:00:00,entrance_south
+electronics,Electronics,106,2026-05-16 11:00:00,entrance_west
+sporting,Sporting,116,2026-05-16 11:00:00,entrance_south
+beauty,Beauty,133,2026-05-16 11:00:00,entrance_south
+entertainment,Entertainment,148,2026-05-16 11:00:00,entrance_north
+food_court,Food Court,250,2026-05-16 12:00:00,entrance_west
+fashion_floor,Fashion Floor,189,2026-05-16 12:00:00,entrance_north
+electronics,Electronics,216,2026-05-16 12:00:00,entrance_west
+sporting,Sporting,253,2026-05-16 12:00:00,entrance_south
+beauty,Beauty,191,2026-05-16 12:00:00,entrance_east
+entertainment,Entertainment,295,2026-05-16 12:00:00,entrance_south
+food_court,Food Court,375,2026-05-16 13:00:00,entrance_east
+fashion_floor,Fashion Floor,352,2026-05-16 13:00:00,entrance_east
+electronics,Electronics,385,2026-05-16 13:00:00,entrance_west
+sporting,Sporting,275,2026-05-16 13:00:00,entrance_south
+beauty,Beauty,350,2026-05-16 13:00:00,entrance_south
+entertainment,Entertainment,167,2026-05-16 13:00:00,entrance_north
+food_court,Food Court,460,2026-05-16 14:00:00,entrance_south
+fashion_floor,Fashion Floor,289,2026-05-16 14:00:00,entrance_south
+electronics,Electronics,314,2026-05-16 14:00:00,entrance_east
+sporting,Sporting,489,2026-05-16 14:00:00,entrance_east
+beauty,Beauty,313,2026-05-16 14:00:00,entrance_north
+entertainment,Entertainment,211,2026-05-16 14:00:00,entrance_south
+food_court,Food Court,163,2026-05-16 15:00:00,entrance_west
+fashion_floor,Fashion Floor,100,2026-05-16 15:00:00,entrance_east
+electronics,Electronics,54,2026-05-16 15:00:00,entrance_west
+sporting,Sporting,31,2026-05-16 15:00:00,entrance_west
+beauty,Beauty,94,2026-05-16 15:00:00,entrance_east
+entertainment,Entertainment,95,2026-05-16 15:00:00,entrance_west
+food_court,Food Court,131,2026-05-16 16:00:00,entrance_south
+fashion_floor,Fashion Floor,95,2026-05-16 16:00:00,entrance_east
+electronics,Electronics,96,2026-05-16 16:00:00,entrance_west
+sporting,Sporting,59,2026-05-16 16:00:00,entrance_north
+beauty,Beauty,37,2026-05-16 16:00:00,entrance_west
+entertainment,Entertainment,43,2026-05-16 16:00:00,entrance_south
+food_court,Food Court,33,2026-05-16 17:00:00,entrance_north
+fashion_floor,Fashion Floor,84,2026-05-16 17:00:00,entrance_south
+electronics,Electronics,84,2026-05-16 17:00:00,entrance_west
+sporting,Sporting,64,2026-05-16 17:00:00,entrance_north
+beauty,Beauty,33,2026-05-16 17:00:00,entrance_west
+entertainment,Entertainment,114,2026-05-16 17:00:00,entrance_north
+food_court,Food Court,421,2026-05-16 18:00:00,entrance_west
+fashion_floor,Fashion Floor,461,2026-05-16 18:00:00,entrance_south
+electronics,Electronics,554,2026-05-16 18:00:00,entrance_south
+sporting,Sporting,297,2026-05-16 18:00:00,entrance_west
+beauty,Beauty,263,2026-05-16 18:00:00,entrance_south
+entertainment,Entertainment,173,2026-05-16 18:00:00,entrance_west
+food_court,Food Court,202,2026-05-16 19:00:00,entrance_south
+fashion_floor,Fashion Floor,335,2026-05-16 19:00:00,entrance_east
+electronics,Electronics,356,2026-05-16 19:00:00,entrance_east
+sporting,Sporting,473,2026-05-16 19:00:00,entrance_east
+beauty,Beauty,372,2026-05-16 19:00:00,entrance_east
+entertainment,Entertainment,440,2026-05-16 19:00:00,entrance_north
+food_court,Food Court,454,2026-05-16 20:00:00,entrance_west
+fashion_floor,Fashion Floor,491,2026-05-16 20:00:00,entrance_south
+electronics,Electronics,237,2026-05-16 20:00:00,entrance_east
+sporting,Sporting,253,2026-05-16 20:00:00,entrance_south
+beauty,Beauty,216,2026-05-16 20:00:00,entrance_west
+entertainment,Entertainment,333,2026-05-16 20:00:00,entrance_north
+food_court,Food Court,174,2026-05-16 21:00:00,entrance_south
+fashion_floor,Fashion Floor,52,2026-05-16 21:00:00,entrance_east
+electronics,Electronics,144,2026-05-16 21:00:00,entrance_south
+sporting,Sporting,132,2026-05-16 21:00:00,entrance_north
+beauty,Beauty,109,2026-05-16 21:00:00,entrance_west
+entertainment,Entertainment,85,2026-05-16 21:00:00,entrance_south
+food_court,Food Court,46,2026-05-15 09:00:00,entrance_east
+fashion_floor,Fashion Floor,98,2026-05-15 09:00:00,entrance_north
+electronics,Electronics,52,2026-05-15 09:00:00,entrance_west
+sporting,Sporting,35,2026-05-15 09:00:00,entrance_west
+beauty,Beauty,62,2026-05-15 09:00:00,entrance_north
+entertainment,Entertainment,48,2026-05-15 09:00:00,entrance_east
+food_court,Food Court,69,2026-05-15 10:00:00,entrance_south
+fashion_floor,Fashion Floor,65,2026-05-15 10:00:00,entrance_north
+electronics,Electronics,66,2026-05-15 10:00:00,entrance_south
+sporting,Sporting,79,2026-05-15 10:00:00,entrance_south
+beauty,Beauty,84,2026-05-15 10:00:00,entrance_east
+entertainment,Entertainment,37,2026-05-15 10:00:00,entrance_east
+food_court,Food Court,35,2026-05-15 11:00:00,entrance_north
+fashion_floor,Fashion Floor,66,2026-05-15 11:00:00,entrance_west
+electronics,Electronics,58,2026-05-15 11:00:00,entrance_east
+sporting,Sporting,35,2026-05-15 11:00:00,entrance_north
+beauty,Beauty,67,2026-05-15 11:00:00,entrance_east
+entertainment,Entertainment,71,2026-05-15 11:00:00,entrance_north
+food_court,Food Court,137,2026-05-15 12:00:00,entrance_east
+fashion_floor,Fashion Floor,134,2026-05-15 12:00:00,entrance_north
+electronics,Electronics,165,2026-05-15 12:00:00,entrance_west
+sporting,Sporting,85,2026-05-15 12:00:00,entrance_east
+beauty,Beauty,178,2026-05-15 12:00:00,entrance_west
+entertainment,Entertainment,112,2026-05-15 12:00:00,entrance_west
+food_court,Food Court,117,2026-05-15 13:00:00,entrance_north
+fashion_floor,Fashion Floor,112,2026-05-15 13:00:00,entrance_west
+electronics,Electronics,214,2026-05-15 13:00:00,entrance_south
+sporting,Sporting,110,2026-05-15 13:00:00,entrance_south
+beauty,Beauty,189,2026-05-15 13:00:00,entrance_east
+entertainment,Entertainment,174,2026-05-15 13:00:00,entrance_south
+food_court,Food Court,209,2026-05-15 14:00:00,entrance_north
+fashion_floor,Fashion Floor,104,2026-05-15 14:00:00,entrance_south
+electronics,Electronics,211,2026-05-15 14:00:00,entrance_west
+sporting,Sporting,239,2026-05-15 14:00:00,entrance_west
+beauty,Beauty,226,2026-05-15 14:00:00,entrance_west
+entertainment,Entertainment,202,2026-05-15 14:00:00,entrance_west
+food_court,Food Court,76,2026-05-15 15:00:00,entrance_west
+fashion_floor,Fashion Floor,91,2026-05-15 15:00:00,entrance_north
+electronics,Electronics,84,2026-05-15 15:00:00,entrance_south
+sporting,Sporting,54,2026-05-15 15:00:00,entrance_west
+beauty,Beauty,72,2026-05-15 15:00:00,entrance_east
+entertainment,Entertainment,70,2026-05-15 15:00:00,entrance_north
+food_court,Food Court,55,2026-05-15 16:00:00,entrance_west
+fashion_floor,Fashion Floor,73,2026-05-15 16:00:00,entrance_north
+electronics,Electronics,23,2026-05-15 16:00:00,entrance_north
+sporting,Sporting,45,2026-05-15 16:00:00,entrance_east
+beauty,Beauty,74,2026-05-15 16:00:00,entrance_west
+entertainment,Entertainment,85,2026-05-15 16:00:00,entrance_east
+food_court,Food Court,50,2026-05-15 17:00:00,entrance_south
+fashion_floor,Fashion Floor,33,2026-05-15 17:00:00,entrance_east
+electronics,Electronics,95,2026-05-15 17:00:00,entrance_north
+sporting,Sporting,21,2026-05-15 17:00:00,entrance_north
+beauty,Beauty,68,2026-05-15 17:00:00,entrance_north
+entertainment,Entertainment,67,2026-05-15 17:00:00,entrance_north
+food_court,Food Court,123,2026-05-15 18:00:00,entrance_west
+fashion_floor,Fashion Floor,262,2026-05-15 18:00:00,entrance_north
+electronics,Electronics,133,2026-05-15 18:00:00,entrance_east
+sporting,Sporting,161,2026-05-15 18:00:00,entrance_west
+beauty,Beauty,236,2026-05-15 18:00:00,entrance_north
+entertainment,Entertainment,151,2026-05-15 18:00:00,entrance_south
+food_court,Food Court,233,2026-05-15 19:00:00,entrance_north
+fashion_floor,Fashion Floor,240,2026-05-15 19:00:00,entrance_east
+electronics,Electronics,162,2026-05-15 19:00:00,entrance_north
+sporting,Sporting,253,2026-05-15 19:00:00,entrance_south
+beauty,Beauty,213,2026-05-15 19:00:00,entrance_west
+entertainment,Entertainment,218,2026-05-15 19:00:00,entrance_south
+food_court,Food Court,151,2026-05-15 20:00:00,entrance_north
+fashion_floor,Fashion Floor,146,2026-05-15 20:00:00,entrance_east
+electronics,Electronics,127,2026-05-15 20:00:00,entrance_east
+sporting,Sporting,166,2026-05-15 20:00:00,entrance_east
+beauty,Beauty,111,2026-05-15 20:00:00,entrance_west
+entertainment,Entertainment,179,2026-05-15 20:00:00,entrance_north
+food_court,Food Court,36,2026-05-15 21:00:00,entrance_west
+fashion_floor,Fashion Floor,41,2026-05-15 21:00:00,entrance_south
+electronics,Electronics,95,2026-05-15 21:00:00,entrance_east
+sporting,Sporting,24,2026-05-15 21:00:00,entrance_east
+beauty,Beauty,32,2026-05-15 21:00:00,entrance_east
+entertainment,Entertainment,43,2026-05-15 21:00:00,entrance_north
+food_court,Food Court,94,2026-05-14 09:00:00,entrance_west
+fashion_floor,Fashion Floor,96,2026-05-14 09:00:00,entrance_west
+electronics,Electronics,45,2026-05-14 09:00:00,entrance_west
+sporting,Sporting,66,2026-05-14 09:00:00,entrance_west
+beauty,Beauty,93,2026-05-14 09:00:00,entrance_south
+entertainment,Entertainment,38,2026-05-14 09:00:00,entrance_north
+food_court,Food Court,40,2026-05-14 10:00:00,entrance_west
+fashion_floor,Fashion Floor,58,2026-05-14 10:00:00,entrance_south
+electronics,Electronics,26,2026-05-14 10:00:00,entrance_south
+sporting,Sporting,94,2026-05-14 10:00:00,entrance_south
+beauty,Beauty,44,2026-05-14 10:00:00,entrance_east
+entertainment,Entertainment,63,2026-05-14 10:00:00,entrance_north
+food_court,Food Court,49,2026-05-14 11:00:00,entrance_east
+fashion_floor,Fashion Floor,73,2026-05-14 11:00:00,entrance_north
+electronics,Electronics,56,2026-05-14 11:00:00,entrance_north
+sporting,Sporting,92,2026-05-14 11:00:00,entrance_south
+beauty,Beauty,65,2026-05-14 11:00:00,entrance_west
+entertainment,Entertainment,85,2026-05-14 11:00:00,entrance_west
+food_court,Food Court,147,2026-05-14 12:00:00,entrance_south
+fashion_floor,Fashion Floor,118,2026-05-14 12:00:00,entrance_west
+electronics,Electronics,198,2026-05-14 12:00:00,entrance_south
+sporting,Sporting,187,2026-05-14 12:00:00,entrance_south
+beauty,Beauty,118,2026-05-14 12:00:00,entrance_north
+entertainment,Entertainment,214,2026-05-14 12:00:00,entrance_west
+food_court,Food Court,155,2026-05-14 13:00:00,entrance_south
+fashion_floor,Fashion Floor,184,2026-05-14 13:00:00,entrance_north
+electronics,Electronics,233,2026-05-14 13:00:00,entrance_south
+sporting,Sporting,216,2026-05-14 13:00:00,entrance_north
+beauty,Beauty,244,2026-05-14 13:00:00,entrance_east
+entertainment,Entertainment,230,2026-05-14 13:00:00,entrance_north
+food_court,Food Court,137,2026-05-14 14:00:00,entrance_south
+fashion_floor,Fashion Floor,93,2026-05-14 14:00:00,entrance_south
+electronics,Electronics,168,2026-05-14 14:00:00,entrance_north
+sporting,Sporting,82,2026-05-14 14:00:00,entrance_east
+beauty,Beauty,189,2026-05-14 14:00:00,entrance_west
+entertainment,Entertainment,180,2026-05-14 14:00:00,entrance_south
+food_court,Food Court,48,2026-05-14 15:00:00,entrance_north
+fashion_floor,Fashion Floor,77,2026-05-14 15:00:00,entrance_west
+electronics,Electronics,73,2026-05-14 15:00:00,entrance_west
+sporting,Sporting,71,2026-05-14 15:00:00,entrance_east
+beauty,Beauty,51,2026-05-14 15:00:00,entrance_east
+entertainment,Entertainment,82,2026-05-14 15:00:00,entrance_north
+food_court,Food Court,77,2026-05-14 16:00:00,entrance_south
+fashion_floor,Fashion Floor,24,2026-05-14 16:00:00,entrance_west
+electronics,Electronics,50,2026-05-14 16:00:00,entrance_south
+sporting,Sporting,59,2026-05-14 16:00:00,entrance_north
+beauty,Beauty,21,2026-05-14 16:00:00,entrance_south
+entertainment,Entertainment,52,2026-05-14 16:00:00,entrance_north
+food_court,Food Court,93,2026-05-14 17:00:00,entrance_east
+fashion_floor,Fashion Floor,70,2026-05-14 17:00:00,entrance_west
+electronics,Electronics,30,2026-05-14 17:00:00,entrance_east
+sporting,Sporting,62,2026-05-14 17:00:00,entrance_north
+beauty,Beauty,39,2026-05-14 17:00:00,entrance_north
+entertainment,Entertainment,70,2026-05-14 17:00:00,entrance_west
+food_court,Food Court,217,2026-05-14 18:00:00,entrance_east
+fashion_floor,Fashion Floor,149,2026-05-14 18:00:00,entrance_south
+electronics,Electronics,296,2026-05-14 18:00:00,entrance_west
+sporting,Sporting,266,2026-05-14 18:00:00,entrance_west
+beauty,Beauty,260,2026-05-14 18:00:00,entrance_south
+entertainment,Entertainment,263,2026-05-14 18:00:00,entrance_north
+food_court,Food Court,293,2026-05-14 19:00:00,entrance_south
+fashion_floor,Fashion Floor,294,2026-05-14 19:00:00,entrance_north
+electronics,Electronics,228,2026-05-14 19:00:00,entrance_south
+sporting,Sporting,234,2026-05-14 19:00:00,entrance_north
+beauty,Beauty,187,2026-05-14 19:00:00,entrance_east
+entertainment,Entertainment,120,2026-05-14 19:00:00,entrance_west
+food_court,Food Court,223,2026-05-14 20:00:00,entrance_north
+fashion_floor,Fashion Floor,107,2026-05-14 20:00:00,entrance_east
+electronics,Electronics,218,2026-05-14 20:00:00,entrance_east
+sporting,Sporting,176,2026-05-14 20:00:00,entrance_north
+beauty,Beauty,131,2026-05-14 20:00:00,entrance_east
+entertainment,Entertainment,295,2026-05-14 20:00:00,entrance_north
+food_court,Food Court,79,2026-05-14 21:00:00,entrance_east
+fashion_floor,Fashion Floor,44,2026-05-14 21:00:00,entrance_east
+electronics,Electronics,93,2026-05-14 21:00:00,entrance_west
+sporting,Sporting,33,2026-05-14 21:00:00,entrance_south
+beauty,Beauty,38,2026-05-14 21:00:00,entrance_south
+entertainment,Entertainment,32,2026-05-14 21:00:00,entrance_south
+food_court,Food Court,62,2026-05-13 09:00:00,entrance_west
+fashion_floor,Fashion Floor,84,2026-05-13 09:00:00,entrance_north
+electronics,Electronics,67,2026-05-13 09:00:00,entrance_south
+sporting,Sporting,43,2026-05-13 09:00:00,entrance_west
+beauty,Beauty,67,2026-05-13 09:00:00,entrance_north
+entertainment,Entertainment,91,2026-05-13 09:00:00,entrance_east
+food_court,Food Court,74,2026-05-13 10:00:00,entrance_south
+fashion_floor,Fashion Floor,77,2026-05-13 10:00:00,entrance_north
+electronics,Electronics,43,2026-05-13 10:00:00,entrance_east
+sporting,Sporting,80,2026-05-13 10:00:00,entrance_east
+beauty,Beauty,100,2026-05-13 10:00:00,entrance_north
+entertainment,Entertainment,65,2026-05-13 10:00:00,entrance_south
+food_court,Food Court,51,2026-05-13 11:00:00,entrance_east
+fashion_floor,Fashion Floor,98,2026-05-13 11:00:00,entrance_west
+electronics,Electronics,60,2026-05-13 11:00:00,entrance_south
+sporting,Sporting,25,2026-05-13 11:00:00,entrance_east
+beauty,Beauty,85,2026-05-13 11:00:00,entrance_south
+entertainment,Entertainment,65,2026-05-13 11:00:00,entrance_north
+food_court,Food Court,126,2026-05-13 12:00:00,entrance_south
+fashion_floor,Fashion Floor,100,2026-05-13 12:00:00,entrance_west
+electronics,Electronics,146,2026-05-13 12:00:00,entrance_east
+sporting,Sporting,141,2026-05-13 12:00:00,entrance_south
+beauty,Beauty,227,2026-05-13 12:00:00,entrance_west
+entertainment,Entertainment,115,2026-05-13 12:00:00,entrance_east
+food_court,Food Court,243,2026-05-13 13:00:00,entrance_east
+fashion_floor,Fashion Floor,160,2026-05-13 13:00:00,entrance_west
+electronics,Electronics,196,2026-05-13 13:00:00,entrance_south
+sporting,Sporting,81,2026-05-13 13:00:00,entrance_west
+beauty,Beauty,99,2026-05-13 13:00:00,entrance_north
+entertainment,Entertainment,228,2026-05-13 13:00:00,entrance_north
+food_court,Food Court,159,2026-05-13 14:00:00,entrance_south
+fashion_floor,Fashion Floor,188,2026-05-13 14:00:00,entrance_east
+electronics,Electronics,229,2026-05-13 14:00:00,entrance_north
+sporting,Sporting,156,2026-05-13 14:00:00,entrance_south
+beauty,Beauty,87,2026-05-13 14:00:00,entrance_north
+entertainment,Entertainment,110,2026-05-13 14:00:00,entrance_west
+food_court,Food Court,57,2026-05-13 15:00:00,entrance_north
+fashion_floor,Fashion Floor,22,2026-05-13 15:00:00,entrance_east
+electronics,Electronics,70,2026-05-13 15:00:00,entrance_west
+sporting,Sporting,37,2026-05-13 15:00:00,entrance_west
+beauty,Beauty,37,2026-05-13 15:00:00,entrance_west
+entertainment,Entertainment,31,2026-05-13 15:00:00,entrance_south
+food_court,Food Court,93,2026-05-13 16:00:00,entrance_south
+fashion_floor,Fashion Floor,38,2026-05-13 16:00:00,entrance_south
+electronics,Electronics,97,2026-05-13 16:00:00,entrance_west
+sporting,Sporting,67,2026-05-13 16:00:00,entrance_west
+beauty,Beauty,32,2026-05-13 16:00:00,entrance_west
+entertainment,Entertainment,53,2026-05-13 16:00:00,entrance_north
+food_court,Food Court,89,2026-05-13 17:00:00,entrance_north
+fashion_floor,Fashion Floor,40,2026-05-13 17:00:00,entrance_south
+electronics,Electronics,53,2026-05-13 17:00:00,entrance_north
+sporting,Sporting,51,2026-05-13 17:00:00,entrance_west
+beauty,Beauty,89,2026-05-13 17:00:00,entrance_north
+entertainment,Entertainment,21,2026-05-13 17:00:00,entrance_north
+food_court,Food Court,287,2026-05-13 18:00:00,entrance_south
+fashion_floor,Fashion Floor,141,2026-05-13 18:00:00,entrance_north
+electronics,Electronics,293,2026-05-13 18:00:00,entrance_west
+sporting,Sporting,164,2026-05-13 18:00:00,entrance_north
+beauty,Beauty,139,2026-05-13 18:00:00,entrance_south
+entertainment,Entertainment,131,2026-05-13 18:00:00,entrance_east
+food_court,Food Court,246,2026-05-13 19:00:00,entrance_east
+fashion_floor,Fashion Floor,188,2026-05-13 19:00:00,entrance_south
+electronics,Electronics,266,2026-05-13 19:00:00,entrance_east
+sporting,Sporting,252,2026-05-13 19:00:00,entrance_east
+beauty,Beauty,181,2026-05-13 19:00:00,entrance_north
+entertainment,Entertainment,178,2026-05-13 19:00:00,entrance_west
+food_court,Food Court,119,2026-05-13 20:00:00,entrance_north
+fashion_floor,Fashion Floor,285,2026-05-13 20:00:00,entrance_west
+electronics,Electronics,116,2026-05-13 20:00:00,entrance_north
+sporting,Sporting,167,2026-05-13 20:00:00,entrance_north
+beauty,Beauty,221,2026-05-13 20:00:00,entrance_west
+entertainment,Entertainment,254,2026-05-13 20:00:00,entrance_north
+food_court,Food Court,71,2026-05-13 21:00:00,entrance_west
+fashion_floor,Fashion Floor,39,2026-05-13 21:00:00,entrance_east
+electronics,Electronics,32,2026-05-13 21:00:00,entrance_east
+sporting,Sporting,73,2026-05-13 21:00:00,entrance_north
+beauty,Beauty,93,2026-05-13 21:00:00,entrance_east
+entertainment,Entertainment,70,2026-05-13 21:00:00,entrance_west
+food_court,Food Court,63,2026-05-12 09:00:00,entrance_east
+fashion_floor,Fashion Floor,54,2026-05-12 09:00:00,entrance_west
+electronics,Electronics,63,2026-05-12 09:00:00,entrance_east
+sporting,Sporting,28,2026-05-12 09:00:00,entrance_east
+beauty,Beauty,33,2026-05-12 09:00:00,entrance_east
+entertainment,Entertainment,97,2026-05-12 09:00:00,entrance_east
+food_court,Food Court,76,2026-05-12 10:00:00,entrance_south
+fashion_floor,Fashion Floor,57,2026-05-12 10:00:00,entrance_north
+electronics,Electronics,62,2026-05-12 10:00:00,entrance_north
+sporting,Sporting,98,2026-05-12 10:00:00,entrance_south
+beauty,Beauty,97,2026-05-12 10:00:00,entrance_north
+entertainment,Entertainment,100,2026-05-12 10:00:00,entrance_west
+food_court,Food Court,99,2026-05-12 11:00:00,entrance_north
+fashion_floor,Fashion Floor,69,2026-05-12 11:00:00,entrance_west
+electronics,Electronics,75,2026-05-12 11:00:00,entrance_north
+sporting,Sporting,55,2026-05-12 11:00:00,entrance_west
+beauty,Beauty,88,2026-05-12 11:00:00,entrance_west
+entertainment,Entertainment,48,2026-05-12 11:00:00,entrance_west
+food_court,Food Court,213,2026-05-12 12:00:00,entrance_south
+fashion_floor,Fashion Floor,205,2026-05-12 12:00:00,entrance_west
+electronics,Electronics,179,2026-05-12 12:00:00,entrance_east
+sporting,Sporting,165,2026-05-12 12:00:00,entrance_south
+beauty,Beauty,161,2026-05-12 12:00:00,entrance_south
+entertainment,Entertainment,217,2026-05-12 12:00:00,entrance_south
+food_court,Food Court,169,2026-05-12 13:00:00,entrance_north
+fashion_floor,Fashion Floor,161,2026-05-12 13:00:00,entrance_west
+electronics,Electronics,191,2026-05-12 13:00:00,entrance_north
+sporting,Sporting,157,2026-05-12 13:00:00,entrance_east
+beauty,Beauty,108,2026-05-12 13:00:00,entrance_east
+entertainment,Entertainment,243,2026-05-12 13:00:00,entrance_south
+food_court,Food Court,115,2026-05-12 14:00:00,entrance_north
+fashion_floor,Fashion Floor,97,2026-05-12 14:00:00,entrance_south
+electronics,Electronics,190,2026-05-12 14:00:00,entrance_west
+sporting,Sporting,83,2026-05-12 14:00:00,entrance_south
+beauty,Beauty,183,2026-05-12 14:00:00,entrance_east
+entertainment,Entertainment,138,2026-05-12 14:00:00,entrance_south
+food_court,Food Court,42,2026-05-12 15:00:00,entrance_north
+fashion_floor,Fashion Floor,39,2026-05-12 15:00:00,entrance_south
+electronics,Electronics,44,2026-05-12 15:00:00,entrance_south
+sporting,Sporting,54,2026-05-12 15:00:00,entrance_south
+beauty,Beauty,87,2026-05-12 15:00:00,entrance_south
+entertainment,Entertainment,94,2026-05-12 15:00:00,entrance_east
+food_court,Food Court,55,2026-05-12 16:00:00,entrance_south
+fashion_floor,Fashion Floor,72,2026-05-12 16:00:00,entrance_south
+electronics,Electronics,82,2026-05-12 16:00:00,entrance_north
+sporting,Sporting,73,2026-05-12 16:00:00,entrance_north
+beauty,Beauty,22,2026-05-12 16:00:00,entrance_north
+entertainment,Entertainment,72,2026-05-12 16:00:00,entrance_south
+food_court,Food Court,36,2026-05-12 17:00:00,entrance_west
+fashion_floor,Fashion Floor,96,2026-05-12 17:00:00,entrance_north
+electronics,Electronics,84,2026-05-12 17:00:00,entrance_south
+sporting,Sporting,79,2026-05-12 17:00:00,entrance_north
+beauty,Beauty,78,2026-05-12 17:00:00,entrance_west
+entertainment,Entertainment,50,2026-05-12 17:00:00,entrance_north
+food_court,Food Court,265,2026-05-12 18:00:00,entrance_west
+fashion_floor,Fashion Floor,267,2026-05-12 18:00:00,entrance_south
+electronics,Electronics,115,2026-05-12 18:00:00,entrance_west
+sporting,Sporting,292,2026-05-12 18:00:00,entrance_south
+beauty,Beauty,127,2026-05-12 18:00:00,entrance_east
+entertainment,Entertainment,288,2026-05-12 18:00:00,entrance_south
+food_court,Food Court,133,2026-05-12 19:00:00,entrance_west
+fashion_floor,Fashion Floor,235,2026-05-12 19:00:00,entrance_north
+electronics,Electronics,192,2026-05-12 19:00:00,entrance_south
+sporting,Sporting,244,2026-05-12 19:00:00,entrance_south
+beauty,Beauty,163,2026-05-12 19:00:00,entrance_east
+entertainment,Entertainment,256,2026-05-12 19:00:00,entrance_south
+food_court,Food Court,278,2026-05-12 20:00:00,entrance_south
+fashion_floor,Fashion Floor,229,2026-05-12 20:00:00,entrance_south
+electronics,Electronics,299,2026-05-12 20:00:00,entrance_east
+sporting,Sporting,201,2026-05-12 20:00:00,entrance_west
+beauty,Beauty,205,2026-05-12 20:00:00,entrance_north
+entertainment,Entertainment,284,2026-05-12 20:00:00,entrance_west
+food_court,Food Court,25,2026-05-12 21:00:00,entrance_north
+fashion_floor,Fashion Floor,93,2026-05-12 21:00:00,entrance_west
+electronics,Electronics,26,2026-05-12 21:00:00,entrance_west
+sporting,Sporting,64,2026-05-12 21:00:00,entrance_north
+beauty,Beauty,100,2026-05-12 21:00:00,entrance_west
+entertainment,Entertainment,41,2026-05-12 21:00:00,entrance_east
+food_court,Food Court,90,2026-05-11 09:00:00,entrance_east
+fashion_floor,Fashion Floor,72,2026-05-11 09:00:00,entrance_north
+electronics,Electronics,47,2026-05-11 09:00:00,entrance_west
+sporting,Sporting,86,2026-05-11 09:00:00,entrance_west
+beauty,Beauty,30,2026-05-11 09:00:00,entrance_south
+entertainment,Entertainment,26,2026-05-11 09:00:00,entrance_west
+food_court,Food Court,62,2026-05-11 10:00:00,entrance_north
+fashion_floor,Fashion Floor,47,2026-05-11 10:00:00,entrance_west
+electronics,Electronics,37,2026-05-11 10:00:00,entrance_east
+sporting,Sporting,82,2026-05-11 10:00:00,entrance_east
+beauty,Beauty,90,2026-05-11 10:00:00,entrance_east
+entertainment,Entertainment,87,2026-05-11 10:00:00,entrance_north
+food_court,Food Court,99,2026-05-11 11:00:00,entrance_south
+fashion_floor,Fashion Floor,78,2026-05-11 11:00:00,entrance_south
+electronics,Electronics,42,2026-05-11 11:00:00,entrance_north
+sporting,Sporting,38,2026-05-11 11:00:00,entrance_west
+beauty,Beauty,70,2026-05-11 11:00:00,entrance_east
+entertainment,Entertainment,47,2026-05-11 11:00:00,entrance_north
+food_court,Food Court,215,2026-05-11 12:00:00,entrance_south
+fashion_floor,Fashion Floor,233,2026-05-11 12:00:00,entrance_west
+electronics,Electronics,130,2026-05-11 12:00:00,entrance_south
+sporting,Sporting,214,2026-05-11 12:00:00,entrance_west
+beauty,Beauty,188,2026-05-11 12:00:00,entrance_north
+entertainment,Entertainment,185,2026-05-11 12:00:00,entrance_south
+food_court,Food Court,113,2026-05-11 13:00:00,entrance_south
+fashion_floor,Fashion Floor,148,2026-05-11 13:00:00,entrance_south
+electronics,Electronics,203,2026-05-11 13:00:00,entrance_west
+sporting,Sporting,85,2026-05-11 13:00:00,entrance_east
+beauty,Beauty,103,2026-05-11 13:00:00,entrance_south
+entertainment,Entertainment,231,2026-05-11 13:00:00,entrance_east
+food_court,Food Court,118,2026-05-11 14:00:00,entrance_north
+fashion_floor,Fashion Floor,213,2026-05-11 14:00:00,entrance_east
+electronics,Electronics,111,2026-05-11 14:00:00,entrance_east
+sporting,Sporting,196,2026-05-11 14:00:00,entrance_south
+beauty,Beauty,139,2026-05-11 14:00:00,entrance_south
+entertainment,Entertainment,113,2026-05-11 14:00:00,entrance_east
+food_court,Food Court,79,2026-05-11 15:00:00,entrance_east
+fashion_floor,Fashion Floor,74,2026-05-11 15:00:00,entrance_north
+electronics,Electronics,28,2026-05-11 15:00:00,entrance_east
+sporting,Sporting,71,2026-05-11 15:00:00,entrance_south
+beauty,Beauty,79,2026-05-11 15:00:00,entrance_west
+entertainment,Entertainment,78,2026-05-11 15:00:00,entrance_east
+food_court,Food Court,50,2026-05-11 16:00:00,entrance_west
+fashion_floor,Fashion Floor,45,2026-05-11 16:00:00,entrance_north
+electronics,Electronics,90,2026-05-11 16:00:00,entrance_east
+sporting,Sporting,23,2026-05-11 16:00:00,entrance_east
+beauty,Beauty,38,2026-05-11 16:00:00,entrance_west
+entertainment,Entertainment,73,2026-05-11 16:00:00,entrance_west
+food_court,Food Court,22,2026-05-11 17:00:00,entrance_east
+fashion_floor,Fashion Floor,91,2026-05-11 17:00:00,entrance_north
+electronics,Electronics,89,2026-05-11 17:00:00,entrance_east
+sporting,Sporting,43,2026-05-11 17:00:00,entrance_west
+beauty,Beauty,21,2026-05-11 17:00:00,entrance_west
+entertainment,Entertainment,52,2026-05-11 17:00:00,entrance_south
+food_court,Food Court,154,2026-05-11 18:00:00,entrance_west
+fashion_floor,Fashion Floor,154,2026-05-11 18:00:00,entrance_east
+electronics,Electronics,286,2026-05-11 18:00:00,entrance_west
+sporting,Sporting,188,2026-05-11 18:00:00,entrance_north
+beauty,Beauty,129,2026-05-11 18:00:00,entrance_west
+entertainment,Entertainment,244,2026-05-11 18:00:00,entrance_east
+food_court,Food Court,245,2026-05-11 19:00:00,entrance_east
+fashion_floor,Fashion Floor,119,2026-05-11 19:00:00,entrance_south
+electronics,Electronics,153,2026-05-11 19:00:00,entrance_east
+sporting,Sporting,171,2026-05-11 19:00:00,entrance_west
+beauty,Beauty,166,2026-05-11 19:00:00,entrance_west
+entertainment,Entertainment,293,2026-05-11 19:00:00,entrance_west
+food_court,Food Court,240,2026-05-11 20:00:00,entrance_east
+fashion_floor,Fashion Floor,200,2026-05-11 20:00:00,entrance_south
+electronics,Electronics,265,2026-05-11 20:00:00,entrance_south
+sporting,Sporting,114,2026-05-11 20:00:00,entrance_north
+beauty,Beauty,145,2026-05-11 20:00:00,entrance_east
+entertainment,Entertainment,151,2026-05-11 20:00:00,entrance_south
+food_court,Food Court,61,2026-05-11 21:00:00,entrance_north
+fashion_floor,Fashion Floor,31,2026-05-11 21:00:00,entrance_east
+electronics,Electronics,74,2026-05-11 21:00:00,entrance_south
+sporting,Sporting,25,2026-05-11 21:00:00,entrance_west
+beauty,Beauty,30,2026-05-11 21:00:00,entrance_west
+entertainment,Entertainment,33,2026-05-11 21:00:00,entrance_east
+food_court,Food Court,119,2026-05-10 09:00:00,entrance_south
+fashion_floor,Fashion Floor,71,2026-05-10 09:00:00,entrance_north
+electronics,Electronics,79,2026-05-10 09:00:00,entrance_south
+sporting,Sporting,59,2026-05-10 09:00:00,entrance_south
+beauty,Beauty,72,2026-05-10 09:00:00,entrance_south
+entertainment,Entertainment,75,2026-05-10 09:00:00,entrance_south
+food_court,Food Court,57,2026-05-10 10:00:00,entrance_north
+fashion_floor,Fashion Floor,135,2026-05-10 10:00:00,entrance_south
+electronics,Electronics,97,2026-05-10 10:00:00,entrance_west
+sporting,Sporting,146,2026-05-10 10:00:00,entrance_east
+beauty,Beauty,93,2026-05-10 10:00:00,entrance_north
+entertainment,Entertainment,114,2026-05-10 10:00:00,entrance_west
+food_court,Food Court,160,2026-05-10 11:00:00,entrance_south
+fashion_floor,Fashion Floor,111,2026-05-10 11:00:00,entrance_south
+electronics,Electronics,109,2026-05-10 11:00:00,entrance_north
+sporting,Sporting,95,2026-05-10 11:00:00,entrance_north
+beauty,Beauty,69,2026-05-10 11:00:00,entrance_east
+entertainment,Entertainment,129,2026-05-10 11:00:00,entrance_north
+food_court,Food Court,266,2026-05-10 12:00:00,entrance_north
+fashion_floor,Fashion Floor,328,2026-05-10 12:00:00,entrance_west
+electronics,Electronics,168,2026-05-10 12:00:00,entrance_east
+sporting,Sporting,145,2026-05-10 12:00:00,entrance_south
+beauty,Beauty,179,2026-05-10 12:00:00,entrance_south
+entertainment,Entertainment,206,2026-05-10 12:00:00,entrance_west
+food_court,Food Court,224,2026-05-10 13:00:00,entrance_north
+fashion_floor,Fashion Floor,210,2026-05-10 13:00:00,entrance_north
+electronics,Electronics,152,2026-05-10 13:00:00,entrance_west
+sporting,Sporting,185,2026-05-10 13:00:00,entrance_south
+beauty,Beauty,286,2026-05-10 13:00:00,entrance_north
+entertainment,Entertainment,350,2026-05-10 13:00:00,entrance_north
+food_court,Food Court,271,2026-05-10 14:00:00,entrance_west
+fashion_floor,Fashion Floor,174,2026-05-10 14:00:00,entrance_east
+electronics,Electronics,273,2026-05-10 14:00:00,entrance_east
+sporting,Sporting,309,2026-05-10 14:00:00,entrance_west
+beauty,Beauty,225,2026-05-10 14:00:00,entrance_north
+entertainment,Entertainment,128,2026-05-10 14:00:00,entrance_south
+food_court,Food Court,123,2026-05-10 15:00:00,entrance_west
+fashion_floor,Fashion Floor,111,2026-05-10 15:00:00,entrance_south
+electronics,Electronics,43,2026-05-10 15:00:00,entrance_west
+sporting,Sporting,148,2026-05-10 15:00:00,entrance_east
+beauty,Beauty,97,2026-05-10 15:00:00,entrance_east
+entertainment,Entertainment,131,2026-05-10 15:00:00,entrance_west
+food_court,Food Court,74,2026-05-10 16:00:00,entrance_south
+fashion_floor,Fashion Floor,80,2026-05-10 16:00:00,entrance_west
+electronics,Electronics,122,2026-05-10 16:00:00,entrance_north
+sporting,Sporting,103,2026-05-10 16:00:00,entrance_west
+beauty,Beauty,56,2026-05-10 16:00:00,entrance_east
+entertainment,Entertainment,29,2026-05-10 16:00:00,entrance_west
+food_court,Food Court,42,2026-05-10 17:00:00,entrance_south
+fashion_floor,Fashion Floor,159,2026-05-10 17:00:00,entrance_north
+electronics,Electronics,135,2026-05-10 17:00:00,entrance_south
+sporting,Sporting,59,2026-05-10 17:00:00,entrance_north
+beauty,Beauty,34,2026-05-10 17:00:00,entrance_south
+entertainment,Entertainment,61,2026-05-10 17:00:00,entrance_east
+food_court,Food Court,257,2026-05-10 18:00:00,entrance_north
+fashion_floor,Fashion Floor,191,2026-05-10 18:00:00,entrance_north
+electronics,Electronics,492,2026-05-10 18:00:00,entrance_south
+sporting,Sporting,159,2026-05-10 18:00:00,entrance_east
+beauty,Beauty,474,2026-05-10 18:00:00,entrance_west
+entertainment,Entertainment,276,2026-05-10 18:00:00,entrance_south
+food_court,Food Court,339,2026-05-10 19:00:00,entrance_south
+fashion_floor,Fashion Floor,399,2026-05-10 19:00:00,entrance_east
+electronics,Electronics,386,2026-05-10 19:00:00,entrance_north
+sporting,Sporting,371,2026-05-10 19:00:00,entrance_east
+beauty,Beauty,239,2026-05-10 19:00:00,entrance_south
+entertainment,Entertainment,163,2026-05-10 19:00:00,entrance_west
+food_court,Food Court,220,2026-05-10 20:00:00,entrance_south
+fashion_floor,Fashion Floor,389,2026-05-10 20:00:00,entrance_east
+electronics,Electronics,387,2026-05-10 20:00:00,entrance_south
+sporting,Sporting,435,2026-05-10 20:00:00,entrance_west
+beauty,Beauty,230,2026-05-10 20:00:00,entrance_east
+entertainment,Entertainment,198,2026-05-10 20:00:00,entrance_north
+food_court,Food Court,64,2026-05-10 21:00:00,entrance_north
+fashion_floor,Fashion Floor,61,2026-05-10 21:00:00,entrance_east
+electronics,Electronics,118,2026-05-10 21:00:00,entrance_north
+sporting,Sporting,65,2026-05-10 21:00:00,entrance_west
+beauty,Beauty,85,2026-05-10 21:00:00,entrance_south
+entertainment,Entertainment,141,2026-05-10 21:00:00,entrance_east
+food_court,Food Court,128,2026-05-09 09:00:00,entrance_east
+fashion_floor,Fashion Floor,49,2026-05-09 09:00:00,entrance_east
+electronics,Electronics,128,2026-05-09 09:00:00,entrance_east
+sporting,Sporting,145,2026-05-09 09:00:00,entrance_north
+beauty,Beauty,48,2026-05-09 09:00:00,entrance_west
+entertainment,Entertainment,126,2026-05-09 09:00:00,entrance_west
+food_court,Food Court,72,2026-05-09 10:00:00,entrance_south
+fashion_floor,Fashion Floor,49,2026-05-09 10:00:00,entrance_north
+electronics,Electronics,132,2026-05-09 10:00:00,entrance_north
+sporting,Sporting,142,2026-05-09 10:00:00,entrance_south
+beauty,Beauty,41,2026-05-09 10:00:00,entrance_north
+entertainment,Entertainment,174,2026-05-09 10:00:00,entrance_south
+food_court,Food Court,77,2026-05-09 11:00:00,entrance_east
+fashion_floor,Fashion Floor,95,2026-05-09 11:00:00,entrance_south
+electronics,Electronics,65,2026-05-09 11:00:00,entrance_north
+sporting,Sporting,141,2026-05-09 11:00:00,entrance_south
+beauty,Beauty,47,2026-05-09 11:00:00,entrance_south
+entertainment,Entertainment,102,2026-05-09 11:00:00,entrance_west
+food_court,Food Court,290,2026-05-09 12:00:00,entrance_east
+fashion_floor,Fashion Floor,172,2026-05-09 12:00:00,entrance_east
+electronics,Electronics,357,2026-05-09 12:00:00,entrance_east
+sporting,Sporting,394,2026-05-09 12:00:00,entrance_west
+beauty,Beauty,392,2026-05-09 12:00:00,entrance_south
+entertainment,Entertainment,154,2026-05-09 12:00:00,entrance_west
+food_court,Food Court,243,2026-05-09 13:00:00,entrance_west
+fashion_floor,Fashion Floor,251,2026-05-09 13:00:00,entrance_north
+electronics,Electronics,359,2026-05-09 13:00:00,entrance_west
+sporting,Sporting,399,2026-05-09 13:00:00,entrance_west
+beauty,Beauty,247,2026-05-09 13:00:00,entrance_north
+entertainment,Entertainment,479,2026-05-09 13:00:00,entrance_south
+food_court,Food Court,476,2026-05-09 14:00:00,entrance_west
+fashion_floor,Fashion Floor,467,2026-05-09 14:00:00,entrance_east
+electronics,Electronics,257,2026-05-09 14:00:00,entrance_east
+sporting,Sporting,334,2026-05-09 14:00:00,entrance_east
+beauty,Beauty,182,2026-05-09 14:00:00,entrance_west
+entertainment,Entertainment,125,2026-05-09 14:00:00,entrance_south
+food_court,Food Court,119,2026-05-09 15:00:00,entrance_south
+fashion_floor,Fashion Floor,63,2026-05-09 15:00:00,entrance_east
+electronics,Electronics,157,2026-05-09 15:00:00,entrance_west
+sporting,Sporting,163,2026-05-09 15:00:00,entrance_north
+beauty,Beauty,144,2026-05-09 15:00:00,entrance_east
+entertainment,Entertainment,145,2026-05-09 15:00:00,entrance_east
+food_court,Food Court,139,2026-05-09 16:00:00,entrance_east
+fashion_floor,Fashion Floor,154,2026-05-09 16:00:00,entrance_south
+electronics,Electronics,90,2026-05-09 16:00:00,entrance_east
+sporting,Sporting,123,2026-05-09 16:00:00,entrance_north
+beauty,Beauty,48,2026-05-09 16:00:00,entrance_south
+entertainment,Entertainment,103,2026-05-09 16:00:00,entrance_north
+food_court,Food Court,40,2026-05-09 17:00:00,entrance_north
+fashion_floor,Fashion Floor,73,2026-05-09 17:00:00,entrance_east
+electronics,Electronics,102,2026-05-09 17:00:00,entrance_south
+sporting,Sporting,114,2026-05-09 17:00:00,entrance_west
+beauty,Beauty,51,2026-05-09 17:00:00,entrance_south
+entertainment,Entertainment,38,2026-05-09 17:00:00,entrance_north
+food_court,Food Court,353,2026-05-09 18:00:00,entrance_south
+fashion_floor,Fashion Floor,459,2026-05-09 18:00:00,entrance_north
+electronics,Electronics,506,2026-05-09 18:00:00,entrance_north
+sporting,Sporting,481,2026-05-09 18:00:00,entrance_east
+beauty,Beauty,463,2026-05-09 18:00:00,entrance_south
+entertainment,Entertainment,241,2026-05-09 18:00:00,entrance_north
+food_court,Food Court,231,2026-05-09 19:00:00,entrance_south
+fashion_floor,Fashion Floor,502,2026-05-09 19:00:00,entrance_east
+electronics,Electronics,547,2026-05-09 19:00:00,entrance_east
+sporting,Sporting,198,2026-05-09 19:00:00,entrance_west
+beauty,Beauty,202,2026-05-09 19:00:00,entrance_west
+entertainment,Entertainment,220,2026-05-09 19:00:00,entrance_south
+food_court,Food Court,311,2026-05-09 20:00:00,entrance_west
+fashion_floor,Fashion Floor,435,2026-05-09 20:00:00,entrance_south
+electronics,Electronics,328,2026-05-09 20:00:00,entrance_east
+sporting,Sporting,164,2026-05-09 20:00:00,entrance_north
+beauty,Beauty,414,2026-05-09 20:00:00,entrance_east
+entertainment,Entertainment,422,2026-05-09 20:00:00,entrance_west
+food_court,Food Court,26,2026-05-09 21:00:00,entrance_south
+fashion_floor,Fashion Floor,75,2026-05-09 21:00:00,entrance_west
+electronics,Electronics,164,2026-05-09 21:00:00,entrance_south
+sporting,Sporting,51,2026-05-09 21:00:00,entrance_west
+beauty,Beauty,81,2026-05-09 21:00:00,entrance_south
+entertainment,Entertainment,113,2026-05-09 21:00:00,entrance_west
+food_court,Food Court,29,2026-05-08 09:00:00,entrance_south
+fashion_floor,Fashion Floor,94,2026-05-08 09:00:00,entrance_north
+electronics,Electronics,24,2026-05-08 09:00:00,entrance_east
+sporting,Sporting,29,2026-05-08 09:00:00,entrance_north
+beauty,Beauty,42,2026-05-08 09:00:00,entrance_south
+entertainment,Entertainment,35,2026-05-08 09:00:00,entrance_west
+food_court,Food Court,79,2026-05-08 10:00:00,entrance_east
+fashion_floor,Fashion Floor,48,2026-05-08 10:00:00,entrance_east
+electronics,Electronics,21,2026-05-08 10:00:00,entrance_west
+sporting,Sporting,96,2026-05-08 10:00:00,entrance_east
+beauty,Beauty,44,2026-05-08 10:00:00,entrance_west
+entertainment,Entertainment,55,2026-05-08 10:00:00,entrance_east
+food_court,Food Court,34,2026-05-08 11:00:00,entrance_north
+fashion_floor,Fashion Floor,54,2026-05-08 11:00:00,entrance_north
+electronics,Electronics,97,2026-05-08 11:00:00,entrance_west
+sporting,Sporting,79,2026-05-08 11:00:00,entrance_north
+beauty,Beauty,78,2026-05-08 11:00:00,entrance_east
+entertainment,Entertainment,52,2026-05-08 11:00:00,entrance_south
+food_court,Food Court,241,2026-05-08 12:00:00,entrance_west
+fashion_floor,Fashion Floor,244,2026-05-08 12:00:00,entrance_south
+electronics,Electronics,172,2026-05-08 12:00:00,entrance_south
+sporting,Sporting,218,2026-05-08 12:00:00,entrance_west
+beauty,Beauty,190,2026-05-08 12:00:00,entrance_north
+entertainment,Entertainment,180,2026-05-08 12:00:00,entrance_south
+food_court,Food Court,145,2026-05-08 13:00:00,entrance_south
+fashion_floor,Fashion Floor,166,2026-05-08 13:00:00,entrance_north
+electronics,Electronics,246,2026-05-08 13:00:00,entrance_east
+sporting,Sporting,127,2026-05-08 13:00:00,entrance_west
+beauty,Beauty,84,2026-05-08 13:00:00,entrance_west
+entertainment,Entertainment,158,2026-05-08 13:00:00,entrance_south
+food_court,Food Court,228,2026-05-08 14:00:00,entrance_west
+fashion_floor,Fashion Floor,231,2026-05-08 14:00:00,entrance_south
+electronics,Electronics,148,2026-05-08 14:00:00,entrance_west
+sporting,Sporting,198,2026-05-08 14:00:00,entrance_east
+beauty,Beauty,165,2026-05-08 14:00:00,entrance_south
+entertainment,Entertainment,122,2026-05-08 14:00:00,entrance_west
+food_court,Food Court,45,2026-05-08 15:00:00,entrance_east
+fashion_floor,Fashion Floor,75,2026-05-08 15:00:00,entrance_south
+electronics,Electronics,77,2026-05-08 15:00:00,entrance_south
+sporting,Sporting,58,2026-05-08 15:00:00,entrance_west
+beauty,Beauty,50,2026-05-08 15:00:00,entrance_north
+entertainment,Entertainment,95,2026-05-08 15:00:00,entrance_south
+food_court,Food Court,79,2026-05-08 16:00:00,entrance_west
+fashion_floor,Fashion Floor,42,2026-05-08 16:00:00,entrance_south
+electronics,Electronics,50,2026-05-08 16:00:00,entrance_north
+sporting,Sporting,71,2026-05-08 16:00:00,entrance_west
+beauty,Beauty,35,2026-05-08 16:00:00,entrance_south
+entertainment,Entertainment,51,2026-05-08 16:00:00,entrance_south
+food_court,Food Court,88,2026-05-08 17:00:00,entrance_north
+fashion_floor,Fashion Floor,53,2026-05-08 17:00:00,entrance_south
+electronics,Electronics,38,2026-05-08 17:00:00,entrance_north
+sporting,Sporting,49,2026-05-08 17:00:00,entrance_east
+beauty,Beauty,82,2026-05-08 17:00:00,entrance_south
+entertainment,Entertainment,85,2026-05-08 17:00:00,entrance_south
+food_court,Food Court,151,2026-05-08 18:00:00,entrance_south
+fashion_floor,Fashion Floor,245,2026-05-08 18:00:00,entrance_west
+electronics,Electronics,215,2026-05-08 18:00:00,entrance_north
+sporting,Sporting,298,2026-05-08 18:00:00,entrance_north
+beauty,Beauty,200,2026-05-08 18:00:00,entrance_east
+entertainment,Entertainment,129,2026-05-08 18:00:00,entrance_west
+food_court,Food Court,144,2026-05-08 19:00:00,entrance_east
+fashion_floor,Fashion Floor,291,2026-05-08 19:00:00,entrance_east
+electronics,Electronics,105,2026-05-08 19:00:00,entrance_west
+sporting,Sporting,107,2026-05-08 19:00:00,entrance_south
+beauty,Beauty,217,2026-05-08 19:00:00,entrance_west
+entertainment,Entertainment,213,2026-05-08 19:00:00,entrance_north
+food_court,Food Court,287,2026-05-08 20:00:00,entrance_north
+fashion_floor,Fashion Floor,159,2026-05-08 20:00:00,entrance_west
+electronics,Electronics,210,2026-05-08 20:00:00,entrance_west
+sporting,Sporting,293,2026-05-08 20:00:00,entrance_north
+beauty,Beauty,124,2026-05-08 20:00:00,entrance_north
+entertainment,Entertainment,233,2026-05-08 20:00:00,entrance_west
+food_court,Food Court,39,2026-05-08 21:00:00,entrance_east
+fashion_floor,Fashion Floor,63,2026-05-08 21:00:00,entrance_north
+electronics,Electronics,89,2026-05-08 21:00:00,entrance_east
+sporting,Sporting,81,2026-05-08 21:00:00,entrance_north
+beauty,Beauty,40,2026-05-08 21:00:00,entrance_west
+entertainment,Entertainment,91,2026-05-08 21:00:00,entrance_north
+food_court,Food Court,69,2026-05-07 09:00:00,entrance_west
+fashion_floor,Fashion Floor,89,2026-05-07 09:00:00,entrance_south
+electronics,Electronics,63,2026-05-07 09:00:00,entrance_north
+sporting,Sporting,72,2026-05-07 09:00:00,entrance_west
+beauty,Beauty,74,2026-05-07 09:00:00,entrance_west
+entertainment,Entertainment,60,2026-05-07 09:00:00,entrance_east
+food_court,Food Court,91,2026-05-07 10:00:00,entrance_west
+fashion_floor,Fashion Floor,30,2026-05-07 10:00:00,entrance_west
+electronics,Electronics,74,2026-05-07 10:00:00,entrance_south
+sporting,Sporting,97,2026-05-07 10:00:00,entrance_south
+beauty,Beauty,35,2026-05-07 10:00:00,entrance_west
+entertainment,Entertainment,70,2026-05-07 10:00:00,entrance_south
+food_court,Food Court,79,2026-05-07 11:00:00,entrance_north
+fashion_floor,Fashion Floor,80,2026-05-07 11:00:00,entrance_east
+electronics,Electronics,38,2026-05-07 11:00:00,entrance_south
+sporting,Sporting,24,2026-05-07 11:00:00,entrance_north
+beauty,Beauty,29,2026-05-07 11:00:00,entrance_north
+entertainment,Entertainment,99,2026-05-07 11:00:00,entrance_north
+food_court,Food Court,140,2026-05-07 12:00:00,entrance_north
+fashion_floor,Fashion Floor,184,2026-05-07 12:00:00,entrance_east
+electronics,Electronics,150,2026-05-07 12:00:00,entrance_west
+sporting,Sporting,96,2026-05-07 12:00:00,entrance_west
+beauty,Beauty,117,2026-05-07 12:00:00,entrance_north
+entertainment,Entertainment,151,2026-05-07 12:00:00,entrance_west
+food_court,Food Court,81,2026-05-07 13:00:00,entrance_south
+fashion_floor,Fashion Floor,150,2026-05-07 13:00:00,entrance_west
+electronics,Electronics,210,2026-05-07 13:00:00,entrance_west
+sporting,Sporting,93,2026-05-07 13:00:00,entrance_east
+beauty,Beauty,232,2026-05-07 13:00:00,entrance_north
+entertainment,Entertainment,232,2026-05-07 13:00:00,entrance_east
+food_court,Food Court,112,2026-05-07 14:00:00,entrance_west
+fashion_floor,Fashion Floor,211,2026-05-07 14:00:00,entrance_west
+electronics,Electronics,82,2026-05-07 14:00:00,entrance_east
+sporting,Sporting,243,2026-05-07 14:00:00,entrance_west
+beauty,Beauty,131,2026-05-07 14:00:00,entrance_east
+entertainment,Entertainment,133,2026-05-07 14:00:00,entrance_west
+food_court,Food Court,55,2026-05-07 15:00:00,entrance_east
+fashion_floor,Fashion Floor,24,2026-05-07 15:00:00,entrance_east
+electronics,Electronics,29,2026-05-07 15:00:00,entrance_south
+sporting,Sporting,46,2026-05-07 15:00:00,entrance_east
+beauty,Beauty,31,2026-05-07 15:00:00,entrance_north
+entertainment,Entertainment,71,2026-05-07 15:00:00,entrance_east
+food_court,Food Court,69,2026-05-07 16:00:00,entrance_east
+fashion_floor,Fashion Floor,87,2026-05-07 16:00:00,entrance_north
+electronics,Electronics,83,2026-05-07 16:00:00,entrance_north
+sporting,Sporting,44,2026-05-07 16:00:00,entrance_south
+beauty,Beauty,27,2026-05-07 16:00:00,entrance_west
+entertainment,Entertainment,24,2026-05-07 16:00:00,entrance_east
+food_court,Food Court,33,2026-05-07 17:00:00,entrance_west
+fashion_floor,Fashion Floor,64,2026-05-07 17:00:00,entrance_north
+electronics,Electronics,26,2026-05-07 17:00:00,entrance_north
+sporting,Sporting,75,2026-05-07 17:00:00,entrance_east
+beauty,Beauty,99,2026-05-07 17:00:00,entrance_north
+entertainment,Entertainment,54,2026-05-07 17:00:00,entrance_east
+food_court,Food Court,153,2026-05-07 18:00:00,entrance_south
+fashion_floor,Fashion Floor,238,2026-05-07 18:00:00,entrance_north
+electronics,Electronics,267,2026-05-07 18:00:00,entrance_west
+sporting,Sporting,195,2026-05-07 18:00:00,entrance_west
+beauty,Beauty,206,2026-05-07 18:00:00,entrance_west
+entertainment,Entertainment,138,2026-05-07 18:00:00,entrance_east
+food_court,Food Court,244,2026-05-07 19:00:00,entrance_west
+fashion_floor,Fashion Floor,113,2026-05-07 19:00:00,entrance_north
+electronics,Electronics,158,2026-05-07 19:00:00,entrance_east
+sporting,Sporting,120,2026-05-07 19:00:00,entrance_south
+beauty,Beauty,133,2026-05-07 19:00:00,entrance_east
+entertainment,Entertainment,273,2026-05-07 19:00:00,entrance_east
+food_court,Food Court,223,2026-05-07 20:00:00,entrance_west
+fashion_floor,Fashion Floor,222,2026-05-07 20:00:00,entrance_west
+electronics,Electronics,275,2026-05-07 20:00:00,entrance_east
+sporting,Sporting,128,2026-05-07 20:00:00,entrance_north
+beauty,Beauty,272,2026-05-07 20:00:00,entrance_west
+entertainment,Entertainment,124,2026-05-07 20:00:00,entrance_north
+food_court,Food Court,95,2026-05-07 21:00:00,entrance_south
+fashion_floor,Fashion Floor,86,2026-05-07 21:00:00,entrance_north
+electronics,Electronics,44,2026-05-07 21:00:00,entrance_north
+sporting,Sporting,42,2026-05-07 21:00:00,entrance_west
+beauty,Beauty,29,2026-05-07 21:00:00,entrance_west
+entertainment,Entertainment,62,2026-05-07 21:00:00,entrance_west
+food_court,Food Court,57,2026-05-06 09:00:00,entrance_north
+fashion_floor,Fashion Floor,90,2026-05-06 09:00:00,entrance_north
+electronics,Electronics,51,2026-05-06 09:00:00,entrance_south
+sporting,Sporting,80,2026-05-06 09:00:00,entrance_north
+beauty,Beauty,79,2026-05-06 09:00:00,entrance_south
+entertainment,Entertainment,77,2026-05-06 09:00:00,entrance_north
+food_court,Food Court,88,2026-05-06 10:00:00,entrance_west
+fashion_floor,Fashion Floor,47,2026-05-06 10:00:00,entrance_west
+electronics,Electronics,35,2026-05-06 10:00:00,entrance_north
+sporting,Sporting,79,2026-05-06 10:00:00,entrance_west
+beauty,Beauty,29,2026-05-06 10:00:00,entrance_east
+entertainment,Entertainment,64,2026-05-06 10:00:00,entrance_east
+food_court,Food Court,80,2026-05-06 11:00:00,entrance_south
+fashion_floor,Fashion Floor,88,2026-05-06 11:00:00,entrance_east
+electronics,Electronics,70,2026-05-06 11:00:00,entrance_east
+sporting,Sporting,81,2026-05-06 11:00:00,entrance_north
+beauty,Beauty,47,2026-05-06 11:00:00,entrance_west
+entertainment,Entertainment,84,2026-05-06 11:00:00,entrance_south
+food_court,Food Court,93,2026-05-06 12:00:00,entrance_south
+fashion_floor,Fashion Floor,184,2026-05-06 12:00:00,entrance_west
+electronics,Electronics,101,2026-05-06 12:00:00,entrance_west
+sporting,Sporting,147,2026-05-06 12:00:00,entrance_south
+beauty,Beauty,207,2026-05-06 12:00:00,entrance_north
+entertainment,Entertainment,109,2026-05-06 12:00:00,entrance_north
+food_court,Food Court,80,2026-05-06 13:00:00,entrance_south
+fashion_floor,Fashion Floor,169,2026-05-06 13:00:00,entrance_north
+electronics,Electronics,177,2026-05-06 13:00:00,entrance_west
+sporting,Sporting,144,2026-05-06 13:00:00,entrance_west
+beauty,Beauty,114,2026-05-06 13:00:00,entrance_north
+entertainment,Entertainment,99,2026-05-06 13:00:00,entrance_south
+food_court,Food Court,226,2026-05-06 14:00:00,entrance_south
+fashion_floor,Fashion Floor,158,2026-05-06 14:00:00,entrance_east
+electronics,Electronics,113,2026-05-06 14:00:00,entrance_east
+sporting,Sporting,170,2026-05-06 14:00:00,entrance_south
+beauty,Beauty,110,2026-05-06 14:00:00,entrance_west
+entertainment,Entertainment,229,2026-05-06 14:00:00,entrance_south
+food_court,Food Court,86,2026-05-06 15:00:00,entrance_west
+fashion_floor,Fashion Floor,55,2026-05-06 15:00:00,entrance_north
+electronics,Electronics,36,2026-05-06 15:00:00,entrance_east
+sporting,Sporting,62,2026-05-06 15:00:00,entrance_west
+beauty,Beauty,67,2026-05-06 15:00:00,entrance_south
+entertainment,Entertainment,40,2026-05-06 15:00:00,entrance_south
+food_court,Food Court,38,2026-05-06 16:00:00,entrance_west
+fashion_floor,Fashion Floor,53,2026-05-06 16:00:00,entrance_south
+electronics,Electronics,29,2026-05-06 16:00:00,entrance_west
+sporting,Sporting,83,2026-05-06 16:00:00,entrance_south
+beauty,Beauty,76,2026-05-06 16:00:00,entrance_south
+entertainment,Entertainment,73,2026-05-06 16:00:00,entrance_south
+food_court,Food Court,42,2026-05-06 17:00:00,entrance_north
+fashion_floor,Fashion Floor,43,2026-05-06 17:00:00,entrance_east
+electronics,Electronics,56,2026-05-06 17:00:00,entrance_east
+sporting,Sporting,99,2026-05-06 17:00:00,entrance_south
+beauty,Beauty,34,2026-05-06 17:00:00,entrance_north
+entertainment,Entertainment,90,2026-05-06 17:00:00,entrance_south
+food_court,Food Court,123,2026-05-06 18:00:00,entrance_north
+fashion_floor,Fashion Floor,143,2026-05-06 18:00:00,entrance_east
+electronics,Electronics,189,2026-05-06 18:00:00,entrance_east
+sporting,Sporting,295,2026-05-06 18:00:00,entrance_west
+beauty,Beauty,272,2026-05-06 18:00:00,entrance_north
+entertainment,Entertainment,110,2026-05-06 18:00:00,entrance_south
+food_court,Food Court,153,2026-05-06 19:00:00,entrance_north
+fashion_floor,Fashion Floor,112,2026-05-06 19:00:00,entrance_south
+electronics,Electronics,129,2026-05-06 19:00:00,entrance_east
+sporting,Sporting,104,2026-05-06 19:00:00,entrance_north
+beauty,Beauty,147,2026-05-06 19:00:00,entrance_east
+entertainment,Entertainment,267,2026-05-06 19:00:00,entrance_south
+food_court,Food Court,269,2026-05-06 20:00:00,entrance_north
+fashion_floor,Fashion Floor,213,2026-05-06 20:00:00,entrance_north
+electronics,Electronics,152,2026-05-06 20:00:00,entrance_east
+sporting,Sporting,138,2026-05-06 20:00:00,entrance_north
+beauty,Beauty,236,2026-05-06 20:00:00,entrance_north
+entertainment,Entertainment,131,2026-05-06 20:00:00,entrance_south
+food_court,Food Court,20,2026-05-06 21:00:00,entrance_west
+fashion_floor,Fashion Floor,90,2026-05-06 21:00:00,entrance_south
+electronics,Electronics,76,2026-05-06 21:00:00,entrance_east
+sporting,Sporting,22,2026-05-06 21:00:00,entrance_south
+beauty,Beauty,60,2026-05-06 21:00:00,entrance_north
+entertainment,Entertainment,54,2026-05-06 21:00:00,entrance_north
+food_court,Food Court,98,2026-05-05 09:00:00,entrance_east
+fashion_floor,Fashion Floor,23,2026-05-05 09:00:00,entrance_south
+electronics,Electronics,58,2026-05-05 09:00:00,entrance_north
+sporting,Sporting,67,2026-05-05 09:00:00,entrance_south
+beauty,Beauty,34,2026-05-05 09:00:00,entrance_east
+entertainment,Entertainment,34,2026-05-05 09:00:00,entrance_east
+food_court,Food Court,64,2026-05-05 10:00:00,entrance_east
+fashion_floor,Fashion Floor,64,2026-05-05 10:00:00,entrance_west
+electronics,Electronics,34,2026-05-05 10:00:00,entrance_north
+sporting,Sporting,63,2026-05-05 10:00:00,entrance_south
+beauty,Beauty,90,2026-05-05 10:00:00,entrance_east
+entertainment,Entertainment,22,2026-05-05 10:00:00,entrance_north
+food_court,Food Court,95,2026-05-05 11:00:00,entrance_south
+fashion_floor,Fashion Floor,72,2026-05-05 11:00:00,entrance_east
+electronics,Electronics,28,2026-05-05 11:00:00,entrance_north
+sporting,Sporting,79,2026-05-05 11:00:00,entrance_north
+beauty,Beauty,84,2026-05-05 11:00:00,entrance_west
+entertainment,Entertainment,90,2026-05-05 11:00:00,entrance_south
+food_court,Food Court,98,2026-05-05 12:00:00,entrance_west
+fashion_floor,Fashion Floor,112,2026-05-05 12:00:00,entrance_north
+electronics,Electronics,88,2026-05-05 12:00:00,entrance_north
+sporting,Sporting,102,2026-05-05 12:00:00,entrance_west
+beauty,Beauty,101,2026-05-05 12:00:00,entrance_east
+entertainment,Entertainment,215,2026-05-05 12:00:00,entrance_east
+food_court,Food Court,159,2026-05-05 13:00:00,entrance_east
+fashion_floor,Fashion Floor,178,2026-05-05 13:00:00,entrance_north
+electronics,Electronics,173,2026-05-05 13:00:00,entrance_west
+sporting,Sporting,101,2026-05-05 13:00:00,entrance_north
+beauty,Beauty,119,2026-05-05 13:00:00,entrance_north
+entertainment,Entertainment,168,2026-05-05 13:00:00,entrance_east
+food_court,Food Court,175,2026-05-05 14:00:00,entrance_south
+fashion_floor,Fashion Floor,189,2026-05-05 14:00:00,entrance_south
+electronics,Electronics,197,2026-05-05 14:00:00,entrance_north
+sporting,Sporting,210,2026-05-05 14:00:00,entrance_north
+beauty,Beauty,218,2026-05-05 14:00:00,entrance_south
+entertainment,Entertainment,148,2026-05-05 14:00:00,entrance_south
+food_court,Food Court,55,2026-05-05 15:00:00,entrance_north
+fashion_floor,Fashion Floor,28,2026-05-05 15:00:00,entrance_north
+electronics,Electronics,61,2026-05-05 15:00:00,entrance_west
+sporting,Sporting,20,2026-05-05 15:00:00,entrance_north
+beauty,Beauty,50,2026-05-05 15:00:00,entrance_north
+entertainment,Entertainment,43,2026-05-05 15:00:00,entrance_east
+food_court,Food Court,32,2026-05-05 16:00:00,entrance_west
+fashion_floor,Fashion Floor,87,2026-05-05 16:00:00,entrance_south
+electronics,Electronics,94,2026-05-05 16:00:00,entrance_west
+sporting,Sporting,49,2026-05-05 16:00:00,entrance_north
+beauty,Beauty,84,2026-05-05 16:00:00,entrance_west
+entertainment,Entertainment,75,2026-05-05 16:00:00,entrance_south
+food_court,Food Court,48,2026-05-05 17:00:00,entrance_north
+fashion_floor,Fashion Floor,82,2026-05-05 17:00:00,entrance_south
+electronics,Electronics,63,2026-05-05 17:00:00,entrance_west
+sporting,Sporting,24,2026-05-05 17:00:00,entrance_east
+beauty,Beauty,80,2026-05-05 17:00:00,entrance_east
+entertainment,Entertainment,98,2026-05-05 17:00:00,entrance_south
+food_court,Food Court,135,2026-05-05 18:00:00,entrance_west
+fashion_floor,Fashion Floor,288,2026-05-05 18:00:00,entrance_south
+electronics,Electronics,178,2026-05-05 18:00:00,entrance_south
+sporting,Sporting,259,2026-05-05 18:00:00,entrance_east
+beauty,Beauty,237,2026-05-05 18:00:00,entrance_east
+entertainment,Entertainment,221,2026-05-05 18:00:00,entrance_west
+food_court,Food Court,298,2026-05-05 19:00:00,entrance_west
+fashion_floor,Fashion Floor,232,2026-05-05 19:00:00,entrance_south
+electronics,Electronics,239,2026-05-05 19:00:00,entrance_north
+sporting,Sporting,271,2026-05-05 19:00:00,entrance_south
+beauty,Beauty,184,2026-05-05 19:00:00,entrance_west
+entertainment,Entertainment,272,2026-05-05 19:00:00,entrance_west
+food_court,Food Court,250,2026-05-05 20:00:00,entrance_west
+fashion_floor,Fashion Floor,252,2026-05-05 20:00:00,entrance_east
+electronics,Electronics,153,2026-05-05 20:00:00,entrance_north
+sporting,Sporting,227,2026-05-05 20:00:00,entrance_south
+beauty,Beauty,286,2026-05-05 20:00:00,entrance_north
+entertainment,Entertainment,259,2026-05-05 20:00:00,entrance_south
+food_court,Food Court,43,2026-05-05 21:00:00,entrance_west
+fashion_floor,Fashion Floor,49,2026-05-05 21:00:00,entrance_south
+electronics,Electronics,67,2026-05-05 21:00:00,entrance_south
+sporting,Sporting,83,2026-05-05 21:00:00,entrance_north
+beauty,Beauty,77,2026-05-05 21:00:00,entrance_east
+entertainment,Entertainment,77,2026-05-05 21:00:00,entrance_west
+food_court,Food Court,26,2026-05-04 09:00:00,entrance_north
+fashion_floor,Fashion Floor,37,2026-05-04 09:00:00,entrance_north
+electronics,Electronics,93,2026-05-04 09:00:00,entrance_south
+sporting,Sporting,31,2026-05-04 09:00:00,entrance_north
+beauty,Beauty,84,2026-05-04 09:00:00,entrance_north
+entertainment,Entertainment,58,2026-05-04 09:00:00,entrance_south
+food_court,Food Court,40,2026-05-04 10:00:00,entrance_north
+fashion_floor,Fashion Floor,49,2026-05-04 10:00:00,entrance_south
+electronics,Electronics,22,2026-05-04 10:00:00,entrance_north
+sporting,Sporting,45,2026-05-04 10:00:00,entrance_east
+beauty,Beauty,58,2026-05-04 10:00:00,entrance_west
+entertainment,Entertainment,83,2026-05-04 10:00:00,entrance_south
+food_court,Food Court,75,2026-05-04 11:00:00,entrance_north
+fashion_floor,Fashion Floor,38,2026-05-04 11:00:00,entrance_west
+electronics,Electronics,31,2026-05-04 11:00:00,entrance_east
+sporting,Sporting,25,2026-05-04 11:00:00,entrance_west
+beauty,Beauty,71,2026-05-04 11:00:00,entrance_south
+entertainment,Entertainment,67,2026-05-04 11:00:00,entrance_south
+food_court,Food Court,211,2026-05-04 12:00:00,entrance_south
+fashion_floor,Fashion Floor,218,2026-05-04 12:00:00,entrance_north
+electronics,Electronics,243,2026-05-04 12:00:00,entrance_east
+sporting,Sporting,82,2026-05-04 12:00:00,entrance_south
+beauty,Beauty,179,2026-05-04 12:00:00,entrance_west
+entertainment,Entertainment,182,2026-05-04 12:00:00,entrance_west
+food_court,Food Court,248,2026-05-04 13:00:00,entrance_south
+fashion_floor,Fashion Floor,208,2026-05-04 13:00:00,entrance_east
+electronics,Electronics,212,2026-05-04 13:00:00,entrance_north
+sporting,Sporting,237,2026-05-04 13:00:00,entrance_east
+beauty,Beauty,192,2026-05-04 13:00:00,entrance_west
+entertainment,Entertainment,113,2026-05-04 13:00:00,entrance_south
+food_court,Food Court,204,2026-05-04 14:00:00,entrance_east
+fashion_floor,Fashion Floor,243,2026-05-04 14:00:00,entrance_east
+electronics,Electronics,99,2026-05-04 14:00:00,entrance_south
+sporting,Sporting,116,2026-05-04 14:00:00,entrance_west
+beauty,Beauty,147,2026-05-04 14:00:00,entrance_north
+entertainment,Entertainment,157,2026-05-04 14:00:00,entrance_north
+food_court,Food Court,72,2026-05-04 15:00:00,entrance_west
+fashion_floor,Fashion Floor,32,2026-05-04 15:00:00,entrance_west
+electronics,Electronics,50,2026-05-04 15:00:00,entrance_east
+sporting,Sporting,60,2026-05-04 15:00:00,entrance_north
+beauty,Beauty,76,2026-05-04 15:00:00,entrance_north
+entertainment,Entertainment,71,2026-05-04 15:00:00,entrance_west
+food_court,Food Court,96,2026-05-04 16:00:00,entrance_east
+fashion_floor,Fashion Floor,76,2026-05-04 16:00:00,entrance_south
+electronics,Electronics,75,2026-05-04 16:00:00,entrance_north
+sporting,Sporting,49,2026-05-04 16:00:00,entrance_north
+beauty,Beauty,22,2026-05-04 16:00:00,entrance_west
+entertainment,Entertainment,88,2026-05-04 16:00:00,entrance_north
+food_court,Food Court,75,2026-05-04 17:00:00,entrance_north
+fashion_floor,Fashion Floor,70,2026-05-04 17:00:00,entrance_west
+electronics,Electronics,98,2026-05-04 17:00:00,entrance_north
+sporting,Sporting,97,2026-05-04 17:00:00,entrance_west
+beauty,Beauty,65,2026-05-04 17:00:00,entrance_east
+entertainment,Entertainment,99,2026-05-04 17:00:00,entrance_west
+food_court,Food Court,228,2026-05-04 18:00:00,entrance_east
+fashion_floor,Fashion Floor,252,2026-05-04 18:00:00,entrance_west
+electronics,Electronics,121,2026-05-04 18:00:00,entrance_south
+sporting,Sporting,183,2026-05-04 18:00:00,entrance_west
+beauty,Beauty,268,2026-05-04 18:00:00,entrance_north
+entertainment,Entertainment,121,2026-05-04 18:00:00,entrance_north
+food_court,Food Court,208,2026-05-04 19:00:00,entrance_north
+fashion_floor,Fashion Floor,141,2026-05-04 19:00:00,entrance_south
+electronics,Electronics,186,2026-05-04 19:00:00,entrance_east
+sporting,Sporting,163,2026-05-04 19:00:00,entrance_north
+beauty,Beauty,102,2026-05-04 19:00:00,entrance_west
+entertainment,Entertainment,150,2026-05-04 19:00:00,entrance_west
+food_court,Food Court,129,2026-05-04 20:00:00,entrance_west
+fashion_floor,Fashion Floor,233,2026-05-04 20:00:00,entrance_east
+electronics,Electronics,144,2026-05-04 20:00:00,entrance_north
+sporting,Sporting,259,2026-05-04 20:00:00,entrance_north
+beauty,Beauty,114,2026-05-04 20:00:00,entrance_west
+entertainment,Entertainment,280,2026-05-04 20:00:00,entrance_west
+food_court,Food Court,53,2026-05-04 21:00:00,entrance_east
+fashion_floor,Fashion Floor,81,2026-05-04 21:00:00,entrance_east
+electronics,Electronics,43,2026-05-04 21:00:00,entrance_south
+sporting,Sporting,22,2026-05-04 21:00:00,entrance_north
+beauty,Beauty,43,2026-05-04 21:00:00,entrance_east
+entertainment,Entertainment,25,2026-05-04 21:00:00,entrance_north
+food_court,Food Court,85,2026-05-03 09:00:00,entrance_south
+fashion_floor,Fashion Floor,145,2026-05-03 09:00:00,entrance_north
+electronics,Electronics,66,2026-05-03 09:00:00,entrance_south
+sporting,Sporting,153,2026-05-03 09:00:00,entrance_north
+beauty,Beauty,47,2026-05-03 09:00:00,entrance_north
+entertainment,Entertainment,144,2026-05-03 09:00:00,entrance_east
+food_court,Food Court,98,2026-05-03 10:00:00,entrance_west
+fashion_floor,Fashion Floor,117,2026-05-03 10:00:00,entrance_north
+electronics,Electronics,176,2026-05-03 10:00:00,entrance_west
+sporting,Sporting,47,2026-05-03 10:00:00,entrance_west
+beauty,Beauty,76,2026-05-03 10:00:00,entrance_south
+entertainment,Entertainment,106,2026-05-03 10:00:00,entrance_north
+food_court,Food Court,74,2026-05-03 11:00:00,entrance_west
+fashion_floor,Fashion Floor,86,2026-05-03 11:00:00,entrance_east
+electronics,Electronics,70,2026-05-03 11:00:00,entrance_west
+sporting,Sporting,112,2026-05-03 11:00:00,entrance_west
+beauty,Beauty,128,2026-05-03 11:00:00,entrance_east
+entertainment,Entertainment,180,2026-05-03 11:00:00,entrance_east
+food_court,Food Court,256,2026-05-03 12:00:00,entrance_north
+fashion_floor,Fashion Floor,295,2026-05-03 12:00:00,entrance_south
+electronics,Electronics,353,2026-05-03 12:00:00,entrance_west
+sporting,Sporting,176,2026-05-03 12:00:00,entrance_east
+beauty,Beauty,236,2026-05-03 12:00:00,entrance_south
+entertainment,Entertainment,175,2026-05-03 12:00:00,entrance_north
+food_court,Food Court,157,2026-05-03 13:00:00,entrance_west
+fashion_floor,Fashion Floor,265,2026-05-03 13:00:00,entrance_north
+electronics,Electronics,169,2026-05-03 13:00:00,entrance_south
+sporting,Sporting,231,2026-05-03 13:00:00,entrance_west
+beauty,Beauty,374,2026-05-03 13:00:00,entrance_north
+entertainment,Entertainment,352,2026-05-03 13:00:00,entrance_west
+food_court,Food Court,222,2026-05-03 14:00:00,entrance_west
+fashion_floor,Fashion Floor,336,2026-05-03 14:00:00,entrance_north
+electronics,Electronics,134,2026-05-03 14:00:00,entrance_north
+sporting,Sporting,274,2026-05-03 14:00:00,entrance_north
+beauty,Beauty,320,2026-05-03 14:00:00,entrance_north
+entertainment,Entertainment,315,2026-05-03 14:00:00,entrance_south
+food_court,Food Court,90,2026-05-03 15:00:00,entrance_south
+fashion_floor,Fashion Floor,89,2026-05-03 15:00:00,entrance_north
+electronics,Electronics,177,2026-05-03 15:00:00,entrance_south
+sporting,Sporting,30,2026-05-03 15:00:00,entrance_east
+beauty,Beauty,171,2026-05-03 15:00:00,entrance_east
+entertainment,Entertainment,78,2026-05-03 15:00:00,entrance_west
+food_court,Food Court,31,2026-05-03 16:00:00,entrance_north
+fashion_floor,Fashion Floor,95,2026-05-03 16:00:00,entrance_west
+electronics,Electronics,156,2026-05-03 16:00:00,entrance_south
+sporting,Sporting,145,2026-05-03 16:00:00,entrance_south
+beauty,Beauty,49,2026-05-03 16:00:00,entrance_south
+entertainment,Entertainment,54,2026-05-03 16:00:00,entrance_west
+food_court,Food Court,53,2026-05-03 17:00:00,entrance_north
+fashion_floor,Fashion Floor,85,2026-05-03 17:00:00,entrance_south
+electronics,Electronics,123,2026-05-03 17:00:00,entrance_north
+sporting,Sporting,104,2026-05-03 17:00:00,entrance_east
+beauty,Beauty,115,2026-05-03 17:00:00,entrance_east
+entertainment,Entertainment,121,2026-05-03 17:00:00,entrance_east
+food_court,Food Court,420,2026-05-03 18:00:00,entrance_east
+fashion_floor,Fashion Floor,326,2026-05-03 18:00:00,entrance_south
+electronics,Electronics,253,2026-05-03 18:00:00,entrance_north
+sporting,Sporting,515,2026-05-03 18:00:00,entrance_east
+beauty,Beauty,328,2026-05-03 18:00:00,entrance_north
+entertainment,Entertainment,438,2026-05-03 18:00:00,entrance_east
+food_court,Food Court,244,2026-05-03 19:00:00,entrance_west
+fashion_floor,Fashion Floor,376,2026-05-03 19:00:00,entrance_west
+electronics,Electronics,244,2026-05-03 19:00:00,entrance_west
+sporting,Sporting,392,2026-05-03 19:00:00,entrance_south
+beauty,Beauty,345,2026-05-03 19:00:00,entrance_west
+entertainment,Entertainment,490,2026-05-03 19:00:00,entrance_south
+food_court,Food Court,381,2026-05-03 20:00:00,entrance_north
+fashion_floor,Fashion Floor,313,2026-05-03 20:00:00,entrance_west
+electronics,Electronics,188,2026-05-03 20:00:00,entrance_west
+sporting,Sporting,313,2026-05-03 20:00:00,entrance_south
+beauty,Beauty,279,2026-05-03 20:00:00,entrance_south
+entertainment,Entertainment,472,2026-05-03 20:00:00,entrance_east
+food_court,Food Court,156,2026-05-03 21:00:00,entrance_north
+fashion_floor,Fashion Floor,66,2026-05-03 21:00:00,entrance_south
+electronics,Electronics,45,2026-05-03 21:00:00,entrance_north
+sporting,Sporting,92,2026-05-03 21:00:00,entrance_west
+beauty,Beauty,43,2026-05-03 21:00:00,entrance_south
+entertainment,Entertainment,130,2026-05-03 21:00:00,entrance_west

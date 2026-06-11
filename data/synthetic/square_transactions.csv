@@ -1,0 +1,501 @@
+tenant_id,store_name,item_category,amount,quantity,timestamp,zone
+verdure,Verdure,BEAUTY,132.53,2,2026-05-13 19:43:00,beauty
+golden_fork,Golden Fork,FB,16.69,1,2026-05-26 19:27:01,food_court
+bloom_and_co,Bloom & Co,BEAUTY,205.73,3,2026-05-08 13:51:31,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,217.71,3,2026-05-03 10:41:03,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,212.09,3,2026-05-29 18:40:38,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,208.95,4,2026-05-20 20:34:57,beauty
+apex_tech,Apex Tech,ELECTRONICS,165.58,2,2026-05-31 13:14:38,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,79.76,4,2026-05-31 12:47:00,food_court
+verdure,Verdure,BEAUTY,188.91,3,2026-05-29 20:34:40,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,27.43,2,2026-05-13 10:04:44,food_court
+golden_fork,Golden Fork,FB,53.11,3,2026-05-04 20:51:36,food_court
+verdure,Verdure,BEAUTY,103.46,1,2026-05-03 18:00:25,beauty
+pace_step,PaceStep,SPORTING,263.49,3,2026-05-23 14:13:11,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,61.28,1,2026-05-13 19:01:51,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,78.33,1,2026-05-02 11:31:39,entertainment
+atelier_m,Atelier M,BEAUTY,48.07,1,2026-05-25 18:01:55,beauty
+apex_tech,Apex Tech,ELECTRONICS,205.13,2,2026-05-31 11:00:27,electronics
+atelier_m,Atelier M,BEAUTY,265.6,3,2026-05-09 15:42:37,beauty
+golden_fork,Golden Fork,FB,24.44,1,2026-05-31 19:13:53,food_court
+atelier_m,Atelier M,BEAUTY,195.96,2,2026-05-02 19:25:58,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,220.97,4,2026-05-05 14:33:37,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,63.84,1,2026-05-21 12:36:18,beauty
+golden_fork,Golden Fork,FB,37.44,3,2026-05-18 21:24:25,food_court
+apex_tech,Apex Tech,ELECTRONICS,213.66,4,2026-05-15 15:08:18,electronics
+pixel_vault,PixelVault,ENTERTAINMENT,179.77,3,2026-05-28 13:48:02,entertainment
+atelier_m,Atelier M,BEAUTY,254.6,4,2026-05-27 17:07:52,beauty
+apex_tech,Apex Tech,ELECTRONICS,183.82,3,2026-05-26 17:56:21,electronics
+atelier_m,Atelier M,BEAUTY,216.32,4,2026-05-11 12:49:31,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,229.52,4,2026-05-06 17:06:33,entertainment
+verdure,Verdure,BEAUTY,96.13,2,2026-05-06 10:03:14,beauty
+apex_tech,Apex Tech,ELECTRONICS,126.23,2,2026-06-01 20:47:23,electronics
+pace_step,PaceStep,SPORTING,207.07,4,2026-05-08 17:38:42,sporting
+atelier_m,Atelier M,BEAUTY,156.95,3,2026-05-07 12:15:17,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,173.63,3,2026-05-13 17:13:17,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,166.61,3,2026-05-19 11:13:34,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,48.56,3,2026-05-19 13:14:58,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,266.32,3,2026-05-09 12:30:32,entertainment
+atelier_m,Atelier M,BEAUTY,90.21,1,2026-05-16 12:31:46,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,86.96,1,2026-05-23 17:52:25,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,69.75,4,2026-05-22 15:40:00,food_court
+apex_tech,Apex Tech,ELECTRONICS,158.35,3,2026-05-13 20:17:00,electronics
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,133.07,2,2026-05-18 15:18:32,entertainment
+golden_fork,Golden Fork,FB,27.98,2,2026-05-19 21:20:27,food_court
+pace_step,PaceStep,SPORTING,172.6,2,2026-05-09 14:29:29,sporting
+atelier_m,Atelier M,BEAUTY,102.89,2,2026-06-01 11:56:08,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,51.27,2,2026-05-02 18:04:59,food_court
+verdure,Verdure,BEAUTY,239.64,3,2026-05-10 10:47:57,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,14.3,1,2026-05-19 16:18:27,food_court
+verdure,Verdure,BEAUTY,379.96,4,2026-05-24 17:54:38,beauty
+verdure,Verdure,BEAUTY,71.29,1,2026-06-01 10:21:21,beauty
+pace_step,PaceStep,SPORTING,211.38,3,2026-05-25 10:49:12,sporting
+pace_step,PaceStep,SPORTING,248.65,4,2026-05-07 18:19:53,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,116.2,2,2026-05-14 10:27:34,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,145.53,3,2026-05-15 18:00:21,beauty
+golden_fork,Golden Fork,FB,28.86,2,2026-05-20 10:35:10,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,333.38,4,2026-05-02 13:49:44,beauty
+atelier_m,Atelier M,BEAUTY,284.98,4,2026-05-20 13:33:09,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,273.78,4,2026-05-08 21:07:06,beauty
+atelier_m,Atelier M,BEAUTY,211.7,3,2026-05-26 17:23:39,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,201.39,4,2026-05-29 17:48:03,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,171.29,2,2026-05-16 19:59:28,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,52.49,2,2026-05-30 11:29:21,food_court
+apex_tech,Apex Tech,ELECTRONICS,52.62,1,2026-05-22 10:57:20,electronics
+pace_step,PaceStep,SPORTING,366.52,4,2026-05-30 13:32:31,sporting
+verdure,Verdure,BEAUTY,69.52,1,2026-05-07 18:28:20,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,276.58,3,2026-05-24 15:29:43,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,127.09,2,2026-05-06 13:42:24,entertainment
+atelier_m,Atelier M,BEAUTY,258.6,3,2026-05-09 13:27:51,beauty
+bloom_and_co,Bloom & Co,BEAUTY,279.1,4,2026-05-13 12:21:04,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,144.12,3,2026-05-25 21:36:15,beauty
+verdure,Verdure,BEAUTY,252.28,4,2026-05-14 10:41:28,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,288.2,3,2026-05-03 17:16:34,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,402.57,4,2026-05-03 12:49:28,entertainment
+apex_tech,Apex Tech,ELECTRONICS,162.32,2,2026-05-31 19:54:24,electronics
+pace_step,PaceStep,SPORTING,96.71,2,2026-05-25 19:32:16,sporting
+golden_fork,Golden Fork,FB,51.04,4,2026-05-05 11:03:10,food_court
+bloom_and_co,Bloom & Co,BEAUTY,161.14,3,2026-05-15 14:50:11,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,98.15,2,2026-05-20 14:27:07,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,70.89,1,2026-05-18 12:50:23,entertainment
+golden_fork,Golden Fork,FB,24.82,1,2026-05-03 11:09:31,food_court
+golden_fork,Golden Fork,FB,49.6,4,2026-05-20 11:16:20,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,56.58,1,2026-05-13 14:45:01,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,270.6,3,2026-05-10 12:20:57,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,226.93,4,2026-05-19 18:05:34,beauty
+atelier_m,Atelier M,BEAUTY,119.81,2,2026-05-13 17:42:02,beauty
+apex_tech,Apex Tech,ELECTRONICS,234.43,3,2026-05-03 20:05:35,electronics
+pace_step,PaceStep,SPORTING,258.87,4,2026-06-01 21:04:38,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,294.65,3,2026-05-17 18:58:43,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,289.79,4,2026-05-17 10:39:59,entertainment
+golden_fork,Golden Fork,FB,17.07,1,2026-05-13 14:58:39,food_court
+apex_tech,Apex Tech,ELECTRONICS,127.12,2,2026-05-12 21:59:46,electronics
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,126.83,2,2026-05-04 13:33:09,entertainment
+verdure,Verdure,BEAUTY,164.45,3,2026-06-01 17:07:12,beauty
+bloom_and_co,Bloom & Co,BEAUTY,92.18,1,2026-05-16 10:10:52,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,60.1,1,2026-05-21 14:43:14,entertainment
+apex_tech,Apex Tech,ELECTRONICS,284.12,3,2026-05-03 11:32:01,electronics
+verdure,Verdure,BEAUTY,202.72,3,2026-06-01 16:12:42,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,265.61,4,2026-05-15 21:14:59,beauty
+golden_fork,Golden Fork,FB,20.01,1,2026-05-17 19:14:03,food_court
+apex_tech,Apex Tech,ELECTRONICS,159.55,3,2026-05-06 10:16:31,electronics
+verdure,Verdure,BEAUTY,77.37,1,2026-05-10 16:56:45,beauty
+verdure,Verdure,BEAUTY,88.3,1,2026-05-02 19:13:41,beauty
+verdure,Verdure,BEAUTY,69.72,1,2026-05-29 15:35:27,beauty
+apex_tech,Apex Tech,ELECTRONICS,48.26,1,2026-05-14 13:19:48,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,45.08,2,2026-05-09 11:52:10,food_court
+atelier_m,Atelier M,BEAUTY,285.84,4,2026-05-18 13:07:27,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,199.85,2,2026-05-02 18:20:13,beauty
+pace_step,PaceStep,SPORTING,213.92,3,2026-05-05 20:00:33,sporting
+atelier_m,Atelier M,BEAUTY,179.65,2,2026-05-03 18:04:29,beauty
+verdure,Verdure,BEAUTY,62.19,1,2026-06-01 12:22:37,beauty
+bloom_and_co,Bloom & Co,BEAUTY,276.15,4,2026-05-29 10:01:27,beauty
+pace_step,PaceStep,SPORTING,65.13,1,2026-05-07 17:44:32,sporting
+golden_fork,Golden Fork,FB,12.51,1,2026-05-26 13:03:38,food_court
+bloom_and_co,Bloom & Co,BEAUTY,173.14,2,2026-05-02 12:47:57,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,63.83,1,2026-05-06 20:44:40,beauty
+atelier_m,Atelier M,BEAUTY,185.65,2,2026-05-16 17:48:50,beauty
+atelier_m,Atelier M,BEAUTY,259.7,4,2026-05-12 13:32:53,beauty
+apex_tech,Apex Tech,ELECTRONICS,52.8,1,2026-05-12 20:39:29,electronics
+golden_fork,Golden Fork,FB,13.99,1,2026-05-14 10:22:14,food_court
+apex_tech,Apex Tech,ELECTRONICS,51.17,1,2026-06-01 17:38:56,electronics
+bloom_and_co,Bloom & Co,BEAUTY,50.4,1,2026-05-28 17:54:33,beauty
+bloom_and_co,Bloom & Co,BEAUTY,102.04,1,2026-05-16 12:03:52,beauty
+bloom_and_co,Bloom & Co,BEAUTY,64.98,1,2026-05-08 19:16:10,beauty
+atelier_m,Atelier M,BEAUTY,57.25,1,2026-05-07 10:34:56,beauty
+verdure,Verdure,BEAUTY,139.22,2,2026-05-06 15:14:05,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,82.0,1,2026-05-30 13:39:15,beauty
+bloom_and_co,Bloom & Co,BEAUTY,98.21,2,2026-05-21 12:52:58,beauty
+apex_tech,Apex Tech,ELECTRONICS,210.73,3,2026-05-15 12:01:28,electronics
+golden_fork,Golden Fork,FB,42.55,3,2026-05-13 19:09:55,food_court
+atelier_m,Atelier M,BEAUTY,58.42,1,2026-05-14 17:17:18,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,248.91,4,2026-05-21 10:07:38,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,58.13,1,2026-05-15 19:08:12,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,60.34,1,2026-05-06 18:52:44,beauty
+pace_step,PaceStep,SPORTING,253.15,4,2026-05-21 14:16:44,sporting
+bloom_and_co,Bloom & Co,BEAUTY,70.55,1,2026-06-01 18:09:42,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,159.02,3,2026-05-26 18:10:31,entertainment
+pace_step,PaceStep,SPORTING,231.99,4,2026-05-27 13:39:51,sporting
+pixel_vault,PixelVault,ENTERTAINMENT,284.63,4,2026-05-19 19:57:51,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,83.91,1,2026-05-30 15:39:12,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,181.91,3,2026-05-21 17:23:44,entertainment
+golden_fork,Golden Fork,FB,17.73,1,2026-05-27 12:18:11,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,65.91,3,2026-05-30 18:41:18,food_court
+bloom_and_co,Bloom & Co,BEAUTY,144.76,2,2026-05-31 15:18:42,beauty
+verdure,Verdure,BEAUTY,114.89,2,2026-05-11 16:12:54,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,64.29,1,2026-05-06 17:44:55,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,96.13,2,2026-05-04 10:19:48,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,174.48,3,2026-05-19 19:14:30,beauty
+bloom_and_co,Bloom & Co,BEAUTY,272.25,4,2026-05-15 12:32:09,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,272.13,4,2026-05-06 12:13:41,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,280.33,4,2026-05-15 13:22:07,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,54.33,1,2026-05-20 10:08:26,beauty
+verdure,Verdure,BEAUTY,74.14,1,2026-05-03 17:03:59,beauty
+verdure,Verdure,BEAUTY,103.03,2,2026-05-19 15:36:40,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,160.44,3,2026-05-27 20:35:57,entertainment
+golden_fork,Golden Fork,FB,80.04,3,2026-05-16 17:03:36,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,213.34,3,2026-06-01 17:57:19,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,279.35,4,2026-05-14 12:34:59,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,60.49,1,2026-05-27 12:03:29,entertainment
+atelier_m,Atelier M,BEAUTY,61.25,1,2026-05-21 20:11:05,beauty
+pace_step,PaceStep,SPORTING,308.56,3,2026-05-23 19:21:17,sporting
+brewpoint_coffee,Brewpoint Coffee,FB,71.05,4,2026-05-07 19:57:00,food_court
+apex_tech,Apex Tech,ELECTRONICS,238.02,4,2026-05-21 12:22:19,electronics
+pace_step,PaceStep,SPORTING,205.99,4,2026-05-27 12:34:23,sporting
+brewpoint_coffee,Brewpoint Coffee,FB,80.28,3,2026-05-17 12:20:57,food_court
+verdure,Verdure,BEAUTY,191.7,2,2026-05-24 12:52:33,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,178.42,3,2026-05-05 15:20:36,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,188.86,2,2026-05-31 19:58:05,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,145.47,2,2026-05-09 17:25:12,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,135.14,2,2026-05-21 19:00:29,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,39.21,2,2026-05-03 21:39:56,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,145.36,2,2026-05-16 13:36:11,entertainment
+verdure,Verdure,BEAUTY,101.35,2,2026-05-12 10:26:37,beauty
+bloom_and_co,Bloom & Co,BEAUTY,408.35,4,2026-05-16 11:10:41,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,50.51,2,2026-05-31 19:25:07,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,102.18,2,2026-05-29 12:11:56,beauty
+apex_tech,Apex Tech,ELECTRONICS,121.68,2,2026-05-20 18:13:17,electronics
+verdure,Verdure,BEAUTY,50.1,1,2026-05-27 13:28:58,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,146.14,2,2026-05-17 13:30:24,entertainment
+pace_step,PaceStep,SPORTING,126.59,2,2026-05-19 14:56:16,sporting
+golden_fork,Golden Fork,FB,57.2,4,2026-05-22 11:42:44,food_court
+pace_step,PaceStep,SPORTING,63.47,1,2026-05-20 13:53:32,sporting
+pixel_vault,PixelVault,ENTERTAINMENT,114.48,2,2026-05-21 13:33:28,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,14.51,1,2026-06-01 13:47:44,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,240.71,4,2026-05-04 14:01:39,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,74.28,3,2026-05-30 14:37:41,food_court
+atelier_m,Atelier M,BEAUTY,204.02,3,2026-05-19 13:07:22,beauty
+apex_tech,Apex Tech,ELECTRONICS,196.8,4,2026-05-14 17:58:39,electronics
+pixel_vault,PixelVault,ENTERTAINMENT,201.85,3,2026-05-05 18:47:16,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,92.93,1,2026-05-10 12:16:10,beauty
+bloom_and_co,Bloom & Co,BEAUTY,135.56,2,2026-05-29 17:50:23,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,270.37,4,2026-05-12 15:30:43,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,144.56,3,2026-05-06 10:16:06,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,14.58,1,2026-05-18 12:19:21,food_court
+golden_fork,Golden Fork,FB,32.46,2,2026-05-28 16:24:42,food_court
+bloom_and_co,Bloom & Co,BEAUTY,68.23,1,2026-05-18 14:36:19,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,146.67,3,2026-05-29 13:07:24,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,326.78,4,2026-05-31 15:34:34,beauty
+verdure,Verdure,BEAUTY,104.5,2,2026-05-08 14:56:59,beauty
+verdure,Verdure,BEAUTY,269.67,4,2026-05-05 17:15:20,beauty
+pace_step,PaceStep,SPORTING,238.15,4,2026-05-04 14:24:15,sporting
+golden_fork,Golden Fork,FB,60.07,4,2026-06-01 18:45:38,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,112.62,2,2026-05-25 13:59:22,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,58.62,1,2026-05-28 12:48:13,beauty
+atelier_m,Atelier M,BEAUTY,256.99,4,2026-05-22 19:33:57,beauty
+golden_fork,Golden Fork,FB,13.05,1,2026-05-07 11:21:07,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,54.52,4,2026-05-28 14:24:51,food_court
+atelier_m,Atelier M,BEAUTY,158.5,3,2026-05-04 10:04:56,beauty
+verdure,Verdure,BEAUTY,249.62,4,2026-05-06 15:54:20,beauty
+golden_fork,Golden Fork,FB,16.89,1,2026-06-01 20:59:57,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,272.0,3,2026-05-30 12:41:04,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,185.34,2,2026-05-17 19:24:31,entertainment
+golden_fork,Golden Fork,FB,78.15,3,2026-05-30 19:06:07,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,387.53,4,2026-05-09 16:45:20,beauty
+pace_step,PaceStep,SPORTING,107.43,2,2026-05-12 17:46:52,sporting
+brewpoint_coffee,Brewpoint Coffee,FB,66.11,3,2026-05-17 18:40:25,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,284.65,3,2026-05-09 19:18:16,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,169.89,3,2026-05-06 19:47:56,entertainment
+golden_fork,Golden Fork,FB,25.06,1,2026-05-16 18:19:51,food_court
+verdure,Verdure,BEAUTY,205.88,3,2026-05-18 15:16:42,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,113.17,2,2026-05-08 12:09:49,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,65.52,1,2026-05-05 13:03:35,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,78.05,1,2026-05-03 12:38:02,beauty
+verdure,Verdure,BEAUTY,101.63,1,2026-05-03 10:59:56,beauty
+verdure,Verdure,BEAUTY,54.5,1,2026-05-08 12:00:53,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,41.65,3,2026-05-14 18:06:46,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,54.52,4,2026-05-22 12:36:07,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,352.79,4,2026-05-17 19:56:49,entertainment
+golden_fork,Golden Fork,FB,49.02,4,2026-05-19 20:27:19,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,73.3,4,2026-05-24 10:49:11,food_court
+verdure,Verdure,BEAUTY,303.47,4,2026-05-02 12:51:25,beauty
+pace_step,PaceStep,SPORTING,261.41,4,2026-05-14 11:52:16,sporting
+pace_step,PaceStep,SPORTING,320.91,4,2026-05-10 20:56:59,sporting
+bloom_and_co,Bloom & Co,BEAUTY,156.11,3,2026-05-06 19:18:50,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,250.43,3,2026-05-31 18:54:54,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,49.06,1,2026-05-13 11:20:34,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,54.14,1,2026-05-13 17:00:42,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,97.21,2,2026-05-07 18:40:54,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,351.82,4,2026-05-23 12:46:24,beauty
+pace_step,PaceStep,SPORTING,139.69,2,2026-05-14 21:12:37,sporting
+golden_fork,Golden Fork,FB,99.85,4,2026-05-24 12:34:31,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,272.71,4,2026-05-11 17:05:34,entertainment
+verdure,Verdure,BEAUTY,207.71,3,2026-05-26 13:24:52,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,213.33,3,2026-05-29 18:03:13,beauty
+apex_tech,Apex Tech,ELECTRONICS,318.32,4,2026-05-30 21:16:30,electronics
+pixel_vault,PixelVault,ENTERTAINMENT,251.55,4,2026-06-01 13:03:56,entertainment
+pace_step,PaceStep,SPORTING,164.75,3,2026-06-01 15:39:42,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,291.96,3,2026-05-10 16:25:16,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,51.37,1,2026-05-18 19:16:29,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,121.73,2,2026-05-25 11:22:30,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,256.62,4,2026-05-08 10:09:30,beauty
+pace_step,PaceStep,SPORTING,139.04,2,2026-05-08 13:44:20,sporting
+bloom_and_co,Bloom & Co,BEAUTY,96.17,1,2026-05-02 16:05:00,beauty
+bloom_and_co,Bloom & Co,BEAUTY,308.56,3,2026-05-23 19:56:24,beauty
+verdure,Verdure,BEAUTY,51.01,1,2026-05-29 16:13:40,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,238.1,4,2026-06-01 12:40:07,entertainment
+atelier_m,Atelier M,BEAUTY,67.86,1,2026-05-26 13:46:20,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,52.4,4,2026-05-18 11:48:11,food_court
+verdure,Verdure,BEAUTY,171.47,3,2026-05-25 11:40:44,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,153.91,3,2026-05-15 13:26:28,entertainment
+apex_tech,Apex Tech,ELECTRONICS,109.39,2,2026-05-12 18:31:34,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,88.06,4,2026-05-31 19:41:24,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,305.27,3,2026-05-24 16:49:48,beauty
+verdure,Verdure,BEAUTY,102.39,2,2026-05-25 10:27:10,beauty
+golden_fork,Golden Fork,FB,28.16,2,2026-05-13 10:50:10,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,48.17,1,2026-05-07 18:48:12,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,217.51,4,2026-05-27 10:11:12,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,197.07,4,2026-05-14 11:47:27,entertainment
+pace_step,PaceStep,SPORTING,125.57,2,2026-05-07 15:23:14,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,104.8,2,2026-05-14 18:44:12,entertainment
+pace_step,PaceStep,SPORTING,332.68,4,2026-05-31 13:17:40,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,189.58,3,2026-05-05 19:47:52,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,53.73,1,2026-05-06 19:47:15,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,149.97,3,2026-05-12 13:14:28,beauty
+atelier_m,Atelier M,BEAUTY,263.63,3,2026-05-10 17:33:42,beauty
+bloom_and_co,Bloom & Co,BEAUTY,178.87,2,2026-05-23 16:09:35,beauty
+pace_step,PaceStep,SPORTING,126.29,2,2026-05-25 19:10:12,sporting
+golden_fork,Golden Fork,FB,49.23,4,2026-05-14 12:25:50,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,14.82,1,2026-05-20 18:13:00,food_court
+verdure,Verdure,BEAUTY,111.89,2,2026-05-20 10:02:40,beauty
+atelier_m,Atelier M,BEAUTY,137.76,2,2026-05-11 18:21:52,beauty
+verdure,Verdure,BEAUTY,244.21,4,2026-05-19 12:29:15,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,139.04,2,2026-05-18 20:03:27,beauty
+atelier_m,Atelier M,BEAUTY,106.18,1,2026-05-17 15:25:44,beauty
+golden_fork,Golden Fork,FB,62.28,4,2026-05-12 15:47:43,food_court
+apex_tech,Apex Tech,ELECTRONICS,192.76,3,2026-05-04 20:57:27,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,49.89,3,2026-05-07 10:21:25,food_court
+pace_step,PaceStep,SPORTING,171.16,3,2026-05-25 17:17:45,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,342.2,4,2026-05-24 11:35:51,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,112.17,2,2026-05-25 19:12:05,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,51.83,1,2026-05-15 14:35:18,beauty
+apex_tech,Apex Tech,ELECTRONICS,160.15,3,2026-05-28 15:06:05,electronics
+verdure,Verdure,BEAUTY,139.82,2,2026-05-27 12:34:12,beauty
+bloom_and_co,Bloom & Co,BEAUTY,88.98,1,2026-05-30 18:38:11,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,171.29,2,2026-05-24 10:38:52,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,101.73,4,2026-05-24 19:16:48,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,203.25,2,2026-05-10 13:55:55,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,182.32,3,2026-05-06 10:00:23,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,15.57,1,2026-05-29 19:03:40,food_court
+apex_tech,Apex Tech,ELECTRONICS,52.88,1,2026-05-20 18:26:58,electronics
+bloom_and_co,Bloom & Co,BEAUTY,253.77,4,2026-05-11 19:23:22,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,144.81,3,2026-05-12 20:41:14,entertainment
+golden_fork,Golden Fork,FB,53.98,2,2026-05-30 12:29:23,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,77.56,1,2026-05-16 13:46:49,entertainment
+lumiere_beauty,Lumière Beauty,BEAUTY,99.52,1,2026-05-03 19:27:22,beauty
+bloom_and_co,Bloom & Co,BEAUTY,113.68,2,2026-05-26 19:19:52,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,257.78,4,2026-05-04 13:18:50,entertainment
+golden_fork,Golden Fork,FB,51.91,3,2026-05-06 16:43:40,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,48.21,1,2026-05-07 10:46:41,beauty
+verdure,Verdure,BEAUTY,60.07,1,2026-05-18 16:55:21,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,209.48,2,2026-05-03 13:43:38,entertainment
+atelier_m,Atelier M,BEAUTY,97.19,2,2026-05-20 15:05:37,beauty
+verdure,Verdure,BEAUTY,106.9,2,2026-05-15 16:13:03,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,348.68,4,2026-05-09 13:33:47,beauty
+pace_step,PaceStep,SPORTING,255.1,4,2026-05-20 19:04:03,sporting
+bloom_and_co,Bloom & Co,BEAUTY,297.97,4,2026-05-09 13:05:44,beauty
+apex_tech,Apex Tech,ELECTRONICS,160.32,3,2026-05-21 19:06:29,electronics
+pixel_vault,PixelVault,ENTERTAINMENT,54.47,1,2026-05-15 10:52:18,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,82.43,1,2026-05-17 12:19:22,entertainment
+golden_fork,Golden Fork,FB,60.45,4,2026-05-18 18:56:27,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,63.61,3,2026-05-02 17:11:20,food_court
+atelier_m,Atelier M,BEAUTY,102.32,2,2026-05-12 17:07:57,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,53.32,1,2026-05-07 21:13:23,beauty
+verdure,Verdure,BEAUTY,100.52,2,2026-05-11 12:14:11,beauty
+apex_tech,Apex Tech,ELECTRONICS,58.31,1,2026-05-04 16:53:23,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,45.19,3,2026-05-25 10:15:50,food_court
+golden_fork,Golden Fork,FB,25.86,2,2026-05-18 13:37:05,food_court
+verdure,Verdure,BEAUTY,182.67,3,2026-05-05 17:01:33,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,54.75,1,2026-05-12 16:39:25,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,266.68,4,2026-06-01 19:22:41,entertainment
+atelier_m,Atelier M,BEAUTY,205.16,2,2026-05-02 10:55:27,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,45.38,2,2026-05-24 14:45:21,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,37.58,3,2026-05-22 20:11:52,food_court
+golden_fork,Golden Fork,FB,92.32,4,2026-05-02 12:30:52,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,44.33,3,2026-05-07 10:04:48,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,163.47,3,2026-05-26 18:38:37,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,171.86,3,2026-05-28 18:58:15,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,62.36,4,2026-05-06 12:41:47,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,100.33,2,2026-05-22 11:17:40,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,112.46,2,2026-05-29 21:17:50,beauty
+golden_fork,Golden Fork,FB,24.7,1,2026-05-23 12:33:48,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,52.27,1,2026-05-15 10:45:37,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,141.16,2,2026-05-05 14:38:51,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,158.57,2,2026-05-31 12:18:36,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,51.6,3,2026-05-07 19:36:44,food_court
+golden_fork,Golden Fork,FB,79.97,3,2026-05-16 11:06:18,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,58.28,1,2026-05-07 19:32:39,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,193.81,3,2026-05-25 17:08:38,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,191.82,3,2026-05-29 16:48:05,entertainment
+golden_fork,Golden Fork,FB,26.36,1,2026-05-24 17:32:55,food_court
+pace_step,PaceStep,SPORTING,168.88,2,2026-05-31 19:19:22,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,268.4,3,2026-05-24 18:59:19,entertainment
+golden_fork,Golden Fork,FB,16.98,1,2026-05-13 12:35:26,food_court
+atelier_m,Atelier M,BEAUTY,151.99,2,2026-05-23 20:06:41,beauty
+atelier_m,Atelier M,BEAUTY,247.53,4,2026-05-12 19:15:37,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,199.23,4,2026-05-07 12:15:15,beauty
+bloom_and_co,Bloom & Co,BEAUTY,126.76,2,2026-05-20 14:57:05,beauty
+atelier_m,Atelier M,BEAUTY,260.58,4,2026-05-28 16:26:30,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,53.0,1,2026-05-14 16:12:21,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,267.49,4,2026-05-18 13:35:29,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,291.29,4,2026-05-23 12:59:19,beauty
+atelier_m,Atelier M,BEAUTY,199.15,3,2026-06-01 19:42:24,beauty
+pace_step,PaceStep,SPORTING,106.73,2,2026-05-28 16:47:56,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,138.35,2,2026-05-19 10:22:10,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,94.85,1,2026-05-23 18:03:47,entertainment
+pace_step,PaceStep,SPORTING,50.77,1,2026-05-22 14:53:37,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,140.54,2,2026-05-14 21:15:15,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,59.5,1,2026-05-06 18:54:14,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,69.88,1,2026-05-29 11:48:27,entertainment
+pace_step,PaceStep,SPORTING,203.22,3,2026-05-11 19:01:50,sporting
+verdure,Verdure,BEAUTY,282.82,4,2026-05-04 10:32:49,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,274.16,4,2026-05-07 14:44:57,beauty
+atelier_m,Atelier M,BEAUTY,188.8,3,2026-05-04 11:19:50,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,62.5,4,2026-05-22 17:33:34,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,152.44,3,2026-05-20 10:38:03,beauty
+golden_fork,Golden Fork,FB,34.26,2,2026-05-26 14:35:09,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,190.7,2,2026-05-10 14:44:11,beauty
+apex_tech,Apex Tech,ELECTRONICS,285.83,4,2026-05-12 10:04:51,electronics
+bloom_and_co,Bloom & Co,BEAUTY,238.24,4,2026-05-27 19:24:42,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,143.6,2,2026-05-27 19:25:12,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,17.06,1,2026-05-05 16:50:59,food_court
+apex_tech,Apex Tech,ELECTRONICS,118.47,2,2026-05-26 10:36:41,electronics
+bloom_and_co,Bloom & Co,BEAUTY,56.07,1,2026-05-07 20:44:58,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,100.55,2,2026-05-04 20:45:14,entertainment
+pace_step,PaceStep,SPORTING,188.6,3,2026-05-27 17:21:17,sporting
+golden_fork,Golden Fork,FB,37.13,3,2026-05-08 17:07:47,food_court
+apex_tech,Apex Tech,ELECTRONICS,103.57,2,2026-05-06 16:01:35,electronics
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,169.82,3,2026-05-08 21:20:57,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,71.72,1,2026-05-04 15:56:06,beauty
+golden_fork,Golden Fork,FB,12.51,1,2026-05-21 10:16:22,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,108.15,2,2026-05-04 19:00:26,entertainment
+atelier_m,Atelier M,BEAUTY,198.57,4,2026-05-12 17:51:11,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,64.28,1,2026-05-11 11:18:32,beauty
+pace_step,PaceStep,SPORTING,59.24,1,2026-05-14 16:17:57,sporting
+pace_step,PaceStep,SPORTING,52.02,1,2026-05-25 17:20:42,sporting
+bloom_and_co,Bloom & Co,BEAUTY,91.23,1,2026-05-30 16:25:47,beauty
+apex_tech,Apex Tech,ELECTRONICS,58.07,1,2026-05-06 13:35:59,electronics
+bloom_and_co,Bloom & Co,BEAUTY,51.77,1,2026-05-28 17:25:33,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,13.02,1,2026-05-13 20:37:02,food_court
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,182.92,2,2026-05-16 18:20:53,entertainment
+pace_step,PaceStep,SPORTING,198.88,3,2026-05-21 17:09:55,sporting
+golden_fork,Golden Fork,FB,66.75,4,2026-05-29 19:41:07,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,63.19,4,2026-05-14 18:16:21,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,269.8,4,2026-05-11 14:44:48,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,265.64,4,2026-05-29 18:57:57,entertainment
+pace_step,PaceStep,SPORTING,274.35,3,2026-05-23 14:15:58,sporting
+verdure,Verdure,BEAUTY,52.3,1,2026-05-14 13:06:22,beauty
+atelier_m,Atelier M,BEAUTY,137.58,2,2026-05-26 21:49:16,beauty
+pace_step,PaceStep,SPORTING,54.21,1,2026-05-08 16:49:56,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,365.15,4,2026-05-30 11:47:24,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,70.25,1,2026-05-11 12:24:39,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,60.1,1,2026-05-29 13:31:33,beauty
+apex_tech,Apex Tech,ELECTRONICS,261.59,4,2026-05-20 19:16:20,electronics
+golden_fork,Golden Fork,FB,27.0,2,2026-05-28 18:27:44,food_court
+apex_tech,Apex Tech,ELECTRONICS,365.13,4,2026-05-03 20:59:36,electronics
+apex_tech,Apex Tech,ELECTRONICS,212.89,3,2026-05-25 17:42:31,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,37.42,3,2026-05-26 16:04:49,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,48.55,1,2026-05-15 21:55:03,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,200.81,3,2026-06-01 17:15:57,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,102.28,2,2026-05-28 14:09:27,beauty
+atelier_m,Atelier M,BEAUTY,99.33,1,2026-05-31 13:35:56,beauty
+pace_step,PaceStep,SPORTING,52.77,1,2026-05-04 12:09:18,sporting
+atelier_m,Atelier M,BEAUTY,225.06,4,2026-05-11 16:41:59,beauty
+pace_step,PaceStep,SPORTING,171.06,2,2026-05-24 18:57:41,sporting
+pace_step,PaceStep,SPORTING,269.34,3,2026-05-09 12:15:56,sporting
+bloom_and_co,Bloom & Co,BEAUTY,265.93,4,2026-05-28 21:29:19,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,252.76,4,2026-05-29 13:50:30,entertainment
+verdure,Verdure,BEAUTY,235.29,4,2026-05-07 10:18:25,beauty
+pace_step,PaceStep,SPORTING,185.63,3,2026-05-13 17:39:22,sporting
+apex_tech,Apex Tech,ELECTRONICS,95.36,1,2026-05-30 15:20:37,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,13.82,1,2026-05-07 20:26:49,food_court
+apex_tech,Apex Tech,ELECTRONICS,234.07,4,2026-05-22 20:15:17,electronics
+lumiere_beauty,Lumière Beauty,BEAUTY,345.62,4,2026-05-17 17:07:43,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,56.08,4,2026-05-28 18:42:13,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,161.66,3,2026-05-07 15:40:25,beauty
+apex_tech,Apex Tech,ELECTRONICS,50.45,1,2026-05-29 19:02:46,electronics
+brewpoint_coffee,Brewpoint Coffee,FB,88.55,4,2026-05-16 18:48:20,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,273.55,4,2026-05-04 10:27:39,beauty
+verdure,Verdure,BEAUTY,412.27,4,2026-05-23 21:18:38,beauty
+bloom_and_co,Bloom & Co,BEAUTY,132.74,2,2026-05-11 17:02:02,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,163.02,3,2026-05-28 20:25:55,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,14.86,1,2026-05-13 15:13:18,food_court
+apex_tech,Apex Tech,ELECTRONICS,53.26,1,2026-05-27 13:51:42,electronics
+apex_tech,Apex Tech,ELECTRONICS,147.6,3,2026-05-28 10:05:26,electronics
+bloom_and_co,Bloom & Co,BEAUTY,219.68,4,2026-05-15 18:09:42,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,13.97,1,2026-05-20 20:46:03,food_court
+golden_fork,Golden Fork,FB,17.8,1,2026-05-26 20:09:28,food_court
+golden_fork,Golden Fork,FB,41.31,3,2026-05-22 13:03:21,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,204.79,4,2026-05-26 21:28:59,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,109.5,2,2026-06-01 20:00:20,entertainment
+pace_step,PaceStep,SPORTING,69.92,1,2026-05-18 12:12:55,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,229.61,4,2026-05-20 21:23:46,beauty
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,264.5,4,2026-05-08 14:16:36,entertainment
+brewpoint_coffee,Brewpoint Coffee,FB,30.08,2,2026-05-21 11:47:41,food_court
+verdure,Verdure,BEAUTY,225.39,4,2026-05-05 18:20:16,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,277.54,4,2026-05-27 12:16:04,entertainment
+apex_tech,Apex Tech,ELECTRONICS,57.29,1,2026-05-15 10:08:29,electronics
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,57.24,1,2026-05-12 11:12:34,entertainment
+bloom_and_co,Bloom & Co,BEAUTY,98.63,2,2026-06-01 15:18:30,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,98.55,1,2026-05-16 21:33:42,entertainment
+pace_step,PaceStep,SPORTING,192.1,2,2026-05-03 16:14:18,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,60.66,1,2026-05-29 14:16:56,entertainment
+golden_fork,Golden Fork,FB,30.12,2,2026-05-28 12:27:59,food_court
+lumiere_beauty,Lumière Beauty,BEAUTY,142.62,2,2026-05-19 13:34:23,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,150.49,3,2026-05-19 14:04:45,entertainment
+atelier_m,Atelier M,BEAUTY,98.51,1,2026-05-16 14:43:07,beauty
+golden_fork,Golden Fork,FB,73.7,4,2026-05-17 19:02:45,food_court
+pixel_vault,PixelVault,ENTERTAINMENT,144.39,3,2026-05-19 10:58:11,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,174.29,3,2026-05-27 21:58:24,entertainment
+apex_tech,Apex Tech,ELECTRONICS,311.96,3,2026-05-23 19:44:35,electronics
+verdure,Verdure,BEAUTY,121.07,2,2026-05-06 21:52:04,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,63.2,1,2026-05-27 13:37:25,entertainment
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,143.12,2,2026-05-04 10:34:34,entertainment
+pixel_vault,PixelVault,ENTERTAINMENT,167.39,3,2026-05-13 16:57:37,entertainment
+pace_step,PaceStep,SPORTING,213.49,3,2026-05-21 14:07:03,sporting
+cineplex_grand,Cineplex Grand,ENTERTAINMENT,257.73,4,2026-05-27 17:52:36,entertainment
+verdure,Verdure,BEAUTY,249.17,4,2026-05-29 21:28:01,beauty
+pace_step,PaceStep,SPORTING,66.9,1,2026-05-22 10:00:54,sporting
+lumiere_beauty,Lumière Beauty,BEAUTY,62.09,1,2026-05-29 11:51:44,beauty
+verdure,Verdure,BEAUTY,62.62,1,2026-05-22 13:25:39,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,218.36,3,2026-05-03 17:17:58,beauty
+verdure,Verdure,BEAUTY,158.32,3,2026-05-08 17:41:01,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,61.74,1,2026-05-25 21:38:20,beauty
+verdure,Verdure,BEAUTY,174.74,2,2026-05-30 14:08:21,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,88.81,1,2026-05-24 19:07:23,beauty
+bloom_and_co,Bloom & Co,BEAUTY,96.59,1,2026-05-31 13:43:36,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,69.6,1,2026-05-20 19:02:58,beauty
+atelier_m,Atelier M,BEAUTY,170.62,3,2026-05-06 21:38:48,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,116.7,2,2026-06-01 13:00:17,beauty
+pixel_vault,PixelVault,ENTERTAINMENT,61.08,1,2026-05-08 14:01:13,entertainment
+apex_tech,Apex Tech,ELECTRONICS,129.58,2,2026-05-25 15:13:53,electronics
+verdure,Verdure,BEAUTY,69.85,1,2026-05-12 13:11:37,beauty
+atelier_m,Atelier M,BEAUTY,55.41,1,2026-05-27 10:23:35,beauty
+brewpoint_coffee,Brewpoint Coffee,FB,26.4,1,2026-05-24 16:04:02,food_court
+brewpoint_coffee,Brewpoint Coffee,FB,30.38,2,2026-05-13 19:14:00,food_court
+atelier_m,Atelier M,BEAUTY,91.05,1,2026-05-03 13:24:54,beauty
+golden_fork,Golden Fork,FB,24.28,1,2026-05-09 13:22:30,food_court
+verdure,Verdure,BEAUTY,67.35,1,2026-05-19 17:47:07,beauty
+lumiere_beauty,Lumière Beauty,BEAUTY,175.13,2,2026-05-17 18:45:46,beauty
+verdure,Verdure,BEAUTY,230.46,4,2026-05-11 21:43:57,beauty
+golden_fork,Golden Fork,FB,57.24,3,2026-05-03 18:59:01,food_court

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 100%; height: 100vh;
+  background: linear-gradient(135deg, #B91C1C 0%, #DC2626 50%, #EF4444 100%);
+  font-family: 'DM Sans', sans-serif;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body::before {
+  content: ''; position: absolute;
+  top: 0; left: 0; right: 0; height: 3px;
+  background: #FACC15;
+}
+body::after {
+  content: ''; position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: repeating-linear-gradient(
+    0deg, transparent, transparent 3px,
+    rgba(0,0,0,0.03) 3px, rgba(0,0,0,0.03) 4px
+  );
+  pointer-events: none; z-index: 100;
+}
+.accent-bottom {
+  position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+  background: #FACC15;
+}
+.corner { position: absolute; width: 16px; height: 16px; }
+.tl { top:10px; left:10px; border-top:2px solid #FACC15; border-left:2px solid #FACC15; }
+.tr { top:10px; right:10px; border-top:2px solid #FACC15; border-right:2px solid #FACC15; }
+.bl { bottom:10px; left:10px; border-bottom:2px solid #FACC15; border-left:2px solid #FACC15; }
+.br { bottom:10px; right:10px; border-bottom:2px solid #FACC15; border-right:2px solid #FACC15; }
+.logo-wrap {
+  position: absolute; top: 14px; left: 16px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 6px; padding: 6px 8px;
+  display: flex; align-items: center;
+}
+.logo-wrap img {
+  height: 32px; width: auto;
+  mix-blend-mode: multiply;
+  filter: brightness(1.2) contrast(1.05);
+}
+.pulse-brand {
+  position: absolute; bottom: 14px; right: 14px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 9px; letter-spacing: 2px;
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+}
+.content {
+  text-align: center;
+  padding: 0 40px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 10px;
+  margin-top: 20px;
+  position: relative;
+}
+.headline {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  color: #FACC15;
+  z-index: 2;
+}
+.subline {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  color: rgba(255,255,255,0.85);
+  line-height: 1.4;
+  z-index: 2;
+}
+.offer-badge {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 2px;
+  background: #FACC15;
+  color: #DC2626;
+  z-index: 2;
+}
+.burst {
+  position: absolute; width: 140px; height: 140px;
+  background: rgba(250,204,21,0.15);
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  opacity: 0.5;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%) rotate(15deg);
+  z-index: 1;
+  pointer-events: none;
+}
+</style>
+</head>
+<body>
+  <div class="corner tl"></div>
+  <div class="corner tr"></div>
+  <div class="corner bl"></div>
+  <div class="corner br"></div>
+  <div class="accent-bottom"></div>
+  <div class="logo-wrap">
+    <img src="/assets/logos/S23.png" alt="Golden Fork">
+  </div>
+  <div class="content">
+    <div class="burst"></div>
+    <div class="headline" style="font-size:42px">HOT. FAST. HERE.</div>
+    <div class="subline" style="font-size:15px">Meal deals from $8. Your favorites, ready in minutes.</div>
+    <div class="offer-badge">MEAL DEALS FROM $8</div>
+  </div>
+  <div class="pulse-brand">PULSE Campaign Active</div>
+</body>
+</html>

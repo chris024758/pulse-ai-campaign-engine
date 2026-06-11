@@ -1,0 +1,110 @@
+{
+  "mall": {
+    "name": "Galleria Dallas",
+    "lat": 32.8537,
+    "lng": -96.7731,
+    "dimensions": { "width": 120, "depth": 80 },
+    "floors": 2,
+    "floor_height": 8.5
+  },
+  "zones": [
+    { "id": "Z1", "name": "North Entrance Corridor", "floor": 1, "color": "#1E2A38", "store_ids": [] },
+    { "id": "Z2", "name": "West Ground Wing", "floor": 1, "color": "#00E5FF", "store_ids": ["S01", "S02", "S03", "S06"] },
+    { "id": "Z3", "name": "East Ground Wing", "floor": 1, "color": "#00FF88", "store_ids": ["S04", "S05", "S07"] },
+    { "id": "Z4", "name": "South Ground Wing", "floor": 1, "color": "#FFB800", "store_ids": ["S08", "S09", "S10", "S11", "S12"] },
+    { "id": "Z5", "name": "West Upper Wing", "floor": 2, "color": "#8800FF", "store_ids": ["S13", "S14", "S18", "S20"] },
+    { "id": "Z6", "name": "East Upper Wing", "floor": 2, "color": "#FF0088", "store_ids": ["S15", "S16", "S17", "S19", "S21"] },
+    { "id": "Z7", "name": "Food Court", "floor": 2, "color": "#FF6B35", "store_ids": ["S22", "S23", "S24", "S25"] },
+    { "id": "Z8", "name": "North Upper Strip", "floor": 2, "color": "#1A1F2E", "store_ids": [] },
+    { "id": "Z9", "name": "Central Atrium Corridor", "floor": 1, "color": "#0D1117", "store_ids": [] }
+  ],
+  "stores": [
+    { "id": "S01", "name": "Maison Varlo", "category": "FASHION", "zone_id": "Z2", "floor": 1, "pos_system": "SHOPIFY", "position": { "x": -48, "z": -25 }, "size": { "w": 18, "d": 12 } },
+    { "id": "S02", "name": "Nordvik", "category": "FASHION", "zone_id": "Z2", "floor": 1, "pos_system": "SHOPIFY", "position": { "x": -28, "z": -25 }, "size": { "w": 18, "d": 12 } },
+    { "id": "S03", "name": "Common Thread", "category": "FASHION", "zone_id": "Z2", "floor": 1, "pos_system": "SHOPIFY", "position": { "x": -8, "z": -25 }, "size": { "w": 14, "d": 12 } },
+    { "id": "S04", "name": "Vertex Athletics", "category": "SPORTING", "zone_id": "Z3", "floor": 1, "pos_system": "LIGHTSPEED", "position": { "x": 8, "z": -25 }, "size": { "w": 14, "d": 12 } },
+    { "id": "S05", "name": "Stridecore", "category": "SPORTING", "zone_id": "Z3", "floor": 1, "pos_system": "LIGHTSPEED", "position": { "x": 28, "z": -25 }, "size": { "w": 18, "d": 12 } },
+    { "id": "S06", "name": "Lumière Beauty", "category": "BEAUTY", "zone_id": "Z2", "floor": 1, "pos_system": "SQUARE", "position": { "x": -48, "z": -5 }, "size": { "w": 16, "d": 14 } },
+    { "id": "S07", "name": "Apex Tech", "category": "ELECTRONICS", "zone_id": "Z3", "floor": 1, "pos_system": "LIGHTSPEED", "position": { "x": 48, "z": -5 }, "size": { "w": 16, "d": 14 } },
+    { "id": "S08", "name": "PaceStep", "category": "SPORTING", "zone_id": "Z4", "floor": 1, "pos_system": "SQUARE", "position": { "x": -42, "z": 25 }, "size": { "w": 16, "d": 12 } },
+    { "id": "S09", "name": "PixelVault", "category": "ELECTRONICS", "zone_id": "Z4", "floor": 1, "pos_system": "SQUARE", "position": { "x": -14, "z": 30 }, "size": { "w": 14, "d": 10 } },
+    { "id": "S10", "name": "Levi & Co", "category": "FASHION", "zone_id": "Z4", "floor": 1, "pos_system": "SHOPIFY", "position": { "x": -28, "z": 30 }, "size": { "w": 14, "d": 10 } },
+    { "id": "S11", "name": "Solène", "category": "FASHION", "zone_id": "Z4", "floor": 1, "pos_system": "SHOPIFY", "position": { "x": 14, "z": 30 }, "size": { "w": 14, "d": 10 } },
+    { "id": "S12", "name": "Arca", "category": "FASHION", "zone_id": "Z4", "floor": 1, "pos_system": "SHOPIFY", "position": { "x": 38, "z": 25 }, "size": { "w": 18, "d": 12 } },
+    { "id": "S13", "name": "Circuit World", "category": "ELECTRONICS", "zone_id": "Z5", "floor": 2, "pos_system": "LIGHTSPEED", "position": { "x": -42, "z": -35 }, "size": { "w": 20, "d": 14 } },
+    { "id": "S14", "name": "Glassline", "category": "ELECTRONICS", "zone_id": "Z5", "floor": 2, "pos_system": "LIGHTSPEED", "position": { "x": -14, "z": -35 }, "size": { "w": 18, "d": 14 } },
+    { "id": "S15", "name": "Aero Home", "category": "ELECTRONICS", "zone_id": "Z6", "floor": 2, "pos_system": "LIGHTSPEED", "position": { "x": 8, "z": -35 }, "size": { "w": 14, "d": 14 } },
+    { "id": "S16", "name": "Celeste Jewels", "category": "JEWELRY", "zone_id": "Z6", "floor": 2, "pos_system": "SQUARE", "position": { "x": 28, "z": -35 }, "size": { "w": 14, "d": 14 } },
+    { "id": "S17", "name": "Aurel", "category": "JEWELRY", "zone_id": "Z6", "floor": 2, "pos_system": "SQUARE", "position": { "x": 46, "z": -35 }, "size": { "w": 16, "d": 14 } },
+    { "id": "S18", "name": "Atelier M", "category": "BEAUTY", "zone_id": "Z5", "floor": 2, "pos_system": "SQUARE", "position": { "x": -52, "z": -5 }, "size": { "w": 14, "d": 12 } },
+    { "id": "S19", "name": "Verdure", "category": "BEAUTY", "zone_id": "Z6", "floor": 2, "pos_system": "SQUARE", "position": { "x": 52, "z": -5 }, "size": { "w": 14, "d": 12 } },
+    { "id": "S20", "name": "Karat & Co", "category": "JEWELRY", "zone_id": "Z5", "floor": 2, "pos_system": "SQUARE", "position": { "x": -52, "z": 12 }, "size": { "w": 14, "d": 12 } },
+    { "id": "S21", "name": "Bath Body Works", "category": "BEAUTY", "zone_id": "Z6", "floor": 2, "pos_system": "SQUARE", "position": { "x": 52, "z": 12 }, "size": { "w": 14, "d": 12 } },
+    { "id": "S22", "name": "Brewpoint Coffee", "category": "FB", "zone_id": "Z7", "floor": 2, "pos_system": "TOAST", "position": { "x": -36, "z": 20 }, "size": { "w": 16, "d": 14 } },
+    { "id": "S23", "name": "Golden Fork", "category": "FB", "zone_id": "Z7", "floor": 2, "pos_system": "TOAST", "position": { "x": -14, "z": 20 }, "size": { "w": 16, "d": 14 } },
+    { "id": "S24", "name": "Mesa Grill", "category": "FB", "zone_id": "Z7", "floor": 2, "pos_system": "TOAST", "position": { "x": 10, "z": 20 }, "size": { "w": 16, "d": 14 } },
+    { "id": "S25", "name": "Lotus Kitchen", "category": "FB", "zone_id": "Z7", "floor": 2, "pos_system": "TOAST", "position": { "x": 32, "z": 20 }, "size": { "w": 16, "d": 14 } }
+  ],
+  "ad_screens": [
+    { "id": "AD-ENT-N1", "location": "Entrance North Left", "floor": 1, "position": { "x": -11, "y": 3, "z": -49 }, "faces": "south", "size": { "w": 6.3, "h": 3.5 }, "is_exterior": false },
+    { "id": "AD-ENT-N2", "location": "Entrance North Right", "floor": 1, "position": { "x": 11, "y": 3, "z": -49 }, "faces": "south", "size": { "w": 6.3, "h": 3.5 }, "is_exterior": false },
+    { "id": "AD-ENT-S1", "location": "Entrance South Left", "floor": 1, "position": { "x": -11, "y": 3, "z": 49 }, "faces": "north", "size": { "w": 6.3, "h": 3.5 }, "is_exterior": false },
+    { "id": "AD-ENT-S2", "location": "Entrance South Right", "floor": 1, "position": { "x": 11, "y": 3, "z": 49 }, "faces": "north", "size": { "w": 6.3, "h": 3.5 }, "is_exterior": false },
+    { "id": "AD-FL2-NW", "location": "Second Floor North-West", "floor": 2, "position": { "x": -55, "y": 13.5, "z": -30 }, "faces": "east", "size": { "w": 8.4, "h": 4.76 }, "is_exterior": false },
+    { "id": "AD-FL2-NE", "location": "Second Floor North-East", "floor": 2, "position": { "x": 55, "y": 13.5, "z": -30 }, "faces": "west", "size": { "w": 8.4, "h": 4.76 }, "is_exterior": false },
+    { "id": "AD-FL2-SW", "location": "Second Floor South-West", "floor": 2, "position": { "x": -55, "y": 13.5, "z": 20 }, "faces": "east", "size": { "w": 8.4, "h": 4.76 }, "is_exterior": false },
+    { "id": "AD-FL2-SE", "location": "Second Floor South-East", "floor": 2, "position": { "x": 55, "y": 13.5, "z": 20 }, "faces": "west", "size": { "w": 8.4, "h": 4.76 }, "is_exterior": false },
+    {
+      "id": "AD-PRK-NEW",
+      "location": "East Parking Lot",
+      "floor": 1,
+      "position": { "x": 80, "y": 6, "z": -28 },
+      "faces": "north",
+      "size": { "w": 11.2, "h": 6.3 },
+      "is_exterior": true,
+      "zone": "Z3"
+    }
+  ],
+  "escalators": [
+    { "id": "esc_west", "position": { "x": -20, "z": -5 }, "floor_connects": [1, 2] },
+    { "id": "esc_east", "position": { "x": 20, "z": -5 }, "floor_connects": [1, 2] }
+  ],
+  "entrances": [
+    { "id": "entrance_north", "position": { "x": 0, "z": -40 }, "width": 16 },
+    { "id": "entrance_south", "position": { "x": 0, "z": 40 }, "width": 16 }
+  ],
+  "atrium": {
+    "position": { "x": 0, "z": -5 },
+    "size": { "w": 30, "d": 24 }
+  },
+  "cinema": {
+    "name": "Cineplex Grand",
+    "position": { "x": 80, "z": 0 },
+    "size": { "w": 40, "d": 50, "h": 14 },
+    "connection": {
+      "type": "corridor",
+      "position": { "x": 62, "z": 0 },
+      "width": 12,
+      "depth": 4
+    },
+    "screening_rooms": [
+      { "id": 1, "position": { "x": 89, "z": -15 }, "capacity": 180 },
+      { "id": 2, "position": { "x": 89, "z": 0 },   "capacity": 220 },
+      { "id": 3, "position": { "x": 89, "z": 15 },  "capacity": 150 }
+    ],
+    "zones": ["cinema_lobby", "cinema_screens"],
+    "ad_screens": ["AD-PRK-NEW"],
+    "external_entrance": { "face": "north", "position": { "x": 80, "z": -25 } }
+  },
+  "zone_screen_routing": {
+    "Z7": ["AD-FL2-SW", "AD-FL2-SE"],
+    "Z6": ["AD-FL2-NE", "AD-FL2-SE"],
+    "Z5": ["AD-FL2-NW", "AD-FL2-SW"],
+    "Z2": ["AD-ENT-N1", "AD-FL2-NW"],
+    "Z3": ["AD-ENT-N2", "AD-FL2-NE", "AD-PRK-NEW"],
+    "Z4": ["AD-ENT-S1", "AD-ENT-S2"],
+    "Z1": ["AD-ENT-N1", "AD-ENT-N2"],
+    "Z8": ["AD-FL2-NW", "AD-FL2-NE"],
+    "cinema": ["AD-PRK-NEW"]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "micro_seasons": [
+    {
+      "id": "new_year_resolution",
+      "name": "New Year Resolution Season",
+      "start": "01-01",
+      "end": "01-21",
+      "weight": 0.75,
+      "categories": [
+        "SPORTING",
+        "BEAUTY",
+        "FASHION"
+      ],
+      "angle": "New year new you \u2014 fitness goals, fresh looks, healthy habits",
+      "emoji": "\ud83c\udfaf"
+    },
+    {
+      "id": "tax_refund_season",
+      "name": "Tax Refund Season",
+      "start": "01-25",
+      "end": "03-15",
+      "weight": 0.8,
+      "categories": [
+        "ELECTRONICS",
+        "FASHION",
+        "JEWELRY"
+      ],
+      "angle": "Tax refund in hand \u2014 treat yourself to something real",
+      "emoji": "\ud83d\udcb8"
+    },
+    {
+      "id": "super_bowl",
+      "name": "Super Bowl Week",
+      "start": "02-03",
+      "end": "02-09",
+      "weight": 0.85,
+      "categories": [
+        "SPORTING",
+        "ELECTRONICS",
+        "FB"
+      ],
+      "angle": "Game day ready \u2014 gear up, watch party essentials, celebrate",
+      "emoji": "\ud83c\udfc8"
+    },
+    {
+      "id": "valentines_day",
+      "name": "Valentine's Day",
+      "start": "02-07",
+      "end": "02-14",
+      "weight": 0.95,
+      "categories": [
+        "JEWELRY",
+        "BEAUTY",
+        "FB"
+      ],
+      "angle": "Show them you mean it \u2014 gifts that say more than words",
+      "emoji": "\ud83d\udc9d"
+    },
+    {
+      "id": "presidents_day",
+      "name": "Presidents Day Weekend",
+      "start": "02-15",
+      "end": "02-17",
+      "weight": 0.6,
+      "categories": [
+        "ELECTRONICS",
+        "FASHION",
+        "FB"
+      ],
+      "angle": "Long weekend sales \u2014 the best deals of February",
+      "emoji": "\ud83c\uddfa\ud83c\uddf8"
+    },
+    {
+      "id": "spring_break",
+      "name": "Spring Break",
+      "start": "03-08",
+      "end": "03-22",
+      "weight": 0.78,
+      "categories": [
+        "FASHION",
+        "BEAUTY",
+        "SPORTING"
+      ],
+      "angle": "Spring break ready \u2014 fresh fits, beach gear, vacation vibes",
+      "emoji": "\ud83c\udf0a"
+    },
+    {
+      "id": "prom_season",
+      "name": "Prom Season",
+      "start": "04-01",
+      "end": "05-15",
+      "weight": 0.72,
+      "categories": [
+        "FASHION",
+        "BEAUTY",
+        "JEWELRY"
+      ],
+      "angle": "Prom night perfect \u2014 dress, accessories, beauty all in one place",
+      "emoji": "\ud83d\udc57"
+    },
+    {
+      "id": "easter",
+      "name": "Easter Weekend",
+      "start": "04-17",
+      "end": "04-20",
+      "weight": 0.75,
+      "categories": [
+        "FASHION",
+        "FB",
+        "BEAUTY"
+      ],
+      "angle": "Easter Sunday best \u2014 new outfits, family brunch, spring celebration",
+      "emoji": "\ud83d\udc23"
+    },
+    {
+      "id": "nba_playoffs",
+      "name": "NBA Playoffs Season",
+      "start": "04-19",
+      "end": "06-15",
+      "weight": 0.7,
+      "categories": [
+        "SPORTING",
+        "ELECTRONICS",
+        "FB"
+      ],
+      "angle": "Playoff energy \u2014 sports gear, screens, and game day food",
+      "emoji": "\ud83c\udfc0"
+    },
+    {
+      "id": "mothers_day",
+      "name": "Mother's Day",
+      "start": "05-04",
+      "end": "05-11",
+      "weight": 0.95,
+      "categories": [
+        "JEWELRY",
+        "BEAUTY",
+        "FASHION",
+        "FB"
+      ],
+      "angle": "Celebrate mom \u2014 the woman who deserves everything and more",
+      "emoji": "\ud83d\udc90"
+    },
+    {
+      "id": "memorial_day",
+      "name": "Memorial Day Weekend",
+      "start": "05-23",
+      "end": "05-26",
+      "weight": 0.78,
+      "categories": [
+        "SPORTING",
+        "FASHION",
+        "ELECTRONICS"
+      ],
+      "angle": "Memorial Day sales \u2014 summer kickoff, big deals, outdoor gear",
+      "emoji": "\ud83c\udfdd"
+    },
+    {
+      "id": "graduation_season",
+      "name": "Graduation Season",
+      "start": "05-10",
+      "end": "06-10",
+      "weight": 0.82,
+      "categories": [
+        "ELECTRONICS",
+        "JEWELRY",
+        "FASHION"
+      ],
+      "angle": "Celebrate their achievement \u2014 gifts that mark the milestone",
+      "emoji": "\ud83c\udf93"
+    },
+    {
+      "id": "fathers_day",
+      "name": "Father's Day",
+      "start": "06-08",
+      "end": "06-15",
+      "weight": 0.92,
+      "categories": [
+        "JEWELRY",
+        "ELECTRONICS",
+        "SPORTING",
+        "FB"
+      ],
+      "angle": "Dad deserves the best \u2014 premium gifts for the man who has everything",
+      "emoji": "\ud83d\udc54"
+    },
+    {
+      "id": "fourth_of_july",
+      "name": "Independence Day",
+      "start": "07-01",
+      "end": "07-04",
+      "weight": 0.85,
+      "categories": [
+        "FB",
+        "FASHION",
+        "ENTERTAINMENT"
+      ],
+      "angle": "4th of July \u2014 celebrate America with food, fashion, and fun",
+      "emoji": "\ud83c\udf86"
+    },
+    {
+      "id": "back_to_school",
+      "name": "Back to School",
+      "start": "07-20",
+      "end": "08-31",
+      "weight": 0.92,
+      "categories": [
+        "ELECTRONICS",
+        "FASHION",
+        "SPORTING"
+      ],
+      "angle": "Back to school ready \u2014 everything they need for a great year",
+      "emoji": "\ud83c\udf92"
+    },
+    {
+      "id": "back_to_college",
+      "name": "Back to College",
+      "start": "08-01",
+      "end": "09-05",
+      "weight": 0.82,
+      "categories": [
+        "ELECTRONICS",
+        "FASHION",
+        "FB"
+      ],
+      "angle": "College move-in season \u2014 tech, bedding, and everything in between",
+      "emoji": "\ud83c\udfeb"
+    },
+    {
+      "id": "labor_day",
+      "name": "Labor Day Weekend",
+      "start": "08-30",
+      "end": "09-01",
+      "weight": 0.75,
+      "categories": [
+        "FASHION",
+        "ELECTRONICS",
+        "FB"
+      ],
+      "angle": "Labor Day sales \u2014 end of summer deals and fall preview",
+      "emoji": "\ud83d\udd28"
+    },
+    {
+      "id": "nfl_season",
+      "name": "NFL Season",
+      "start": "09-07",
+      "end": "01-12",
+      "weight": 0.72,
+      "categories": [
+        "SPORTING",
+        "ELECTRONICS",
+        "FB"
+      ],
+      "angle": "Football season is here \u2014 gear up, watch party ready",
+      "emoji": "\ud83c\udfc8"
+    },
+    {
+      "id": "fall_fashion",
+      "name": "Fall Fashion Season",
+      "start": "09-01",
+      "end": "10-15",
+      "weight": 0.75,
+      "categories": [
+        "FASHION",
+        "BEAUTY"
+      ],
+      "angle": "Fall collection is here \u2014 rich colors, layered looks, cozy textures",
+      "emoji": "\ud83c\udf42"
+    },
+    {
+      "id": "halloween",
+      "name": "Halloween Season",
+      "start": "10-10",
+      "end": "10-31",
+      "weight": 0.85,
+      "categories": [
+        "ENTERTAINMENT",
+        "BEAUTY",
+        "FB"
+      ],
+      "angle": "Halloween ready \u2014 costumes, bold looks, treats and games",
+      "emoji": "\ud83c\udf83"
+    },
+    {
+      "id": "veterans_day",
+      "name": "Veterans Day",
+      "start": "11-09",
+      "end": "11-11",
+      "weight": 0.6,
+      "categories": [
+        "FASHION",
+        "FB"
+      ],
+      "angle": "Honor and celebrate \u2014 special offers for our veterans",
+      "emoji": "\ud83c\udf96"
+    },
+    {
+      "id": "thanksgiving",
+      "name": "Thanksgiving Week",
+      "start": "11-24",
+      "end": "11-27",
+      "weight": 0.9,
+      "categories": [
+        "FB",
+        "FASHION"
+      ],
+      "angle": "Thanksgiving feast \u2014 family dining, festive outfits, grateful moments",
+      "emoji": "\ud83e\udd83"
+    },
+    {
+      "id": "black_friday",
+      "name": "Black Friday",
+      "start": "11-28",
+      "end": "11-29",
+      "weight": 1.0,
+      "categories": [
+        "ELECTRONICS",
+        "FASHION",
+        "JEWELRY",
+        "BEAUTY",
+        "SPORTING"
+      ],
+      "angle": "Biggest deals of the year \u2014 every category, unbeatable prices",
+      "emoji": "\u26a1"
+    },
+    {
+      "id": "cyber_monday",
+      "name": "Cyber Monday",
+      "start": "12-01",
+      "end": "12-02",
+      "weight": 0.88,
+      "categories": [
+        "ELECTRONICS"
+      ],
+      "angle": "Tech deals continue \u2014 gadgets and devices at their lowest prices",
+      "emoji": "\ud83d\udcbb"
+    },
+    {
+      "id": "christmas_gifting",
+      "name": "Christmas Gifting Season",
+      "start": "12-01",
+      "end": "12-24",
+      "weight": 0.98,
+      "categories": [
+        "JEWELRY",
+        "ELECTRONICS",
+        "FASHION",
+        "BEAUTY",
+        "FB"
+      ],
+      "angle": "The most wonderful time to shop \u2014 perfect gifts for everyone on the list",
+      "emoji": "\ud83c\udf84"
+    },
+    {
+      "id": "christmas_week",
+      "name": "Christmas Week",
+      "start": "12-22",
+      "end": "12-25",
+      "weight": 0.95,
+      "categories": [
+        "FB",
+        "ENTERTAINMENT"
+      ],
+      "angle": "Christmas is here \u2014 family time, festive dining, last minute magic",
+      "emoji": "\ud83c\udf85"
+    },
+    {
+      "id": "new_year_eve",
+      "name": "New Year's Eve",
+      "start": "12-26",
+      "end": "12-31",
+      "weight": 0.88,
+      "categories": [
+        "FASHION",
+        "BEAUTY",
+        "FB",
+        "JEWELRY"
+      ],
+      "angle": "Ring in the new year \u2014 glamour, celebration, and fresh starts",
+      "emoji": "\ud83e\udd42"
+    }
+  ],
+  "payday_reference_date": "2026-01-02",
+  "dallas_seasonal_weather": {
+    "1": {
+      "avg_temp_f": 45,
+      "conditions": "cold and cloudy",
+      "rain_chance": 0.35,
+      "mood": "cold_comfort"
+    },
+    "2": {
+      "avg_temp_f": 50,
+      "conditions": "cool with rain",
+      "rain_chance": 0.4,
+      "mood": "cold_comfort"
+    },
+    "3": {
+      "avg_temp_f": 60,
+      "conditions": "mild and breezy",
+      "rain_chance": 0.3,
+      "mood": "spring_fresh"
+    },
+    "4": {
+      "avg_temp_f": 68,
+      "conditions": "warm and pleasant",
+      "rain_chance": 0.25,
+      "mood": "spring_fresh"
+    },
+    "5": {
+      "avg_temp_f": 76,
+      "conditions": "warm and sunny",
+      "rain_chance": 0.2,
+      "mood": "summer_energy"
+    },
+    "6": {
+      "avg_temp_f": 84,
+      "conditions": "hot and sunny",
+      "rain_chance": 0.15,
+      "mood": "summer_energy"
+    },
+    "7": {
+      "avg_temp_f": 90,
+      "conditions": "very hot",
+      "rain_chance": 0.1,
+      "mood": "summer_heat"
+    },
+    "8": {
+      "avg_temp_f": 92,
+      "conditions": "very hot and humid",
+      "rain_chance": 0.12,
+      "mood": "summer_heat"
+    },
+    "9": {
+      "avg_temp_f": 82,
+      "conditions": "warm, slight breeze",
+      "rain_chance": 0.18,
+      "mood": "fall_transition"
+    },
+    "10": {
+      "avg_temp_f": 68,
+      "conditions": "cool and pleasant",
+      "rain_chance": 0.25,
+      "mood": "fall_cozy"
+    },
+    "11": {
+      "avg_temp_f": 55,
+      "conditions": "cool and overcast",
+      "rain_chance": 0.35,
+      "mood": "fall_cozy"
+    },
+    "12": {
+      "avg_temp_f": 45,
+      "conditions": "cold, possible rain",
+      "rain_chance": 0.38,
+      "mood": "cold_comfort"
+    }
+  },
+  "version": "2026",
+  "payday_note": "Bi-weekly Fridays calculated from Jan 2 2026. Government paydays on 1st and 15th of each month."
+}

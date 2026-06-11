@@ -1,0 +1,37 @@
+steps:
+  # 1. Build the container image
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'build'
+      - '-t'
+      - 'us-central1-docker.pkg.dev/$PROJECT_ID/pulse-repo/pulse-app:$COMMIT_SHA'
+      - '.'
+
+  # 2. Push the container image to Artifact Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'push'
+      - 'us-central1-docker.pkg.dev/$PROJECT_ID/pulse-repo/pulse-app:$COMMIT_SHA'
+
+  # 3. Deploy container image to Cloud Run with environment variables from GCP Secret Manager
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'pulse-engine'
+      - '--image'
+      - 'us-central1-docker.pkg.dev/$PROJECT_ID/pulse-repo/pulse-app:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'ENVIRONMENT=production,MALL_NAME=Galleria Dallas,MALL_LAT=32.8537,MALL_LNG=-96.7731,MALL_TIMEZONE=America/Chicago'
+      # Referencing GCP Secrets mounted at runtime
+      - '--set-secrets'
+      - 'GEMINI_API_KEY=GEMINI_API_KEY:latest,FIVETRAN_API_KEY=FIVETRAN_API_KEY:latest,FIVETRAN_GROUP_ID=FIVETRAN_GROUP_ID:latest'
+
+images:
+  - 'us-central1-docker.pkg.dev/$PROJECT_ID/pulse-repo/pulse-app:$COMMIT_SHA'

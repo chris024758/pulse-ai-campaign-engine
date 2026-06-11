@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PULSE TTS Test</title>
+    <style>
+        body {
+            font-family: monospace;
+            background: #0A0F16;
+            color: #E8ECF1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            gap: 20px;
+        }
+        button {
+            padding: 12px 24px;
+            background: #00E5FF;
+            color: #080C10;
+            border: none;
+            border-radius: 6px;
+            font-family: monospace;
+            font-size: 14px;
+            font-weight: bold;
+            cursor: pointer;
+            letter-spacing: 1px;
+        }
+        button:hover { opacity: 0.85; }
+        #status {
+            font-size: 12px;
+            color: #6B7A8D;
+        }
+    </style>
+</head>
+<body>
+    <h2>PULSE TTS Audio Test</h2>
+
+    <button onclick="playTest()">
+        ▶ PLAY TEST ANNOUNCEMENT
+    </button>
+
+    <button onclick="playDummy()">
+        ▶ PLAY DUMMY FALLBACK (MP3)
+    </button>
+
+    <div id="status">Click a button to test audio</div>
+
+    <script>
+        function playTest() {
+            const status = document.getElementById('status');
+            status.innerText = 'Loading WAV...';
+            const audio = new Audio(
+                '/assets/audio/test_tts.wav'
+            );
+            audio.play()
+                .then(() => {
+                    status.innerText =
+                        '✅ Playing WAV — Despina voice';
+                    status.style.color = '#00FF88';
+                })
+                .catch(err => {
+                    status.innerText = '❌ Error: ' + err;
+                    status.style.color = '#FF4444';
+                });
+            audio.onended = () => {
+                status.innerText = '✅ Finished playing';
+            };
+        }
+
+        function playDummy() {
+            const status = document.getElementById('status');
+            status.innerText = 'Loading MP3...';
+            const audio = new Audio(
+                '/assets/audio/announcement.mp3'
+            );
+            audio.play()
+                .then(() => {
+                    status.innerText =
+                        '✅ Playing MP3 fallback';
+                    status.style.color = '#00FF88';
+                })
+                .catch(err => {
+                    status.innerText = '❌ Error: ' + err;
+                    status.style.color = '#FF4444';
+                });
+            audio.onended = () => {
+                status.innerText = '✅ Finished playing';
+            };
+        }
+    </script>
+</body>
+</html>

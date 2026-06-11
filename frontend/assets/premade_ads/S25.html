@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=DM+Sans:wght@300;400;500&display=swap');
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  width: 100%; height: 100vh;
+  background: linear-gradient(135deg, #991B1B 0%, #B91C1C 50%, #C92424 100%);
+  font-family: 'DM Sans', sans-serif;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+body::before {
+  content: ''; position: absolute;
+  top: 0; left: 0; right: 0; height: 3px;
+  background: #D4A017;
+}
+body::after {
+  content: ''; position: fixed;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: repeating-linear-gradient(
+    0deg, transparent, transparent 3px,
+    rgba(0,0,0,0.03) 3px, rgba(0,0,0,0.03) 4px
+  );
+  pointer-events: none; z-index: 100;
+}
+.accent-bottom {
+  position: absolute; bottom: 0; left: 0; right: 0; height: 3px;
+  background: #D4A017;
+}
+.corner { position: absolute; width: 16px; height: 16px; }
+.tl { top:10px; left:10px; border-top:2px solid #D4A017; border-left:2px solid #D4A017; }
+.tr { top:10px; right:10px; border-top:2px solid #D4A017; border-right:2px solid #D4A017; }
+.bl { bottom:10px; left:10px; border-bottom:2px solid #D4A017; border-left:2px solid #D4A017; }
+.br { bottom:10px; right:10px; border-bottom:2px solid #D4A017; border-right:2px solid #D4A017; }
+.logo-wrap {
+  position: absolute; top: 14px; left: 16px;
+  background: rgba(0,0,0,0.3);
+  border-radius: 6px; padding: 6px 8px;
+  display: flex; align-items: center;
+}
+.logo-wrap img {
+  height: 32px; width: auto;
+  mix-blend-mode: multiply;
+  filter: brightness(1.2) contrast(1.05);
+}
+.pulse-brand {
+  position: absolute; bottom: 14px; right: 14px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 9px; letter-spacing: 2px;
+  color: rgba(255,255,255,0.3);
+  text-transform: uppercase;
+}
+.content {
+  text-align: center;
+  padding: 0 40px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 10px;
+  margin-top: 20px;
+}
+.headline {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  line-height: 1.1;
+  color: #D4A017;
+}
+.subline {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 300;
+  color: rgba(255,255,255,0.75);
+  line-height: 1.4;
+}
+.offer-badge {
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: 700;
+  font-size: 11px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding: 5px 14px;
+  border-radius: 2px;
+  background: #D4A017;
+  color: #B91C1C;
+}
+.lotus { display:flex; gap:6px; align-items:center; opacity:0.5; margin-bottom: 5px; }
+.petal-d {
+  width: 14px; height: 14px;
+  background: #D4A017;
+  transform: rotate(45deg);
+  border-radius: 2px;
+}
+</style>
+</head>
+<body>
+  <div class="corner tl"></div>
+  <div class="corner tr"></div>
+  <div class="corner bl"></div>
+  <div class="corner br"></div>
+  <div class="accent-bottom"></div>
+  <div class="logo-wrap">
+    <img src="/assets/logos/S25.png" alt="Lotus Kitchen">
+  </div>
+  <div class="content">
+    <div class="lotus">
+      <div class="petal-d" style="transform:rotate(45deg) scale(0.7)"></div>
+      <div class="petal-d" style="transform:rotate(45deg) scale(1)"></div>
+      <div class="petal-d" style="transform:rotate(45deg) scale(0.7)"></div>
+    </div>
+    <div class="headline" style="font-size:38px">SHARE SOMETHING GOOD</div>
+    <div class="subline" style="font-size:15px">Family platters and group dining. Always abundant.</div>
+    <div class="offer-badge">FAMILY PLATTERS AVAILABLE</div>
+  </div>
+  <div class="pulse-brand">PULSE Campaign Active</div>
+</body>
+</html>
