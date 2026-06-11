@@ -99,9 +99,4 @@ Queries are contained inside `tools/bigquery_tools.py` and analyze:
 - Historic transaction lift correlation curves.
 - Zone footfall sensor density anomalies.
 
-## Judge Sandbox
-Using the **Judge Trigger Sandbox** in the lower right of the dashboard, you can trigger manual override goals. E.g.:
-* *"Trigger a rain campaign for Zara because of heavy storms"*
-* *"Boost food court traffic during a weekend payday rush"*
 
-Watch the live agent reasoning logs stream in real-time, the 3D mall zones light up, and the digital billboard generate context-aware image advertisements dynamically.
